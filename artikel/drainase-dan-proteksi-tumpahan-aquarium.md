@@ -1,9 +1,10 @@
 ---
 article_id: AKU-13-04
-title: "Drainase Darurat dan Proteksi Tumpahan"
+title: "Drainase Darurat dan Proteksi Tumpahan Aquarium"
 slug: "drainase-dan-proteksi-tumpahan-aquarium"
-description: "Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure."
-status: outline
+description: "Cara mencatat jalur tumpahan, penampungan, drainase, overflow, sump, floor drain, waterproofing, sensor, dan rencana respons aquarium."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +15,27 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/drainase-dan-proteksi-tumpahan-aquarium.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://research.fs.usda.gov/treesearch/7148"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
   - "https://simbg.pu.go.id/"
-  - "https://pesta.bsn.go.id/produk/detail/12306-sni28472019"
-  - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12305-sni17262019"
   - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
-  - "https://www.fao.org/fishery/en/aquaculture"
-  - "https://www.iso.org/standard/80526.html"
-  - "https://www.iso.org/standard/73355.html"
   - "https://webstore.iec.ch/en/publication/1897"
   - "https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman"
+  - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Drainase Darurat dan Proteksi Tumpahan Aquarium
 
-# Drainase Darurat dan Proteksi Tumpahan
+Halo, Teman Kaca.co.id!
 
-## Assignment lock
+Proteksi tumpahan aquarium bukan berarti menjanjikan air tidak akan pernah keluar dari bak. Tujuannya adalah mengurangi akibat bila air keluar: tahu ke mana air mungkin bergerak, bagian mana yang perlu ditahan atau dilindungi, bagaimana kondisi itu diketahui, siapa yang merespons, dan bukti apa yang disimpan. Satu floor drain, satu sensor, atau satu lapis waterproofing tidak otomatis cukup tanpa melihat seluruh lokasi dan jalur airnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Drainase Darurat dan Proteksi Tumpahan”
-- **Reader and situation:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Reader outcome:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Primary intent:** Limit damage through containment, drainage, sensors, and response plans.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns spill mitigation; seam integrity belongs to AKU-05.
-- **Final public route:** `/artikel/drainase-dan-proteksi-tumpahan-aquarium.html`
-- **Appointed CMS date:** `2026-05-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Drainase adalah jalur pengelolaan air. Overflow adalah jalur luapan; sump adalah wadah atau ruang penampung bagian sistem; floor drain ialah saluran lantai; sedangkan waterproofing adalah lapisan atau sistem pelindung air. Semua istilah ini perlu diterjemahkan ke gambar, elevasi, bahan, akses, dan kondisi lokasi yang nyata. Artikel ini membantu mengatur pertanyaan mitigasi, bukan menetapkan kapasitas drainase atau persyaratan bangunan.
 
-## Opening instructions
+![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Drainase Darurat dan Proteksi Tumpahan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -72,180 +46,56 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Bedakan sumber air dan jalur akibatnya
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mulailah dengan peta sederhana: aquarium, pipa, sump, overflow, peralatan, lantai, bukaan, dinding, kabinet, sumber listrik, area di bawah atau di samping, dan saluran yang terlihat. Tulis sumber air yang mungkin: perawatan, pengisian, pergantian air, sambungan plumbing, luapan, kondensasi, hujan bila relevan, atau temuan yang belum diketahui sumbernya. Jangan langsung menyebut setiap kelembapan sebagai kebocoran aquarium.
 
-### KR-01
+Setelah itu tanyakan, bila air keluar pada titik tertentu, bagian mana yang terkena lebih dulu dan ke mana air mungkin berjalan. Catat elevasi, perubahan level, ambang, sambungan lantai-dinding, bukaan, material yang tampak, serta area yang tidak dapat diperiksa. Kawan Kaca.co.id, peta ini bukan perhitungan hidrolik; ia memberi daftar fakta yang diperlukan sebelum orang menetapkan rancangan proteksi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+Dokumen yang menyebut lokasi, kondisi, waktu, dan temuan lebih berguna daripada kesimpulan singkat “aman”. Prinsip penilaian kondisi serta keputusan bertanggung jawab juga ditekankan dalam [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913), tetapi dokumen tersebut tidak mengesahkan drainase atau waterproofing untuk proyek tertentu.
 
-### KR-14
+## Rancang lapisan proteksi, bukan satu jawaban tunggal
 
-- **Original sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
-- **Purpose for this article:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
-- **Safe grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
-- **Limits:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
+Mitigasi biasanya dapat dibaca sebagai beberapa lapisan: mencegah kesalahan penggunaan, menampung air di area tertentu, memberi jalur air yang terencana, melindungi bagian bangunan yang peka, mendeteksi keadaan tidak normal, dan menyiapkan respons. Setiap lapisan punya batas. Wadah penampung tidak membuktikan jalur pembuangan tersedia; floor drain tidak membuktikan lantai atau sambungannya kedap; sensor tidak membuktikan seseorang akan merespons tepat waktu.
 
-### KR-25
+Waterproofing perlu dibaca sebagai sistem, bukan nama bahan. Mintalah identitas produk, area aplikasi, detail antarmuka, persiapan permukaan, cara inspeksi, serta batas paparan yang dirujuk. Jangan mengklaim lapisan tertentu cocok atau tahan untuk kondisi aquarium tanpa data produk dan penilaian yang tepat.
 
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
-- **Safe grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
-- **Limits:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
+Sobat Kaca.co.id, overflow dan sump pun tidak boleh diperlakukan sebagai pengganti pemeriksaan sistem. Tanyakan jalur yang direncanakan, akses pemeriksaan, titik yang dapat tertutup, dan apa yang terjadi ketika peralatan atau kondisi operasi berubah. Catat jawaban berdasarkan gambar dan dokumen, bukan tebakan dari bentuk pipa.
 
-### KR-55
+## Hubungkan air dengan listrik, tumpuan, dan penghuni
 
-- **Original sources:** [SNI 2847:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12306-sni28472019), [SNI 1727:2020 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [SNI 1726:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12305-sni17262019).
-- **Purpose for this article:** Ground soil, shell, rooftop, empty/full pool, hydrostatic uplift, joints, and settlement articles.
-- **Safe grounded facts:** Empty, filling, full, drained, high-groundwater, seismic, thermal/shrinkage, maintenance, and temporary stages can govern different actions and details.
-- **Limits:** Require site investigation, survey, current licensed standards, load combinations, calculations, joints/details, temporary works, inspection, and signed structural/geotechnical review.
+Air yang keluar dari aquarium dapat bertemu dengan kabel, sumber listrik, area lalu-lalang, kabinet, dinding, atau lantai. Karena itu peta proteksi harus menunjukkan antarmuka tersebut. Jangan menyimpulkan instalasi listrik aman dari label peralatan atau dari satu stopkontak yang tampak jauh. [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897) membahas instalasi listrik di lokasi khusus, sementara [PUIL 2020 dari PLN](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman) merupakan acuan instalasi; keduanya bukan pemeriksaan kelistrikan lokasi Anda.
 
-### KR-73
+Air juga mengubah kondisi tumpuan dan lantai. Aquarium, air, media, peralatan, kabinet, manusia, dan tindakan tidak disengaja adalah masukan yang berbeda. [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) tidak memberi kapasitas lantai untuk kasus ini; diperlukan data lokasi, rancangan, dan tinjauan yang sesuai. Jangan mengandalkan saluran lantai untuk menyelesaikan pertanyaan struktur atau keselamatan listrik.
 
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
+Bila ada ikan atau penghuni hidup, rencana respons perlu mempertimbangkan siapa yang merawat dan bagaimana kondisi mereka ditangani saat sistem terganggu. Air yang tampak kembali normal tidak otomatis membuktikan kesehatan, kualitas air, atau kesejahteraan penghuni; [WOAH](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/) menunjukkan ruang lingkup kesehatan hewan akuatik yang lebih luas.
 
-### KR-75
+## Gunakan daftar lokasi dan respons yang dapat ditindaklanjuti
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
+| Bagian | Yang dicatat | Pertanyaan lanjutan |
+| --- | --- | --- |
+| Sumber air | Titik pengisian, plumbing, overflow, sump, perawatan, atau kondisi belum diketahui | Apa bukti sumber dan jalurnya? |
+| Kontainmen | Batas area, ambang, wadah, atau bagian pelindung yang terlihat | Apa yang belum dapat diperiksa dan siapa menilainya? |
+| Jalur drainase | Floor drain, titik buang, elevasi, akses, dan penggunaan bersama | Ke mana air direncanakan mengalir dan siapa pengelolanya? |
+| Waterproofing | Produk/dokumen, area, sambungan, dan kondisi yang dicatat | Apa batas sistem dan bukti aplikasinya? |
+| Kelistrikan | Peralatan, kabel, area basah, pemutus, dan akses | Siapa tenaga listrik yang memeriksa kondisi aktual? |
+| Deteksi dan respons | Sensor bila ada, pemberitahuan, kontak, akses, dan tindakan awal | Siapa merespons dan apa batas tindakannya? |
+| Penghuni | Penanggung jawab dan rencana kondisi gangguan | Siapa pihak akuatik yang memberi keputusan? |
 
-### KR-77
+Contoh catatan yang berguna: “ada floor drain di area yang ditinjau; hubungan dengan jalur pembuangan dan kapasitasnya belum diverifikasi.” Kalimat ini mencatat fakta tanpa memberi persetujuan palsu.
 
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
+## Jangan tunggu tumpahan untuk menemukan celah rencana
 
-### KR-74
+Jalan pintas yang umum adalah memasang sensor lalu menyebut proteksi selesai. Sensor hanya memberi informasi jika model, lokasi, pasokan, pemantauan, respons, dan pemeliharaannya benar-benar ditetapkan. Begitu juga dengan waterproofing atau floor drain: komponen tersebut punya fungsi, tetapi tidak dapat membuktikan seluruh jalur air atau kerusakan yang mungkin terjadi.
 
-- **Original sources:** [ISO 11600 sealant classification](https://www.iso.org/standard/80526.html), [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html).
-- **Purpose for this article:** Prevent “aquarium silicone” or one adhesion value from proving a tank joint.
-- **Safe grounded facts:** A cartridge label, dry coupon, or generic sealant classification does not establish structural seam capacity, immersed durability, animal compatibility, or field workmanship.
-- **Limits:** Require manufacturer confirmation for exact materials/use, batch/expiry/storage, preparation/cure instructions, design calculation, controlled fabrication, inspection/test, and warranty.
+Tahan keputusan pemasangan atau operasi bila jalur tumpahan belum dipetakan, titik buang belum jelas, antarmuka listrik belum diperiksa, tumpuan atau bangunan belum ditinjau, atau pihak yang merespons belum ada. Kondisi lokasi, fungsi bangunan, serta persetujuan yang berlaku perlu diverifikasi melalui pihak yang berwenang; [SIMBG](https://simbg.pu.go.id/) adalah layanan informasi bangunan, bukan bukti persetujuan suatu rancangan.
 
-### KR-26
+[NEEDS TINJAUAN REKAYASA, BANGUNAN, KELISTRIKAN, AKUATIK, PRODUK, DAN PROYEK: tetapkan sumber tumpahan, kontainmen, jalur drainase, waterproofing, perlindungan listrik, kapasitas dan detail bangunan, sensor, rencana respons, serta persetujuan lokasi berdasarkan survei dan rancangan aktual.]
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+## Jadikan proteksi tumpahan sebagai rencana yang hidup
 
-### KR-79
+Drainase darurat dan proteksi tumpahan aquarium yang baik menghubungkan peta air, kontainmen, jalur buang, antarmuka listrik dan bangunan, serta orang yang merespons. Ia tidak menjamin tidak ada tumpahan atau bahwa satu komponen telah menyelesaikan seluruh risiko.
 
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-13-02` → `/artikel/aquarium-outdoor-hujan-panas.html` — Aquarium Outdoor: Hujan, Panas, dan Perubahan Suhu
-- `AKU-13-03` → `/artikel/kondensasi-dan-kelembapan-aquarium.html` — Kondensasi dan Kelembapan di Sekitar Aquarium
-- `AKU-13-05` → `/artikel/korosi-area-aquarium-laut.html` — Korosi di Sekitar Aquarium Air Laut
-- `AKU-13-06` → `/artikel/keamanan-aquarium-area-publik.html` — Keamanan Akses Aquarium di Area Publik
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Drainase Darurat dan Proteksi Tumpahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Drainase Darurat dan Proteksi Tumpahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Drainase Darurat dan Proteksi Tumpahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Drainase Darurat dan Proteksi Tumpahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Drainase Darurat dan Proteksi Tumpahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Drainase Darurat dan Proteksi Tumpahan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Kaca.co.id, langkah berikutnya adalah membuat denah lokasi dengan jalur air dan daftar pihak peninjau, lalu tandai semua bagian yang belum dapat dibuktikan. Aturannya sederhana: bila air yang keluar belum diketahui akan ke mana dan siapa yang menangani akibatnya, proteksi belum boleh dianggap selesai.
