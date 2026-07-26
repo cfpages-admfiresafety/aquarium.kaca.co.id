@@ -1,9 +1,10 @@
 ---
 article_id: AKU-06-03
-title: "Jalur Beban dari Aquarium ke Stand"
+title: "Jalur Beban dari Aquarium ke Penyangga"
 slug: "jalur-beban-aquarium-ke-stand"
-description: "Provide continuous support, levelness, load transfer, moisture protection, and verified floor capacity."
-status: outline
+description: "Cara menelusuri beban aquarium dari alas, rangka penyangga, kaki, hingga titik tumpu tanpa mengira kapasitasnya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,239 +17,89 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://research.fs.usda.gov/treesearch/7148"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://research.fs.usda.gov/treesearch/37421"
-  - "https://www.iso.org/ics/79.060.01/x/"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key="
   - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
   - "https://simbg.pu.go.id/"
   - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://pesta.bsn.go.id/produk/detail/12306-sni28472019"
-  - "https://pesta.bsn.go.id/produk/detail/12305-sni17262019"
-  - "https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005"
-  - "https://www.iso.org/standard/81997.html"
-  - "https://www.iso.org/standard/23725.html"
-  - "https://www.iso.org/standard/71639.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Jalur Beban dari Aquarium ke Stand
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Jalur Beban dari Aquarium ke Stand”
-- **Reader and situation:** Provide continuous support, levelness, load transfer, moisture protection, and verified floor capacity.
-- **Reader outcome:** Provide continuous support, levelness, load transfer, moisture protection, and verified floor capacity.
-- **Primary intent:** Trace loads through top, frame, legs, feet, and floor.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns stand load path; floor capacity belongs to AKU-06-04.
-- **Final public route:** `/artikel/jalur-beban-aquarium-ke-stand.html`
-- **Appointed CMS date:** `2025-11-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jalur Beban dari Aquarium ke Stand**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
 - **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **Placement:** setelah jawaban pembuka, sebelum pembahasan rinci
 - **Exact Markdown to insert:** `![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Selection basis:** metadata nama berkas menyebut `bg aquarium`; tampilan piksel tidak diperiksa.
+- **Hard boundary:** jangan menyimpulkan detail visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil.
+- **Substitution rule:** jangan mengganti gambar ini. Bila aset tidak tersedia atau asalnya belum lengkap, gunakan `[NEEDS IMAGE REVIEW: LOCAL-003]`.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Jalur Beban dari Aquarium ke Penyangga
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Kaca.co.id!
 
-### KR-01
+Aquarium tidak “ditahan” oleh satu bagian penyangga saja. Beban dari air, kaca, alas, dekorasi, peralatan, dan isi lain harus memiliki jalur yang menerus: dari dasar aquarium ke permukaan penyangga, ke rangka atau kabinet, ke kaki atau bidang tumpu, lalu ke lantai. Bila salah satu pertemuan di jalur itu tidak rata, tidak menerus, berubah karena lembap, atau belum diverifikasi, tampilan penyangga yang kokoh belum membuktikan rakitan aman.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+Artikel ini membantu Anda menelusuri jalur beban, bukan menghitung kapasitas atau memilih ukuran rangka. Ukuran aquarium, bahan penyangga, bentuk kaki, dan ketebalan panel tidak cukup untuk menyimpulkan kemampuan menahan beban. Keputusan desain perlu memakai geometri terukur, jenis serta mutu material, sambungan, kondisi kelembapan, data lantai, beban aktual, gambar, dan peninjauan rekayasa yang sesuai.
 
-### KR-14
+![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)
 
-- **Original sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
-- **Purpose for this article:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
-- **Safe grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
-- **Limits:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-### KR-34
+## Pahami jalur beban sebagai rangkaian yang utuh
 
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc) and [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html).
-- **Purpose for this article:** Ground bamboo selection, culm condition, structural scope, joints, durability, and engineered-product boundaries.
-- **Safe grounded facts:** Species/trade name, culm diameter, age claim, treatment claim, or “engineered bamboo” label does not establish characteristic properties, grade, connection behavior, durability, product conformity, or Indonesian project acceptance.
-- **Limits:** ISO 22156 is under systematic review in 2026 and is not an Indonesian compliance basis by itself. Obtain current full standards, Indonesian/local applicability, identity/maturity/moisture/defects, treatment, sampling/tests, design values, connections, exposure, execution, and engineer acceptance under G-01/G-05/G-06/G-07.
+Jalur beban adalah urutan bagian yang menerima dan meneruskan gaya dari aquarium menuju tumpuan di bawahnya. Pada susunan sederhana, urutannya dapat dibaca sebagai dasar aquarium, alas atau permukaan atas penyangga, elemen rangka atau dinding kabinet, kaki atau bidang bawah, lalu lantai. Setiap peralihan perlu diperiksa: apakah bidangnya menerus, apakah kontaknya sesuai gambar, apakah ada bagian yang terlewat, dan apakah perubahan bentuk atau kelembapan memengaruhi kontak tersebut.
 
-### KR-09
+Air hanyalah salah satu masukan. Kaca, substrat, batu, peralatan, kabinet, orang yang melakukan perawatan, serta tindakan saat pengisian atau pemindahan dapat memberi kondisi yang berbeda. Karena itu, volume saja tidak dapat dipakai untuk menetapkan panel atau penyangga. [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913) dan rekaman [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12626-sni17272020) menegaskan pentingnya membaca kondisi beban dan rakitan secara utuh; keduanya bukan tabel kapasitas siap pakai untuk aquarium tertentu.
 
-- **Original sources:** [USDA wood-based composite overview](https://research.fs.usda.gov/treesearch/37421), [ISO wood-based-panel catalogue](https://www.iso.org/ics/79.060.01/x/), and [BSN wood-structure catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key=).
-- **Purpose for this article:** Correct taxonomy among plywood, particleboard, MDF/fibreboard, OSB, barecore, blockboard, FJL, LVL, glulam, CLT, and non-wood composites.
-- **Safe grounded facts:** A panel's thickness or appearance cannot prove bond durability, strength, fire, emission, moisture, fastener, or installed-system behavior.
-- **Limits:** Confirm the exact product family and applicable current standard/test report under G-01/G-04/G-06.
+Sobat Kaca.co.id, anggap jalur beban seperti aliran yang tidak boleh putus. Bukan berarti semua bagian harus sama bentuknya, melainkan setiap bagian harus mempunyai dasar rancangan dan hubungan yang dapat diperiksa.
 
-### KR-75
+## Telusuri dari dasar aquarium sampai ke lantai
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
+Mulai dari bagian yang menyentuh aquarium. Catat jenis alas, bidang kontak, kondisi permukaan, dan apakah susunannya mengikuti gambar atau petunjuk yang tersedia. Lalu lihat permukaan atas penyangga: apakah ada perubahan tampilan, area lembap, bagian yang tidak rata, atau modifikasi yang tidak tercatat. Pengamatan ini bukan pengukuran kerataan maupun persetujuan struktur, tetapi membantu menunjukkan bagian yang perlu diperiksa lebih lanjut.
 
-### KR-73
+Berikutnya telusuri rangka. Cari elemen yang menerima beban dari permukaan atas dan meneruskannya ke bawah. Catat sambungan, pengaku, kaki, area yang terkena air, serta perubahan akibat penambahan lubang, potongan, atau akses servis. Jenis kayu, bambu, logam, atau papan olahan yang tampak dari luar tidak membuktikan mutu, sambungan, ketahanan lembap, maupun perilaku penyangga saat digunakan.
 
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
+Terakhir, dokumentasikan titik tumpu penyangga ke lantai. Jangan menyamakan lantai yang tampak keras dengan kapasitas lantai yang telah diverifikasi. Lantai dapat memiliki kondisi, bentang, struktur bangunan, perubahan penggunaan, dan kerusakan tersembunyi yang tidak terlihat dari permukaan. Informasi sistem bangunan melalui [SIMBG](https://simbg.pu.go.id/) dapat membantu memahami bahwa bukti bangunan dan peninjauan yang sesuai diperlukan; penetapan kapasitas lantai tetap berada di luar artikel ini.
 
-### KR-26
+## Kondisi yang dapat mengubah jalur beban
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+Jalur yang semula dirancang baik dapat berubah ketika aquarium dipindahkan, diisi, dikosongkan, diberi dekorasi baru, atau mengalami tumpahan. Kelembapan pada kabinet atau rangka dapat mengubah kondisi material dan sambungan. Penambahan lubang untuk pipa atau kabel, pemotongan elemen, penggantian kaki, atau penambahan ganjal juga merupakan perubahan yang perlu dicatat sebelum dianggap sepele.
 
-### KR-55
+Kondisi sementara pun penting. Pengisian, pengosongan, pemindahan, dan pekerjaan servis dapat menimbulkan susunan beban serta risiko penanganan yang berbeda dari kondisi operasi normal. Jangan menggunakan keberhasilan aquarium saat kosong sebagai bukti bahwa seluruh tahap penggunaan telah aman. Penanganan dan pemasangan perlu mengikuti metode yang disetujui, penilaian risiko lokasi, serta personel yang kompeten. [Permen PUPR Nomor 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) dapat menjadi rujukan umum tentang sistem keselamatan konstruksi, bukan instruksi pemindahan aquarium yang berlaku universal.
 
-- **Original sources:** [SNI 2847:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12306-sni28472019), [SNI 1727:2020 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [SNI 1726:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12305-sni17262019).
-- **Purpose for this article:** Ground soil, shell, rooftop, empty/full pool, hydrostatic uplift, joints, and settlement articles.
-- **Safe grounded facts:** Empty, filling, full, drained, high-groundwater, seismic, thermal/shrinkage, maintenance, and temporary stages can govern different actions and details.
-- **Limits:** Require site investigation, survey, current licensed standards, load combinations, calculations, joints/details, temporary works, inspection, and signed structural/geotechnical review.
+Teman Kaca.co.id, catatan perubahan kecil sering menjadi petunjuk penting. Foto sebelum dan sesudah perubahan, bersama tanggal serta alasan pekerjaan, lebih berguna daripada asumsi bahwa susunan lama masih sama.
 
-### KR-72
+## Buat daftar bukti sebelum mengambil keputusan
 
-- **Original sources:** [SNI 15-0047-2005 flat glass catalog record — BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), [ISO 12543 laminated glass series](https://www.iso.org/standard/81997.html), [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html).
-- **Purpose for this article:** Ground float/annealed, heat-treated, laminated, low-iron, acrylic comparison and fabrication content without a universal thickness table.
-- **Safe grounded facts:** Nominal thickness, glass type, test specimen, edge finish, size, support, duration, and environment must travel with strength/performance data.
-- **Limits:** Product or test standards do not size an aquarium. Require exact product/build-up, fabrication records, calculations, samples, inspection, and competent glazing/structural review.
+Tabel berikut membantu menyusun bahan peninjauan. Ia tidak menggantikan perhitungan, gambar, atau pemeriksaan profesional.
 
-### KR-76
+| Bagian jalur | Bukti yang dicatat | Pertanyaan lanjutan |
+| --- | --- | --- |
+| Aquarium dan alas | Identitas aquarium, gambar, bidang kontak, kondisi visual | Apakah susunan sesuai rancangan dan batas produk yang tersedia? |
+| Permukaan atas penyangga | Material, kerataan yang terukur bila ada, kondisi lembap, perubahan | Apakah kontak menerus dan ada bagian yang dimodifikasi? |
+| Rangka atau kabinet | Jenis elemen, sambungan, pengaku, titik akses, riwayat perubahan | Apakah bahan, sambungan, dan perlindungan kelembapan telah diverifikasi? |
+| Kaki serta titik tumpu | Lokasi kaki, kondisi dasar, ganjal yang terlihat, kerusakan | Ke mana gaya diteruskan dan apakah perubahan tersebut tercatat? |
+| Lantai atau bangunan | Lokasi aquarium, dokumen bangunan, perubahan penggunaan, data peninjauan | Siapa yang memverifikasi kapasitas serta kondisi lantai? |
 
-- **Original sources:** [ISO 12480-1 safe use of cranes](https://www.iso.org/standard/71639.html), [Permen PUPR No. 10 Tahun 2021 construction-safety system](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground logistics and installation without publishing generic lifting points or crew sizes.
-- **Safe grounded facts:** Factory survival does not prove transport, site handling, final support, connections, or commissioned watertightness.
-- **Limits:** Require manufacturer/fabricator method, engineered lift/handling plan where applicable, competent personnel, site risk assessment, equipment certificates, exclusion, emergency plan, staged tests, and signed acceptance.
+Rujukan [SNI 7973:2013](https://pesta.bsn.go.id/produk/detail/9716-sni79732013) dan [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) berkaitan dengan dasar teknis yang lebih luas. Tanpa naskah standar lengkap, kondisi proyek, data material, serta peninjauan yang berwenang, keduanya tidak boleh dipakai untuk menebak ukuran, bentang, atau kapasitas penyangga.
 
-## Evidence gates
+## Hindari jalan pintas yang tampak meyakinkan
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+“Penyangga ini kuat karena bahannya tebal” adalah kesimpulan yang belum selesai. Ketebalan atau merek bahan tidak menjelaskan kualitas sambungan, jalur gaya, kondisi lembap, pengaku, perubahan di lapangan, atau kemampuan lantai. Jalan yang lebih aman adalah meminta gambar, identitas material, catatan pembuatan, dan dasar peninjauan untuk rakitan yang benar-benar ada.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jalan pintas lain adalah menambah ganjal pada satu titik karena aquarium terlihat miring. Tindakan semacam itu dapat mengubah cara beban diteruskan tanpa menjawab penyebabnya. Bila ditemukan perubahan posisi, area basah, bagian penyangga rusak, atau tanda pada kaca, dokumentasikan dahulu dan hentikan tindakan yang dapat memperburuk keadaan sampai pihak yang tepat menilai kondisi.
 
-## Internal-link plan
+Jika selama pemeriksaan terlihat retak pada panel, perlakukan sebagai kondisi yang terpisah dan ikuti [langkah awal saat kaca aquarium retak](/kaca-aquarium-retak.html). Untuk gores yang terlihat saat akses servis, catat melalui [panduan kaca aquarium tergores](/kaca-aquarium-tergores.html). Tanda pada kaca tidak boleh dipakai sendirian untuk menyimpulkan jalur beban, namun tetap perlu mendapat jalur pemeriksaan sendiri.
 
-### Existing local routes
+## Tutup pemeriksaan dengan penyerahan informasi yang jelas
 
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Hasil penelusuran jalur beban sebaiknya berisi foto bertanggal, sketsa sederhana, identitas aquarium serta penyangga, riwayat perubahan, kondisi lembap atau tumpahan, dan daftar dokumen yang masih belum ada. Serahkan juga pertanyaan yang belum terjawab: apakah semua kontak menerus, apakah ada modifikasi, apakah bahan serta sambungan teridentifikasi, dan siapa yang memeriksa lantai.
 
-### Planned sibling articles
+[NEEDS TINJAUAN REKAYASA, STRUKTUR, PRODUK, DAN PROYEK: verifikasi geometri serta beban aktual, rancangan aquarium dan penyangga, identitas serta mutu material, sambungan dan pengaku, kondisi kelembapan, titik tumpu, kapasitas lantai, perubahan lapangan, inspeksi, dan penerimaan tertulis sebelum penggunaan atau modifikasi.]
 
-These are future routes. Do not link them as live until their HTML exists.
+## Jalur beban harus dapat ditunjukkan, bukan dibayangkan
 
-- `AKU-06-01` → `/artikel/stand-aquarium-rata-level-kaku.html` — Stand Aquarium Harus Rata, Level, dan Kaku
-- `AKU-06-02` → `/artikel/foam-pad-dan-alas-aquarium.html` — Foam Pad dan Alas di Bawah Aquarium
-- `AKU-06-04` → `/artikel/kapasitas-lantai-untuk-aquarium-besar.html` — Memeriksa Kapasitas Lantai untuk Aquarium Besar
-- `AKU-06-05` → `/artikel/kabinet-aquarium-tahan-lembap.html` — Kabinet Aquarium Tahan Lembap dan Tumpahan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dari Aquarium ke Stand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dari Aquarium ke Stand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dari Aquarium ke Stand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dari Aquarium ke Stand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dari Aquarium ke Stand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dari Aquarium ke Stand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalur beban dari aquarium ke penyangga harus menerus dan dapat dibuktikan melalui kondisi fisik serta dokumen yang tepat. Langkah berikutnya adalah membuat sketsa alur dari aquarium sampai lantai, mengumpulkan data setiap peralihan, dan meminta peninjauan yang sesuai bila ada kekosongan bukti atau perubahan. Aturan sederhananya: jika satu bagian jalur tidak diketahui, belum diverifikasi, atau telah diubah, jangan menyimpulkan keseluruhan susunan aman hanya dari tampilannya.
