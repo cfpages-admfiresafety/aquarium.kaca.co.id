@@ -1,9 +1,10 @@
 ---
 article_id: AKU-01-03
-title: "Checklist Survei Lokasi Aquarium"
+title: "Daftar Survei Lokasi Aquarium"
 slug: "checklist-survei-lokasi-aquarium"
-description: "Translate display goals, location, livestock, service access, volume, and constraints into a usable brief."
-status: outline
+description: "Daftar survei untuk mencatat akses, tumpuan, air, drainase, listrik, lingkungan, perawatan, penggunaan, dan hal yang belum diketahui sebelum aquarium direncanakan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,27 @@ reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/checklist-survei-lokasi-aquarium.html"
 technical_review: required
 sources:
-  - "https://www.who.int/publications/i/item/9241546808"
-  - "https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key="
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
-  - "https://research.fs.usda.gov/treesearch/7149"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://research.fs.usda.gov/treesearch/7148"
-  - "https://www.iso.org/standard/80526.html"
-  - "https://www.iso.org/standard/73355.html"
-  - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://www.iso.org/standard/62085.html"
-  - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
-  - "https://www.fao.org/fishery/en/aquaculture"
   - "https://webstore.iec.ch/en/publication/1897"
   - "https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman"
-  - "https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005"
-  - "https://www.iso.org/standard/81997.html"
-  - "https://www.iso.org/standard/23725.html"
-  - "https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004"
-  - "https://speciesplus.net/"
+  - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
+  - "https://www.dinmedia.de/en/standard/din-32622/262406913"
+  - "https://www.iso.org/standard/62085.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Daftar Survei Lokasi Aquarium
 
-# Checklist Survei Lokasi Aquarium
+Halo, Sobat Kaca.co.id!
 
-## Assignment lock
+Survei lokasi aquarium bukan sesi memilih sudut yang paling enak dilihat. Tujuannya adalah mengumpulkan fakta lapangan sebelum ukuran, bentuk, peralatan, jalur masuk, dan cara perawatan diputuskan. Foto ruang saja belum cukup; yang diperlukan ialah ukuran yang dapat dirujuk, kondisi yang dapat diamati, dokumen yang tersedia, pihak yang mengelola lokasi, dan daftar pertanyaan yang belum terjawab.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Survei Lokasi Aquarium”
-- **Reader and situation:** Translate display goals, location, livestock, service access, volume, and constraints into a usable brief.
-- **Reader outcome:** Translate display goals, location, livestock, service access, volume, and constraints into a usable brief.
-- **Primary intent:** Capture access, floor, power, water, drainage, sunlight, and service space.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns site inputs; installation method belongs to AKU-07.
-- **Final public route:** `/artikel/checklist-survei-lokasi-aquarium.html`
-- **Appointed CMS date:** `2025-08-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Daftar survei yang baik mencakup akses, tumpuan atau lantai, posisi, air dan drainase, listrik, panas atau matahari, percikan, ruang perawatan, pengangkutan, pengguna, persetujuan, antarmuka dengan pekerjaan lain, serta rekaman. Hasil survei bukan persetujuan struktur, kelistrikan, mutu air, atau izin. Ia adalah bahan untuk meminta penilaian yang tepat sebelum pekerjaan bergerak lebih jauh.
 
-## Opening instructions
+![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Survei Lokasi Aquarium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -77,180 +46,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Catat tujuan, pengguna, dan batas lokasi yang disurvei
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mulai dengan menyebut ruang, alamat atau penanda lokasi internal, calon posisi aquarium, tujuan penggunaan, serta siapa yang memakai dan merawatnya. Tanyakan apakah aquarium akan diakses oleh penghuni rumah, staf, pengunjung, anak-anak, atau pihak lain. Catat jam penggunaan, pembatasan akses, kebutuhan kebersihan, dan pekerjaan lain yang berbagi ruang. Informasi ini membantu melihat benturan antarmuka sejak awal, tanpa menerka aturan yang berlaku.
 
-### KR-01
+Tentukan pula batas survei. Apakah yang diperiksa hanya titik penempatan, jalur dari kendaraan sampai ruang, sumber air, panel listrik, atau seluruh ruang pendukung? Bila sebuah area tidak dapat dimasuki atau dokumennya belum dibuka oleh pemilik, tulis sebagai keterbatasan. Kawan Kaca.co.id, pernyataan “belum dapat diperiksa” jauh lebih berguna daripada memberi kesan bahwa kondisi itu sudah cocok.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+Ambil foto dengan penanda arah dan buat denah sederhana lokasi pengamatan. Catat tanggal, pengamat, orang yang ditemui, serta dokumen yang mereka tunjukkan. Informasi terdokumentasi seperti ini membuat pengamatan bisa diperiksa ulang; [ISO 9001](https://www.iso.org/standard/62085.html) menjelaskan kerangka pengelolaan informasi terdokumentasi, bukan pengesahan lokasi tertentu.
 
-### KR-67
+## Ukur akses dan ruang kerja tanpa menganggap rute sudah lolos
 
-- **Original sources:** [WHO recreational-water guidance](https://www.who.int/publications/i/item/9241546808), [CDC Model Aquatic Health Code](https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html).
-- **Purpose for this article:** Ground hotel, apartment, school, gym, therapy, competition, and waterpark operations without one universal SOP.
-- **Safe grounded facts:** Design capacity, actual attendance, bather load, testing logs, plant alarms, maintenance, incidents, staff qualifications, closure/downtime, and complaints are different datasets.
-- **Limits:** Require current Indonesian/local duties, facility risk assessment, operator plan, competence, authority approval, emergency arrangements, and real logs before procedures or compliance claims.
+Catat ukuran bukaan, koridor, belokan, tangga, lift, pintu, area kendaraan, dan ruang manuver yang benar-benar diukur. Sertakan posisi hambatan tetap maupun sementara, perbedaan elevasi, permukaan yang perlu diperhatikan, serta area yang tidak bisa difoto atau diukur. Bila ukuran diambil dari gambar, tulis sumber gambar dan revisinya; jangan mencampurnya dengan ukuran lapangan seolah-olah sama.
 
-### KR-06
+Jalur pengangkutan harus dilihat sebagai rangkaian, dari titik datang sampai penempatan, bukan hanya lebar pintu terakhir. Tetapi survei ini tidak menyetujui kelonggaran rute, cara mengangkat, atau alat yang akan dipakai. Untuk itu diperlukan keputusan fabrikator, logistik, dan keselamatan berdasarkan aquarium serta lokasi yang nyata.
 
-- **Original sources:** [SNI 8853:2019 official BSN listing](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key=), [SNI 7973:2013 official record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), and [USDA mechanical-properties discussion](https://research.fs.usda.gov/treesearch/7149).
-- **Purpose for this article:** Bound dimensions, defects, grading, mechanical properties, and structural claims.
-- **Safe grounded facts:** Test specimen, moisture, orientation, sampling, defects, grade, adjustment, edition, and design context must accompany any number.
-- **Limits:** Obtain full current standards, grading rules, source population, reports, and qualified interpretation before publishing property or design values under G-01/G-06.
+Teman Kaca.co.id, tanyakan juga kapan akses dapat dipakai. Lorong yang kosong saat survei mungkin dipenuhi furnitur, pengunjung, kendaraan, atau pekerjaan lain pada hari pengiriman. Catat kondisi saat survei dan perubahan yang diperkirakan, bukan asumsi bahwa kondisi itu akan tetap sama.
 
-### KR-14
+## Rekam tumpuan, posisi, air, dan drainase sebagai fakta lapangan
 
-- **Original sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
-- **Purpose for this article:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
-- **Safe grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
-- **Limits:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
+Di titik penempatan, catat jenis lantai atau penyangga yang terlihat, posisi terhadap dinding atau struktur lain, kondisi permukaan, bukti gambar/rancangan yang tersedia, serta area yang tidak dapat dilihat. Ambil ukuran elevasi atau posisi hanya dengan cara dan alat yang dapat dicatat. Hindari kalimat “lantai pasti kuat” atau “sudah rata” tanpa bukti rancangan, pengukuran, kondisi struktur, dan tinjauan yang sesuai.
 
-### KR-74
+[SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) adalah rujukan pembebanan bangunan. Rujukan itu tidak memberi kapasitas lantai untuk ruangan yang Anda survei. Rekam kebutuhan tinjauan ahli struktur bila beban, tumpuan, perubahan bangunan, atau kondisi lantai belum didukung dokumen yang memadai.
 
-- **Original sources:** [ISO 11600 sealant classification](https://www.iso.org/standard/80526.html), [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html).
-- **Purpose for this article:** Prevent “aquarium silicone” or one adhesion value from proving a tank joint.
-- **Safe grounded facts:** A cartridge label, dry coupon, or generic sealant classification does not establish structural seam capacity, immersed durability, animal compatibility, or field workmanship.
-- **Limits:** Require manufacturer confirmation for exact materials/use, batch/expiry/storage, preparation/cure instructions, design calculation, controlled fabrication, inspection/test, and warranty.
+Untuk air dan drainase, identifikasi sumber yang mungkin dipakai, titik sambungan yang terlihat, jalur pembuangan, risiko percikan, area yang bisa basah, dan akses saat perawatan. Jangan menyimpulkan debit, tekanan, kualitas air, atau izin pembuangan hanya dari adanya keran dan saluran. Catat juga apakah sumber atau saluran dipakai bersama oleh sistem lain dan siapa pengelolanya.
 
-### KR-81
+## Periksa listrik, panas, dan percikan sebagai kondisi yang saling terkait
 
-- **Original sources:** [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913), [ISO 9001](https://www.iso.org/standard/62085.html).
-- **Purpose for this article:** Ground maintenance and repair decisions in documented condition, consequence, and responsible disposition.
-- **Safe grounded facts:** A dry exterior at one moment does not prove seam integrity; cosmetic repair does not establish structural or immersed performance.
-- **Limits:** Define stop/drain/isolate/relocate decisions through fabricator, structural/glazing, electrical, and aquatic professionals; require original design, condition survey, repair method, controlled test, records, and signed acceptance. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `AKU-01` | KR-01, KR-67, KR-06, KR-14, KR-74, KR-81, KR-77, KR-79, KR-72, KR-78 | Tujuan, kapasitas, dan brief aquarium; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-02` | KR-01, KR-33, KR-17, KR-26, KR-72, KR-16, KR-73, KR-75, KR-34, KR-02 | Jenis kaca dan proses fabrikasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-03` | KR-01, KR-26, KR-55, KR-14, KR-73, KR-75, KR-34, KR-09, KR-72, KR-74 | Ketebalan, tekanan air, dan beban; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-04` | KR-01, KR-17, KR-50, KR-02, KR-72, KR-74, KR-79, KR-77, KR-81, KR-73 | Bentuk dan desain aquarium; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-05` | KR-01, KR-13, KR-62, KR-55, KR-78, KR-63, KR-74, KR-73, KR-72, KR-81 | Seam, silicone, dan adhesive; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-06` | KR-01, KR-14, KR-34, KR-09, KR-75, KR-73, KR-26, KR-55, KR-72, KR-76 | Stand, base, kabinet, dan lantai; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-07` | KR-01, KR-30, KR-65, KR-68, KR-59, KR-76, KR-75, KR-18, KR-79, KR-81 | Pengiriman, instalasi, dan commissioning; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-08` | KR-01, KR-25, KR-47, KR-31, KR-64, KR-77, KR-48, KR-67, KR-78, KR-81 | Filtrasi, sirkulasi, dan aerasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-09` | KR-01, KR-60, KR-03, KR-11, KR-77, KR-13, KR-15, KR-52, KR-78, KR-79 | Air tawar, air laut, dan kualitas air; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-10` | KR-01, KR-54, KR-57, KR-63, KR-78, KR-48, KR-74, KR-03, KR-77, KR-75 | Livestock suitability dan welfare; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-11` | KR-01, KR-38, KR-66, KR-71, KR-79, KR-30, KR-72, KR-73, KR-77, KR-81 | Lighting, heating, dan keselamatan listrik; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-12` | KR-01, KR-21, KR-38, KR-13, KR-80, KR-73, KR-75, KR-26, KR-77, KR-78 | Aquascape, substrate, dan dekorasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-13` | KR-01, KR-14, KR-25, KR-55, KR-73, KR-75, KR-77, KR-74, KR-26, KR-79 | Aquarium indoor dan outdoor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-14` | KR-01, KR-21, KR-38, KR-46, KR-80, KR-13, KR-81, KR-74, KR-75, KR-78 | Perawatan, inspeksi, dan keputusan perbaikan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-15` | KR-01, KR-51, KR-24, KR-69, KR-10, KR-18, KR-72, KR-73, KR-76, KR-81 | Custom order, harga, vendor, dan logistik; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-16` | KR-01, KR-33, KR-17, KR-53, KR-18, KR-80, KR-74, KR-75, KR-79, KR-81 | Standar, dokumentasi, warranty, dan acceptance; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A public map or climate series, field survey, laboratory result, design input, installed condition, and operating result are different evidence layers. 2. Common name, accepted botanical name, nursery identity, cultivar/provenance, delivered batch, and local performance are different evidence objects. 3. Planting design must consider mature roots/canopy, users, utilities, structures, water, maintenance, risks, and replacement—not appearance alone. 4. A watering duration is meaningless without flow, distribution, area, soil/media, plant stage, weather, and measured response. 5. Drainage follows the catchment, levels, infiltration, receiving system, overflow, erosion, water quality, and maintenance; a drain product does not prove capacity. 6. A paver, coating, luminaire, planter, pond component, green-wall module, or gazebo does not prove the installed system. 7. One symptom or photograph cannot distinguish water, nutrient, root, chemical, pest, disease, and building-interface causes. 8. Biodiversity, cooling, carbon, flood, native, low-maintenance, and sustainability claims require a defined baseline, method, boundary, and monitoring period. 9. Pool, ornamental pond, aquarium, irrigation, rainwater, wastewater, and recreational water have different purpose-specific evidence. 10. Prices, services, plant/product lists, coverage, capacity, cases, schedules, certificates, warranties, and performance are volatile operator evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` Current complete standards and exact acceptance | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain licensed current editions, applicable clauses, methods, inputs, units, tolerances, acceptance, and qualified interpretation | | `G-02` Function, site, users, local rules, PBG/SLF, and approvals | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify location, land/site constraints, public/private function, permanence, users, work scope, local rules, PBG/SLF applicability, submissions, responsible parties, and authority decisions | | `G-03` Climate, occupancy, loads, exposure, and geometry | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain surveyed geometry, use/occupancy, wind/rain/seismic inputs, topography, microclimate, wetting/drying, temperature, shade, vegetation, drainage, and change scenarios | | `G-04` Ground, foundation, anchors, slopes, water, and services | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain survey, investigation, soil/groundwater/drainage/slope/service facts, reactions, design, excavation/temporary works, concrete/anchor evidence, inspection, and geotechnical/structural acceptance | | `G-05` Complete structural design, connections, stability, and acceptance | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain current load/seismic/wood basis, material grades, calculations, drawings, load path, bracing, connections, anchorage, temporary stability, inspections, deviations, and signed engineer review | | `G-06` Exact material, roof, finish, fastener, and product-system evidence | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain product construction/grade/moisture/coating, current data/instructions/SDS/reports, exposure and compatibility evidence, samples/mockups, fastening/lap/detail basis, maintenance, and warranty | | `G-07` Moisture, biological damage, treatment, drainage, and durability | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify species/product, moisture paths, ground separation, drainage/ventilation, organism/activity, treatment identity/label/history, finish system, inspection baseline, specialist disposition, and follow-up | | `G-08` Fire strategy, ignition sources, assembly evidence, and post-fire decision | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Confirm function/users, local fire basis, ignition/electrical/cooking exposure, separation/escape/access, exact assembly evidence, controls, incident facts, and fire/structural decision | | `G-09` Accessible route, lighting, power, controls, and electrical verification | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify user/function applicability, continuous route and level-change details, seating/guards/controls, supply/earthing/environment, circuit protection, equipment, competent design/installation, testing, and records | | `G-10` Construction K3, temporary works, lifting, height, and public protection | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Confirm current duties, risk assessment, competence, temporary stability, excavation/lifting/height/machine/electrical/chemical controls, weather limits, exclusion, emergency/rescue, supervision, and records | | `G-11` Inspection, quality control, testing, deviations, and handover | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Define approved submittals, samples, hold points, measurements, inspections/tests, nonconformance, concealed-work records, commissioning, as-built documents, care plan, warranty, and acceptance | | `G-12` Current legality, traceability, sustainability, and claim scope | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify species/product/source, current forestry rules, official status, chain model, certificate holder/scope, transaction records, conservation/trade context, lifecycle method, and authorized wording | | `G-13` Equivalent scope, price, schedule, supplier, contract, and warranty | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain dated offers with the same site/design/material/finish/MEP/approval/safety/QC/logistics scope, explicit exclusions/deviations, capability, milestones, payment, acceptance, warranty, maintenance, and claim route | | `G-14` Site, climate, soil, levels, utilities, water, users, and baseline | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain current boundary/topographic/utility survey, representative soil/water tests, BMKG/local climate basis, existing-tree/condition inventory, user/maintenance brief, photographs, risks, and signed baseline | | `G-15` Botanical identity, provenance, nursery quality, mature form, toxicity, and local status | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify accepted name/synonyms, cultivar/provenance, delivered batch, nursery condition, mature traits, Indonesian invasive/protected status, toxicity/thorns, local ecology, and authorized selection | | `G-16` Irrigation demand, water source/quality, hydraulic performance, and permissions | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify climate/plant/media inputs, hydrozones, source rights/quality, pressure/flow, filtration, distribution audit, controls, drainage/runoff, monitoring, commissioning, and operator competence | | `G-17` Plant-health diagnosis, fertilizer, pesticide, pruning, transplant, and large-tree work | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain representative observation/sample/lab evidence, qualified diagnosis, current product label, site risk assessment, arborist/agronomy decision, safe method, records, and follow-up | | `G-18` Pond/water-feature purpose, water criteria, aquatic welfare, vector, and discharge | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Define use/contact, species/stock, water source, hydraulic and treatment calculations, chemistry/microbiology/oxygen criteria, welfare plan, vector control, overflow/discharge approval, and measured commissioning | | `G-19` Catchment, grading, infiltration, drainage, erosion, waterproofing, and receiving system | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain survey and rainfall basis, hydrology/hydraulics, geotechnics/groundwater, levels, inlet/outlet/overflow, waterproof interfaces, erosion/sediment controls, downstream approval, inspection, and maintenance access | | `G-20` Biodiversity, native/invasive, pollinator, carbon, cooling, flood, or sustainability outcome | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Define baseline, geography, accepted species/status, intervention, comparison boundary, indicators, method, monitoring period, confounders, trade-offs, and qualified ecological review | | `G-21` Water/electrical edge safety, slips, access, public interaction, and animal contact | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify intended users/contact, edge/guard/access route, slip and rescue considerations, electrical environment/protection/testing, animal-contact controls, supervision, signage, emergency plan, and authority approval | | `G-22` Live service, plant/product, price, capacity, coverage, schedule, case, image, certificate, and warranty | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain dated operator-approved source, exact scope, original rights/evidence, assumptions/exclusions, effective/review date, privacy basis, and approved wording; otherwise keep neutral | ## Source-refresh triggers Recheck immediately when: - an outline uses law, SNI status, certification, export, environmental, K3, or product-compliance language; - ISO/BSN records show review, amendment, replacement, confirmation, or withdrawal; - a supplier, product construction, adhesive/finish/preservative, report, certificate, label, or warranty changes; - project climate, use, load, fire strategy, moisture exposure, substrate, installation, or maintenance conditions differ; - an exact value, class, tolerance, test result, service life, price, yield, capacity, or acceptance decision is proposed; - publication begins more than 90 days after this verification date for law/safety/legal pages, or more than 12 months later for stable technical foundations. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+Catat posisi sumber listrik, panel atau sirkuit yang diketahui, stopkontak yang terlihat, jalur kabel yang ada, area basah, ventilasi, sumber panas, paparan matahari, serta kemungkinan percikan. Ambil foto konteks, bukan hanya foto stopkontak. Jika ada label peralatan atau informasi dari pengelola bangunan, simpan sebagai catatan, bukan sebagai bukti bahwa pemasangan kelistrikan telah diperiksa.
 
-### KR-77
+Rujukan [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897) membahas instalasi listrik di lokasi khusus; informasi [PUIL 2020 dari PLN](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman) menempatkan PUIL sebagai acuan keselamatan instalasi listrik. Keduanya tidak menetapkan detail pasokan, pembumian, proteksi, atau kesesuaian instalasi lokasi ini. Sobat Kaca.co.id, jangan menentukan sendiri detail listrik dari jumlah stopkontak yang terlihat.
 
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
+Panas, matahari, dan percikan tidak berdiri sendiri. Catat kapan paparan terlihat, dari mana arahnya, bagian ruang yang terkena, dan apakah ada perubahan penggunaan ruangan sepanjang hari. Data ini membantu perancang bertanya lebih tepat, tetapi tidak membuktikan temperatur operasi atau hasil perawatan air.
 
-### KR-79
+## Tanyakan akses perawatan dan kesiapan penghuni sejak awal
 
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
+Survei lokasi perlu memeriksa apakah orang dapat mencapai area yang harus dirawat tanpa mengandalkan dugaan. Catat ruang di depan, samping, atas, dan belakang yang benar-benar tersedia; pintu kabinet, bukaan servis, akses ke pipa dan peralatan; serta gangguan dari furnitur atau aktivitas penghuni. Jangan mengukur akses hanya saat ruangan kosong lalu menganggapnya selalu terbuka.
 
-### KR-72
+Jika aquarium direncanakan untuk penghuni hidup, kumpulkan informasi awal tentang jenis penghuni yang dituju, pihak yang akan mengelola, sumber air, dan kebutuhan pemantauan. Air yang bening tidak membuktikan mutu air, kesehatan, kecocokan jenis, atau kesejahteraan penghuni. [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/) menunjukkan bahwa kesehatan hewan akuatik membutuhkan pertimbangan yang lebih luas daripada tampilan air pada satu saat.
 
-- **Original sources:** [SNI 15-0047-2005 flat glass catalog record — BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), [ISO 12543 laminated glass series](https://www.iso.org/standard/81997.html), [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html).
-- **Purpose for this article:** Ground float/annealed, heat-treated, laminated, low-iron, acrylic comparison and fabrication content without a universal thickness table.
-- **Safe grounded facts:** Nominal thickness, glass type, test specimen, edge finish, size, support, duration, and environment must travel with strength/performance data.
-- **Limits:** Product or test standards do not size an aquarium. Require exact product/build-up, fabrication records, calculations, samples, inspection, and competent glazing/structural review.
+## Pakai formulir survei yang memisahkan fakta dan pertanyaan
 
-### KR-78
+Sederhananya, setiap butir survei perlu memiliki kolom: apa yang terlihat atau diukur, sumber bukti, batas pengamatan, pertanyaan terbuka, dan pihak penindak lanjut. Bentuk ini mencegah catatan lapangan berubah menjadi rancangan atau janji.
 
-- **Original sources:** [UU No. 31 Tahun 2004 tentang Perikanan — BPK](https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004), [CITES species database](https://speciesplus.net/), [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/).
-- **Purpose for this article:** Prevent décor-first stocking, unsupported compatibility, protected-species, import, and health claims.
-- **Safe grounded facts:** A trade name, shop availability, photo, or CITES listing does not by itself prove lawful possession/import, health, compatibility, or welfare in one tank.
-- **Limits:** Verify current Indonesian fisheries/quarantine/conservation rules, species identity/source/documents, qualified welfare/health plan, and local authority before specific stocking or trade claims.
+| Kelompok survei | Yang dicatat | Pertanyaan atau tindak lanjut |
+| --- | --- | --- |
+| Dimensi dan akses | Ukuran lapangan, rute, hambatan, foto arah | Apa yang belum terukur dan siapa yang meninjau rute? |
+| Tumpuan dan posisi | Kondisi yang terlihat, gambar yang ada, elevasi/posisi tercatat | Perlukah bukti rancangan atau tinjauan struktur? |
+| Air dan drainase | Titik yang terlihat, penggunaan bersama, area basah | Siapa pemilik sistem dan data apa yang belum ada? |
+| Kelistrikan | Posisi sumber, area basah, jalur yang tampak | Siapa tenaga listrik yang memeriksa rancangan dan kondisi? |
+| Panas dan matahari | Arah paparan, waktu pengamatan, ventilasi | Perlukah data tambahan pada waktu berbeda? |
+| Perawatan | Ruang akses, bukaan servis, hambatan penggunaan | Siapa yang merawat dan kapan akses tersedia? |
+| Penghuni dan penggunaan | Tujuan, pengguna, rencana penghuni, pengelola | Apa keputusan akuatik dan operasional yang masih terbuka? |
+| Persetujuan dan antarmuka | Pemilik ruang, pekerjaan lain, dokumen, aturan lokasi | Pihak mana yang harus memberi keputusan? |
 
-## Evidence gates
+## Jangan tutup survei saat ketidakpastian masih penting
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Hentikan keputusan desain atau jadwal pemasangan bila data yang menentukan belum tersedia: misalnya tumpuan tidak punya bukti, rute belum diukur lengkap, kondisi listrik belum diperiksa, sumber air atau pembuangan belum jelas, akses perawatan tertutup, atau pengguna dan penghuni belum ditetapkan. Catatan kondisi dan keputusan yang bertanggung jawab lebih berguna daripada memperbaiki asumsi di kemudian hari; batas ini sejalan dengan [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913) yang membedakan catatan kondisi dari keputusan teknis.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+[NEEDS TINJAUAN REKAYASA, TENAGA LISTRIK, AKUATIK, LOGISTIK, DAN PROYEK: tetapkan kapasitas dan kondisi tumpuan, detail listrik, kualitas serta pengelolaan air, rute pengangkutan, akses perawatan, persetujuan lokasi, dan keputusan penggunaan berdasarkan survei serta dokumen aktual.]
 
-## Internal-link plan
+Jalan pintas yang sering muncul adalah memilih lokasi dari tampilan dinding kosong. Dinding kosong belum menjawab soal penyangga, akses masuk, percikan, panas, kabel, perawatan, atau penggunaan ruang. Lebih aman menyimpan pertanyaan terbuka dalam formulir daripada mengisi kekosongan dengan perkiraan.
 
-### Existing local routes
+## Tutup survei dengan daftar tindakan, bukan kesimpulan gegabah
 
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Daftar survei lokasi aquarium yang baik memberi tim berikutnya fakta yang dapat ditelusuri dan ketidakpastian yang jelas. Ia tidak menyatakan lantai siap menahan aquarium, listrik siap dipakai, air cocok, atau izin sudah ada.
 
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-01-01` → `/artikel/cara-menulis-brief-aquarium-custom.html` — Cara Menulis Brief Aquarium Custom
-- `AKU-01-02` → `/artikel/volume-kotor-vs-volume-aktual-aquarium.html` — Volume Kotor vs Volume Air Aktual Aquarium
-- `AKU-01-04` → `/artikel/akses-perawatan-aquarium.html` — Merencanakan Akses Perawatan sejak Tahap Desain
-- `AKU-01-05` → `/artikel/brief-aquarium-air-tawar-vs-laut.html` — Brief Aquarium Air Tawar vs Air Laut
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Lokasi Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya, Kawan Kaca.co.id, adalah merapikan foto, ukuran, gambar, dan pertanyaan terbuka dalam satu paket lokasi. Aturannya sederhana: bila sebuah keputusan membutuhkan bukti yang belum dikumpulkan, tulis sebagai belum diputuskan lalu minta peninjauan pihak yang berwenang.
