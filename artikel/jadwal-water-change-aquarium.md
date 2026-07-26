@@ -1,9 +1,10 @@
 ---
 article_id: AKU-09-05
-title: "Jadwal Water Change Berdasarkan Kondisi Sistem"
+title: "Jadwal Penggantian Air Berdasarkan Kondisi Aquarium"
 slug: "jadwal-water-change-aquarium"
-description: "Establish source-water, cycling, salinity, temperature, chemistry, testing, and change-control workflows."
-status: outline
+description: "Cara menentukan penggantian air aquarium dari kondisi penghuni, sisa pakan, hasil pemeriksaan air, dan perubahan sistem."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,241 +18,90 @@ sources:
   - "https://www.iso.org/standard/51994.html"
   - "https://www.iso.org/standard/50256.html"
   - "https://www.who.int/publications/i/item/9241546808"
-  - "https://ejournal.brin.go.id/jphh/article/view/12876"
-  - "https://penerbit.brin.go.id/press/catalog/book/310"
-  - "https://research.fs.usda.gov/treesearch/62246"
-  - "https://www.iso.org/ics/79.060.01/x/"
-  - "https://www.iso.org/standard/84728.html?browse=tc"
-  - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
   - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
   - "https://www.fao.org/fishery/en/aquaculture"
-  - "https://ejournal.brin.go.id/jphh/article/view/12646"
-  - "https://ejournal.brin.go.id/jphh/article/view/12489?articlesBySameAuthorPage=2"
-  - "https://www.iso.org/standard/40502.html?browse=ics"
-  - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/bathing-waters"
-  - "https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004"
-  - "https://speciesplus.net/"
-  - "https://webstore.iec.ch/en/publication/1897"
-  - "https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Jadwal Water Change Berdasarkan Kondisi Sistem
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Jadwal Water Change Berdasarkan Kondisi Sistem”
-- **Reader and situation:** Establish source-water, cycling, salinity, temperature, chemistry, testing, and change-control workflows.
-- **Reader outcome:** Establish source-water, cycling, salinity, temperature, chemistry, testing, and change-control workflows.
-- **Primary intent:** Set changes from measured waste, feeding, livestock, source water, and stability.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns decision inputs; no universal percentage is prescribed.
-- **Final public route:** `/artikel/jadwal-water-change-aquarium.html`
-- **Appointed CMS date:** `2026-02-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jadwal Water Change Berdasarkan Kondisi Sistem**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
 - **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **Placement:** setelah jawaban pembuka, sebelum pembahasan rinci
 - **Exact Markdown to insert:** `![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Selection basis:** metadata nama berkas menyebut `bg aquarium`; tampilan piksel tidak diperiksa.
+- **Hard boundary:** jangan menyimpulkan detail visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil.
+- **Substitution rule:** jangan mengganti gambar ini. Bila aset tidak tersedia atau asalnya belum lengkap, gunakan `[NEEDS IMAGE REVIEW: LOCAL-003]`.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Jadwal Penggantian Air Berdasarkan Kondisi Aquarium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Kaca.co.id!
 
-### KR-01
+Penggantian air (*water change*) bukan pekerjaan yang aman bila dijalankan hanya karena kalender menunjukkan waktunya. Tujuannya adalah mengelola kondisi air berdasarkan bukti dari aquarium yang nyata: penghuni, jumlah pakan, sisa organik, sumber air, hasil pemeriksaan, perubahan peralatan, dan kestabilan operasi. Karena setiap sistem berbeda, tidak ada persentase atau selang waktu tunggal yang layak dipakai sebagai aturan untuk semua aquarium.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+Jadi, jadwal yang baik dimulai dari catatan kondisi dan pemicu keputusan. Air yang tampak jernih tidak otomatis membuktikan suhu, aliran, oksigen terlarut, amonia, nitrit, salinitas, atau kondisi kesehatan penghuni sudah sesuai. [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/) dan [FAO tentang akuakultur](https://www.fao.org/fishery/en/aquaculture) menempatkan kondisi pemeliharaan hewan air sebagai hal yang perlu dinilai bersama, bukan dari satu tampilan saja.
 
-### KR-60
+![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)
 
-- **Original sources:** [ISO 10523 water-quality pH determination](https://www.iso.org/standard/51994.html), [ISO 7393-2 free and total chlorine test method](https://www.iso.org/standard/50256.html), [WHO recreational-water guidance](https://www.who.int/publications/i/item/9241546808).
-- **Purpose for this article:** Prevent one strip, color, or reading from becoming a complete water-balance or microbiological conclusion.
-- **Safe grounded facts:** Sampling point/depth/time, container, preservation, reagent/instrument, calibration, range, interference, temperature, operator, blank/control, and uncertainty can change results.
-- **Limits:** Exact targets, dose calculations, closure/reopening, health conclusions, and compliance require current Indonesian criteria, validated methods, competent sampling/laboratory scope, and measured process evidence.
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-### KR-03
+## Mulai dari tujuan penggantian air
 
-- **Original sources:** [BRIN wood-anatomy study for five West Java/Banten species](https://ejournal.brin.go.id/jphh/article/view/12876), [BRIN Red List of 50 Indonesian commercial timber trees](https://penerbit.brin.go.id/press/catalog/book/310), and [USDA Chapter 2](https://research.fs.usda.gov/treesearch/62246).
-- **Purpose for this article:** Support species-name, substitution, identification, conservation, and suitability articles.
-- **Safe grounded facts:** Local/trade name, color, smell, seller label, and one photograph are insufficient to prove botanical identity, legality, conservation status, or performance.
-- **Limits:** Obtain specimen provenance, anatomical examination or qualified identification, current conservation/trade status, and purchase documents under G-02/G-11.
+Penggantian air berarti mengeluarkan sebagian air aquarium dan menggantinya dengan air yang telah disiapkan sesuai kebutuhan sistem. Pekerjaan ini dapat terkait dengan pengelolaan sisa pakan, hasil pemeriksaan air, perubahan pada penghuni, atau tindakan yang telah disetujui oleh peninjau akuatik. Ia bukan pengganti pemeriksaan penyebab gangguan.
 
-### KR-11
+Sebelum memutuskan tindakan, tulis apa yang ingin diketahui. Apakah ada perubahan perilaku penghuni? Apakah jumlah pakan atau populasi berubah? Apakah ada pekerjaan pada filter, dekorasi, pipa, atau sumber air? Apakah hasil pemeriksaan air dibuat dengan metode yang sama seperti catatan sebelumnya? Pertanyaan ini membantu membedakan pekerjaan terencana dari respons terhadap kondisi yang belum jelas.
 
-- **Original sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
-- **Purpose for this article:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
-- **Safe grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
-- **Limits:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
+Sobat Kaca.co.id, jangan mengambil air lalu berharap masalah otomatis selesai. Bila kondisi penghuni atau air berubah, catat perubahan itu terlebih dahulu. Dengan begitu, penggantian air dapat menjadi bagian dari tindakan yang dapat ditelusuri, bukan sekadar kebiasaan yang sulit dievaluasi.
 
-### KR-77
+## Data apa yang menentukan jadwal
 
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
+Jadwal perlu menghubungkan kondisi sistem dengan bukti yang dicatat. Beberapa data yang relevan antara lain identitas dan jumlah penghuni, pola pemberian pakan, sumber air, kondisi suhu dan peralatan, riwayat pembersihan, hasil pemeriksaan air, serta perubahan yang terjadi sejak catatan terakhir. Tidak semua data harus diukur oleh pemilik sendiri, tetapi data yang dipakai untuk mengambil keputusan perlu diketahui asalnya.
 
-### KR-13
+Pemeriksaan air bukan hanya melihat warna pada alat uji. Titik serta waktu pengambilan sampel, wadah, cara penyimpanan, reagen atau alat, kalibrasi, rentang pembacaan, suhu, operator, dan kemungkinan gangguan dapat memengaruhi hasil. Rujukan [ISO 10523](https://www.iso.org/standard/51994.html) untuk penentuan pH dan [ISO 7393-2](https://www.iso.org/standard/50256.html) untuk pemeriksaan klorin menunjukkan bahwa metode pemeriksaan memiliki kondisi penerapannya sendiri. Rujukan tersebut tidak menetapkan target universal atau langkah penanganan untuk aquarium Anda.
 
-- **Original sources:** [BRIN study of 45 Indonesian woods against drywood/subterranean termites](https://ejournal.brin.go.id/jphh/article/view/12646), [BRIN study of 57 Indonesian woods under cover](https://ejournal.brin.go.id/jphh/article/view/12489?articlesBySameAuthorPage=2), and [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics).
-- **Purpose for this article:** Support termites, borers, fungi, natural durability, diagnosis, selection, and maintenance.
-- **Safe grounded facts:** Botanical identity, sapwood/heartwood, specimen, organism, exposure, test method, moisture path, condition, and treatment history matter.
-- **Limits:** Diagnose actual activity and moisture/source conditions; obtain qualified pest/wood review and current product/legal evidence under G-02/G-09.
+Sumber air juga bukan latar belakang yang boleh diabaikan. Catat asal air, perubahan pada sumbernya, cara persiapan, dan bukti yang tersedia. Perubahan sumber, kondisi penyimpanan, atau cara menambahkan air dapat mengubah keputusan bahkan ketika aquarium tampak sama dari luar.
 
-### KR-15
+## Susun urutan kerja yang dapat dihentikan bila perlu
 
-- **Original sources:** [USDA Wood Handbook fire-safety chapter index](https://research.fs.usda.gov/fpl/wood-handbook), [SNI 7973:2013 record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support ignition, charring, surface behavior, encapsulation, penetrations, post-fire assessment, and dust/fire boundaries.
-- **Safe grounded facts:** Charring discussion, surface test, coating claim, or material name cannot establish a building fire-resistance rating or post-fire reuse.
-- **Limits:** Obtain current Indonesian fire/building basis, complete test report, tested-to-proposed equivalence, incident facts, and fire/structural/K3 review under G-06/G-10.
+Sebelum mulai, tinjau kondisi penghuni, ruang kerja, peralatan, dan rencana bila ada gangguan. Pastikan orang yang bekerja tahu apa yang boleh dilakukan dan kapan harus berhenti. Penggantian air bersinggungan dengan listrik, lantai basah, peralatan, serta kemungkinan perubahan kondisi air; karena itu jangan menempatkan kabel atau peralatan listrik pada jalur tumpahan tanpa penanganan yang sesuai.
 
-### KR-52
+Selanjutnya, dokumentasikan keadaan awal. Foto atau catat pembacaan yang tersedia, kondisi air yang terlihat, perilaku penghuni, posisi peralatan, dan alasan tindakan. Saat air keluar atau masuk, amati perubahan yang muncul tanpa mengubah banyak hal sekaligus bila tujuannya menilai respons sistem. Setelah pekerjaan selesai, catat apa yang benar-benar dilakukan, air yang dipakai, alat yang disentuh, kondisi penghuni, dan tindak lanjut yang diperlukan.
 
-- **Original sources:** [WHO Guidelines for Safe Recreational Water Environments, Volume 2](https://www.who.int/publications/i/item/9241546808), [WHO recreational-water guidance landing page](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/bathing-waters).
-- **Purpose for this article:** Give the catalog one public-health foundation without turning global guidance into Indonesian law or a universal operating number.
-- **Safe grounded facts:** Intended use, bathers, vulnerable users, contact, water source, treatment, circulation, contamination events, hygiene, monitoring, supervision, and response are distinct controls.
-- **Limits:** Exact limits, frequencies, closure, incident, staffing, and public-pool duties require current Indonesian/local rules, facility classification, measured process evidence, and competent review.
+Teman Kaca.co.id, urutan ini sengaja tidak menyebut jumlah air, lamanya pekerjaan, atau nilai parameter. Besarnya perubahan dan cara pelaksanaannya memerlukan identitas penghuni, kondisi air, sumber air, metode pemeriksaan, serta peninjauan yang tepat pada sistem aktual.
 
-### KR-78
+## Gunakan pemicu, bukan angka yang dipinjam
 
-- **Original sources:** [UU No. 31 Tahun 2004 tentang Perikanan — BPK](https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004), [CITES species database](https://speciesplus.net/), [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/).
-- **Purpose for this article:** Prevent décor-first stocking, unsupported compatibility, protected-species, import, and health claims.
-- **Safe grounded facts:** A trade name, shop availability, photo, or CITES listing does not by itself prove lawful possession/import, health, compatibility, or welfare in one tank.
-- **Limits:** Verify current Indonesian fisheries/quarantine/conservation rules, species identity/source/documents, qualified welfare/health plan, and local authority before specific stocking or trade claims.
+Pemicu adalah kondisi yang mengharuskan jadwal ditinjau kembali. Pemicu dapat berupa perubahan pola makan, jumlah penghuni, hasil pemeriksaan yang perlu dikonfirmasi, gangguan filter atau aliran, perubahan sumber air, pengobatan yang disetujui, pekerjaan pada aquarium, atau kejadian tumpahan. Catatan pemicu membantu membedakan “waktunya melakukan pekerjaan” dari “ada alasan baru untuk menilai sistem”.
 
-### KR-79
+Tabel berikut dapat dipakai sebagai kerangka catatan, bukan sebagai rumus penggantian air.
 
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
+| Kondisi yang berubah | Data yang dikumpulkan | Keputusan yang perlu ditinjau |
+| --- | --- | --- |
+| Penghuni atau pakan berubah | Identitas, jumlah, perilaku, dan waktu perubahan | Apakah beban sistem serta cara memantau perlu disesuaikan |
+| Hasil pemeriksaan air berbeda | Metode, waktu, titik sampel, alat, dan hasil sebelumnya | Apakah hasil perlu dikonfirmasi atau ditinjau pihak akuatik |
+| Sumber air atau peralatan berubah | Identitas sumber, cara persiapan, dan perubahan sistem | Apakah prosedur penggantian air perlu diperbarui |
+| Ada gangguan atau tumpahan | Kejadian, kondisi awal, tindakan sementara, dan pihak yang diberi tahu | Apakah pekerjaan harus dihentikan, diisolasi, atau diteruskan dengan peninjauan |
 
-## Evidence gates
+Kawan Kaca.co.id, kalimat “airnya sudah waktunya diganti” sebaiknya selalu dapat dijawab dengan catatan kondisi apa yang menjadi dasarnya. Itu membuat jadwal lebih mudah diperbaiki saat aquarium berubah.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+## Pisahkan kebersihan kaca dari mutu air
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kaca yang bersih membuat aquarium lebih mudah dilihat, tetapi tidak membuktikan kondisi air atau penghuni sudah baik. Sebaliknya, perubahan tampilan kaca tidak otomatis berarti penggantian air adalah tindakan yang tepat. Jika ada gores pada panel saat melakukan perawatan, dokumentasikan dengan [panduan kaca aquarium tergores](/kaca-aquarium-tergores.html). Bila terlihat retak, utamakan pengamanan dan ikuti [langkah awal saat kaca aquarium retak](/kaca-aquarium-retak.html) sebelum meneruskan pekerjaan air biasa.
 
-## Internal-link plan
+Jangan pula menyamakan satu pembacaan dengan diagnosis. [Panduan WHO tentang lingkungan air rekreasi](https://www.who.int/publications/i/item/9241546808) mengingatkan bahwa penggunaan air, sumber kontaminasi, pemantauan, dan respons adalah kontrol yang berbeda. Dalam aquarium, pemeriksaan yang valid, identitas penghuni, kondisi sistem, dan perubahan yang tercatat tetap perlu dibaca bersama sebelum tindakan yang berdampak pada penghuni diputuskan.
 
-### Existing local routes
+## Kesalahan umum saat membuat jadwal
 
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan pertama adalah menyalin persentase dan selang waktu dari aquarium lain. Aquarium lain dapat memiliki penghuni, sumber air, cara pemberian pakan, beban sistem, dan riwayat berbeda. Cara yang lebih aman adalah mencatat kondisi dasar sendiri, lalu menyusun pemicu evaluasi bersama pihak akuatik yang memahami penghuni serta sistemnya.
 
-### Planned sibling articles
+Kesalahan kedua adalah mengganti air dan membersihkan semua bagian sekaligus tanpa catatan. Ketika kondisi kemudian berubah, sulit mengetahui bagian mana yang berpengaruh. Bila beberapa pekerjaan memang perlu dilakukan bersama, tulis semua tindakan serta alasan pelaksanaannya.
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan ketiga adalah mengabaikan keselamatan ruang kerja. Air di lantai, kabel, peralatan terbuka, dan akses sempit dapat membuat pekerjaan sederhana berubah menjadi gangguan yang lebih besar. Pastikan tindakan pengamanan dan pihak yang dapat dihubungi telah ditentukan sebelum mulai.
 
-- `AKU-09-03` → `/artikel/menilai-sumber-air-aquarium.html` — Menilai Sumber Air untuk Aquarium
-- `AKU-09-04` → `/artikel/membaca-test-kit-aquarium.html` — Cara Membaca Test Kit Aquarium
-- `AKU-09-06` → `/artikel/stabilitas-suhu-dan-salinitas.html` — Menjaga Stabilitas Suhu dan Salinitas
+[NEEDS TINJAUAN AKUATIK, SUMBER AIR, PRODUK, DAN PROYEK: tetapkan identitas serta kebutuhan penghuni, sumber dan persiapan air, metode pemeriksaan yang tervalidasi, hasil serta perubahan kondisi sistem, besarnya penggantian air, cara pelaksanaan, dan pemicu penghentian atau eskalasi berdasarkan aquarium aktual.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Jadwal terbaik adalah yang mengikuti bukti
 
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Water Change Berdasarkan Kondisi Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Water Change Berdasarkan Kondisi Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Water Change Berdasarkan Kondisi Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Water Change Berdasarkan Kondisi Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Water Change Berdasarkan Kondisi Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Water Change Berdasarkan Kondisi Sistem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadwal penggantian air yang andal tidak menjanjikan angka universal. Ia menghubungkan pemicu, pemeriksaan yang dapat ditelusuri, kondisi penghuni, dan tindakan yang disetujui. Mulailah dengan daftar kondisi dasar serta catatan setiap perubahan, lalu bawa data itu ke peninjauan akuatik bila keputusan dapat memengaruhi penghuni atau keselamatan sistem. Aturan sederhananya: bila alasan, metode, atau kondisi sumber air belum jelas, jangan mengganti air berdasarkan kebiasaan semata.
