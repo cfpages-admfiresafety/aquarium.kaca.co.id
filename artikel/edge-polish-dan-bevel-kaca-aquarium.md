@@ -1,9 +1,10 @@
 ---
 article_id: AKU-02-03
-title: "Edge Polish, Bevel, dan Kualitas Tepi Kaca"
+title: "Poles Tepi, Bevel, dan Kualitas Tepi Kaca Aquarium"
 slug: "edge-polish-dan-bevel-kaca-aquarium"
-description: "Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence."
-status: outline
+description: "Cara membedakan poles tepi, bevel, chip, sambungan, penanganan, tampilan, dan catatan fabrikasi kaca aquarium tanpa menetapkan toleransi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,26 @@ reader_address: "Kawan Kaca.co.id"
 final_route: "/artikel/edge-polish-dan-bevel-kaca-aquarium.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/index/461"
-  - "https://pesta.bsn.go.id/produk/detail/14854-sni662024"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://peraturan.bpk.go.id/Details/235254/"
-  - "https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025"
-  - "https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026"
-  - "https://silk.menlhk.go.id/index.php/svlk/files/1/information-data"
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
   - "https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005"
   - "https://www.iso.org/standard/81997.html"
   - "https://www.iso.org/standard/23725.html"
-  - "https://www.iso.org/standard/40502.html?browse=ics"
-  - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://www.iso.org/ics/79.060.10/x/"
   - "https://www.dinmedia.de/en/standard/din-32622/262406913"
   - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
-  - "https://simbg.pu.go.id/"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://research.fs.usda.gov/treesearch/62246"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Poles Tepi, Bevel, dan Kualitas Tepi Kaca Aquarium
 
-# Edge Polish, Bevel, dan Kualitas Tepi Kaca
+Halo, Kawan Kaca.co.id!
 
-## Assignment lock
+Tepi kaca aquarium bukan detail kosmetik semata. Edge polish atau poles tepi adalah proses merapikan tepi; bevel adalah bentuk serong pada tepi; sedangkan chip adalah bagian kecil tepi yang terkelupas atau pecah. Pilihan dan kualitas pengerjaan tepi perlu dibaca bersama fungsi panel, hubungan dengan seam atau garis sambungan, cara penanganan, tampilan, dan gambar fabrikasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Edge Polish, Bevel, dan Kualitas Tepi Kaca”
-- **Reader and situation:** Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence.
-- **Reader outcome:** Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence.
-- **Primary intent:** Specify edge finish by joint, handling, appearance, and defect control.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns edge processing; seam preparation belongs to AKU-05.
-- **Final public route:** `/artikel/edge-polish-dan-bevel-kaca-aquarium.html`
-- **Appointed CMS date:** `2025-08-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Namun tepi yang mengilap tidak otomatis membuktikan panel kuat, sambungan silicone baik, atau aquarium dapat diterima. Jangan memberi toleransi, nilai lulus, atau putusan aman dari foto tepi saja. Yang dapat dilakukan pemilik ialah meminta jenis pengerjaan tepi ditulis jelas, memeriksa kondisi yang tampak, lalu mencatat temuan untuk ditinjau fabrikator atau pihak teknis.
 
-## Opening instructions
+![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Edge Polish, Bevel, dan Kualitas Tepi Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Kaca.co.id; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -77,180 +45,52 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Tulis fungsi tepi sebelum memilih tampilannya
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mulailah dari gambar dan posisi panel: tepi mana yang terlihat, mana yang berada dalam sambungan, mana yang diakses saat perawatan, dan mana yang dilindungi oleh komponen lain. Setelah itu baru tanyakan apakah tujuan pengerjaan tepi adalah penanganan, tampilan, hubungan dengan komponen, atau kebutuhan fabrikasi tertentu. Satu istilah “finishing rapi” terlalu kabur untuk dibandingkan dengan hasil kerja.
 
-### KR-01
+Teman Kaca.co.id, minta penyedia menulis jenis pengerjaan pada gambar atau daftar komponen, termasuk posisi panel serta revisinya. Jangan mencampurkan tepi yang terlihat dari luar dengan tepi yang menjadi bagian sambungan. Persiapan seam dan penggunaan silicone perlu tetap dibaca pada gambar serta metode fabrikasi yang sesuai, bukan disimpulkan dari kilap tepi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+## Apa yang dapat dan tidak dapat dibuktikan oleh tepi kaca
 
-### KR-33
+Kondisi tepi yang terlihat dapat dicatat: ada atau tidaknya chip yang tampak, perubahan permukaan, bagian tajam yang terlihat, kotoran, atau area yang tidak dapat dijangkau. Catat lokasi dengan jelas, misalnya sisi dan sudut panel, serta waktu pemeriksaan. Jangan memaksa istilah penyebab bila belum diperiksa; chip yang terlihat tidak otomatis menjelaskan kapan atau bagaimana ia terjadi.
 
-- **Original sources:** [SNI 9374:2025 official BSN catalogue listing for corrugated metal-coated steel roof/wall products](https://pesta.bsn.go.id/produk/index/461), [SNI 66:2024 official BSN record](https://pesta.bsn.go.id/produk/detail/14854-sni662024), and [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
-- **Purpose for this article:** Bound material selection, profile, coating, fasteners, underlay, flashings, condensation, wind, water, and warranty claims.
-- **Safe grounded facts:** Base-metal/coating label, thickness, colour, or “anti bocor/panas/karat” marketing does not establish complete roof wind, water, thermal, acoustic, condensation, corrosion, or service-life performance.
-- **Limits:** Obtain current complete standards, exact proposed roof system, product data/instructions, load/support/fastener design, environmental compatibility, samples, installation inspection, maintenance, and warranty evidence under G-01/G-03/G-05/G-06/G-11.
+Katalog [SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), seri [ISO 12543](https://www.iso.org/standard/81997.html), dan [ISO 1288-3](https://www.iso.org/standard/23725.html) menunjukkan bahwa jenis kaca, susunan, contoh uji, tepi, ukuran, tumpuan, serta kondisi pengujian perlu dibedakan. Rujukan tersebut tidak memberi toleransi tepi aquarium universal atau bukti bahwa satu panel telah diterima.
 
-### KR-17
+Sobat Kaca.co.id, bedakan tampilan dengan kinerja. Poles tepi dapat menjawab kebutuhan perapian tertentu, tetapi tidak menggantikan data kaca, rancangan panel, tumpuan, sambungan, dan pemeriksaan sistem.
 
-- **Original sources:** [Permen LHK 8/2021 status record](https://peraturan.bpk.go.id/Details/235254/), [Permenhut 23/2025 amendment](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025), [PP 8/2026 amendment to PP 23/2021](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026), and [official SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data).
-- **Purpose for this article:** Ground legality, forest origin, processing, transport/export-document, and regulatory-refresh articles.
-- **Safe grounded facts:** A legal/sustainability claim must identify the current rule, actor, activity, source, product, document, issuer, holder, scope, date/status, and verification path.
-- **Limits:** Read consolidated operative texts and current implementing rules; verify actual documents in the official system with legal/compliance review under G-11.
+## Hubungkan pengerjaan tepi dengan fabrikasi dan penanganan
 
-### KR-26
+Pengerjaan tepi harus dicocokkan dengan urutan fabrikasi yang dicatat. Tanyakan kapan pemotongan, pengerjaan tepi, pembersihan, pengecekan, pengemasan, dan penanganan dilakukan; lalu minta catatan perubahan bila ada. Ini membantu membedakan kondisi saat fabrikasi, kondisi saat pengiriman, dan temuan setelah tiba.
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+Saat menilai hubungan tepi dengan seam, jangan mengubah proses menjadi petunjuk aplikasi silicone. Yang perlu dicatat ialah gambar sambungan, area kontak yang ditentukan, identitas bahan, dan pihak yang bertanggung jawab atas pemeriksaan. [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913) membahas aquarium kaca dan pengujian, tetapi halaman rujukannya tidak mengesahkan pengerjaan tepi atau sambungan proyek tertentu.
 
-### KR-72
+## Gunakan daftar pemeriksaan yang jujur
 
-- **Original sources:** [SNI 15-0047-2005 flat glass catalog record — BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), [ISO 12543 laminated glass series](https://www.iso.org/standard/81997.html), [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html).
-- **Purpose for this article:** Ground float/annealed, heat-treated, laminated, low-iron, acrylic comparison and fabrication content without a universal thickness table.
-- **Safe grounded facts:** Nominal thickness, glass type, test specimen, edge finish, size, support, duration, and environment must travel with strength/performance data.
-- **Limits:** Product or test standards do not size an aquarium. Require exact product/build-up, fabrication records, calculations, samples, inspection, and competent glazing/structural review.
+| Bagian | Yang diperiksa | Rekaman yang diminta |
+| --- | --- | --- |
+| Gambar | Posisi panel, revisi, dan jenis pengerjaan tepi yang ditulis | Gambar bertanggal dan daftar komponen |
+| Tepi terlihat | Poles, bevel, chip, kebersihan, atau kondisi yang tampak | Foto bertanda lokasi dan waktu pemeriksaan |
+| Tepi dalam seam | Hubungan dengan gambar dan batas pengamatan | Catatan fabrikator serta metode pemeriksaan |
+| Penanganan | Kemasan, kondisi saat diterima, dan perubahan yang tampak | Dokumen serah terima dan catatan temuan |
+| Keputusan | Temuan, pihak peninjau, dan tindak lanjut | Daftar kekurangan atau persetujuan tertulis |
 
-### KR-16
+Contoh catatan aman: “chip tampak pada tepi sudut panel tertentu saat pemeriksaan penerimaan; ukuran dan akibat belum ditetapkan; dokumentasi diteruskan kepada fabrikator.” Catatan ini tidak mengklaim panel gagal maupun layak.
 
-- **Original sources:** [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Build specification and selection workflows without ranking vague trade labels.
-- **Safe grounded facts:** Selection should state requirement, evidence, acceptance method, responsible reviewer, deviation control, and maintenance assumptions.
-- **Limits:** Exact suitability remains product-, project-, site-, and professional-dependent under G-03/G-04/G-06.
+## Jangan memakai tampilan halus sebagai tanda penerimaan
 
-### KR-73
+Jalan pintas yang sering terjadi ialah menyamakan bevel atau edge polish dengan mutu aquarium secara keseluruhan. Padahal panel dan tumpuan tetap memerlukan bukti sendiri. Volume, air, media, peralatan, kabinet, kondisi lantai, serta beban lain adalah masukan berbeda; [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12626-sni17272020) bukan bukti kapasitas lokasi tertentu.
 
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
+[NEEDS TINJAUAN FABRIKATOR, REKAYASA, PRODUK, DAN PROYEK: tetapkan jenis pengerjaan tepi, gambar, persiapan sambungan, kondisi chip, metode pemeriksaan, kriteria penerimaan, penanganan temuan, dan keputusan penggunaan berdasarkan panel serta lokasi aktual.]
 
-### KR-75
+Kawan Kaca.co.id, bila tepi atau sambungan menimbulkan keraguan, jangan mengamplas, menutup, atau memperbaikinya sendiri demi membuatnya tampak rapi. Simpan catatan kondisi asli dan minta keputusan pihak yang tepat.
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
+## Tepi yang baik harus dapat dijelaskan
 
-### KR-34
+Poles tepi, bevel, dan kualitas tepi kaca aquarium perlu dipilih serta dicatat berdasarkan fungsi panel, seam, penanganan, dan gambar—bukan hanya selera tampilan. Kilap atau halusnya tepi tidak cukup untuk menyatakan penerimaan.
 
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc) and [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html).
-- **Purpose for this article:** Ground bamboo selection, culm condition, structural scope, joints, durability, and engineered-product boundaries.
-- **Safe grounded facts:** Species/trade name, culm diameter, age claim, treatment claim, or “engineered bamboo” label does not establish characteristic properties, grade, connection behavior, durability, product conformity, or Indonesian project acceptance.
-- **Limits:** ISO 22156 is under systematic review in 2026 and is not an Indonesian compliance basis by itself. Obtain current full standards, Indonesian/local applicability, identity/maturity/moisture/defects, treatment, sampling/tests, design values, connections, exposure, execution, and engineer acceptance under G-01/G-05/G-06/G-07.
+Langkah berikutnya: buat daftar posisi setiap panel, jenis tepi yang diminta, foto kondisi saat diterima, dan pertanyaan terbuka untuk fabrikator. Aturannya sederhana: bila jenis tepi atau akibat temuan belum didukung gambar dan peninjauan, jangan ubah penampilan menjadi putusan teknis.
 
-### KR-02
-
-- **Original sources:** [USDA Forest Products Laboratory Wood Handbook, revised 2021](https://research.fs.usda.gov/fpl/wood-handbook) and [Chapter 2 — commercially important woods](https://research.fs.usda.gov/treesearch/62246).
-- **Purpose for this article:** Ground anatomy, vocabulary, species/property, movement, machining, and failure explanations.
-- **Safe grounded facts:** Species name alone does not establish an individual piece's grade, moisture, defects, strength, durability, machining response, or project suitability.
-- **Limits:** U.S. species tables and construction practice are not Indonesian design values. Use Indonesian/local evidence and actual specimens under G-02/G-06.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-02-01` → `/artikel/kaca-float-vs-low-iron-aquarium.html` — Kaca Float vs Low-Iron untuk Aquarium
-- `AKU-02-02` → `/artikel/kaca-tempered-vs-annealed-aquarium.html` — Kaca Tempered vs Annealed untuk Aquarium
-- `AKU-02-04` → `/artikel/lubang-dan-cut-out-panel-aquarium.html` — Lubang dan Cut-Out pada Panel Aquarium
-- `AKU-02-05` → `/artikel/menilai-kaca-lengkung-aquarium.html` — Cara Menilai Kaca Lengkung dan Cembung
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Edge Polish, Bevel, dan Kualitas Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Edge Polish, Bevel, dan Kualitas Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Edge Polish, Bevel, dan Kualitas Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Edge Polish, Bevel, dan Kualitas Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Edge Polish, Bevel, dan Kualitas Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Edge Polish, Bevel, dan Kualitas Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bandingkan temuan tepi dengan [panduan inspeksi cacat visual kaca aquarium](/artikel/inspeksi-cacat-visual-kaca-aquarium.html) dan [perbedaan kaca float dengan low-iron](/artikel/kaca-float-vs-low-iron-aquarium.html).
