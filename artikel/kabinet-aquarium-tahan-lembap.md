@@ -25,14 +25,10 @@ sources:
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key="
   - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
   - "https://simbg.pu.go.id/"
-  - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://pesta.bsn.go.id/produk/detail/12306-sni28472019"
   - "https://pesta.bsn.go.id/produk/detail/12305-sni17262019"
   - "https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005"
   - "https://www.iso.org/standard/81997.html"
   - "https://www.iso.org/standard/23725.html"
-  - "https://www.iso.org/standard/71639.html"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
 # Kabinet Aquarium Tahan Lembap dan Tumpahan
@@ -60,11 +56,11 @@ Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-Kabinet aquarium adalah struktur penyangga yang menopang beban statis aquarium berisi air, substrate, batu, dan peralatan. Dalam konteks ini, yang dibahas adalah ketahanan material dan konstruksi kabinet terhadap kelembapan dan tumpahan, bukan desain estetika atau tata letak interior. Batas ini penting karena keputusan tentang kelistrikan, pencahayaan, atau penempatan peralatan elektronik di dalam kabinet termasuk cakupan artikel terpisah.
+Kabinet aquarium adalah struktur penyangga yang menopang beban aquarium, air, substrat, batu, dan peralatan. Artikel ini membahas ketahanan material dan konstruksi kabinet terhadap kelembapan dan tumpahan, bukan desain estetika atau instalasi kelistrikan di dalamnya.
 
 Kabinet bukan sekadar kotak kayu. Ia adalah bagian dari jalur beban yang menghubungkan berat aquarium ke permukaan lantai. Jika kabinet tidak rata, tidak kaku, atau tidak merata menopang seluruh permukaan bawah aquarium, tekanan akan terkonsentrasi di titik-titik tertentu pada kaca. Inilah yang menyebabkan retakan pada sambungan lem silikon atau bahkan pada panel kaca itu sendiri.
 
-Dari sisi struktural, beban yang harus ditangani kabinet bukan hanya berat air, tetapi juga substrate, batu hias, peralatan, dan aksi dinamis seperti saat pemilik memindahkan beban atau saat pompa bergetar. SNI 1727:2020 dan SNI 2847:2019 memberikan kerangka acuan untuk beban dan kapasitas struktur, sementara DIN 32622 mengatur persyaratan keamanan untuk aquarium kaca termasuk aspek dukungan dan stabilitas ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12626-sni17272020); [SNI 2847:2019](https://pesta.bsn.go.id/produk/detail/12306-sni28472019); [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
+Dari sisi struktural, beban yang perlu diperhitungkan bukan hanya air, tetapi juga substrat, batu hias, peralatan, dan cara beban itu berpindah ke lantai. Halaman katalog standar dapat membantu mengidentifikasi dokumen yang relevan, tetapi tidak menggantikan perhitungan atau persetujuan desain kabinet tertentu. Untuk aquarium berat atau kondisi bangunan yang tidak jelas, minta penilaian tenaga yang kompeten.
 
 ## Material kabinet dan ketahanan lembap
 
@@ -98,7 +94,7 @@ Standar kaca seperti SNI 15-0047-2005, seri ISO 12543 untuk kaca laminasi, dan I
 
 Ventilasi di dalam kabinet berfungsi dua hal: mencegah penumpukan kelembapan yang bisa memicu pertumbuhan jamur, dan menjaga suhu di dalam kabinet agar tidak terlalu tinggi karena peralatan elektronik. Namun, ventilasi harus dirancang dengan hati-hati agar tidak membuka jalur masuk air atau debu ke area kelistrikan.
 
-Desain ventilasi yang baik biasanya menempatkan lubang masuk udara di bagian bawah kabinet (jauh dari sumber air) dan lubang keluar di bagian atas atau belakang. Sirkulasi udara alami ini membantu mengeringkan kelembapan yang terperangkap tanpa memerlukan kipas tambahan. Untuk kabinet yang menampung sump atau peralatan yang menghasilkan panas signifikan, ventilasi aktif dengan kipas mungkin diperlukan, tetapi ini meningkatkan risiko kebocoran listrik jika tidak dirancang dengan benar.
+Letak bukaan ventilasi harus ditentukan dari jalur cipratan air, akses servis, dan lokasi komponen listrik. Sebelum menambah kipas, pastikan pemasangannya tidak menciptakan jalur air menuju sambungan listrik. Bila ruang kabinet menampung peralatan panas atau lembap, periksa rancangan tersebut bersama teknisi yang memahami instalasinya.
 
 Kondisi kelembapan di dalam kabinet juga dipengaruhi oleh suhu ruangan dan keberadaan pemanas atau pendingin di sekitarnya. Fluktuasi suhu bisa menyebabkan kondensasi, yang menambah beban kelembapan pada material.
 
@@ -122,9 +118,9 @@ Frekuensi pemeliharaan juga berpengaruh. Aquarium yang sering dilakukan water ch
 
 ## Contoh keputusan praktis
 
-**Aquarium rumah dengan biaya terbatas.** Untuk aquarium hingga 100 liter, kabinet plywood triplek dengan ketebalan 18 mm dan lem type B sudah cukup memadai, asalkan semua tepi dan sambungan diseal dengan silicone. Tambahkan tray penampung di bawah area filter. Jangan menggunakan particleboard atau MDF tanpa pelindung waterproof yang sangat baik.
+**Aquarium rumah dengan biaya terbatas.** Jangan menentukan kabinet dari jenis panel dan ketebalan saja. Minta data material, detail rangka, jarak penyangga, sambungan, serta perlindungan tepi, lalu cocokkan dengan beban dan bentang yang benar-benar akan dipikul. Tray penampung di bawah area berisiko bocor dapat memudahkan deteksi tumpahan, tetapi bukan pengganti perbaikan kebocoran.
 
-**Aquarium besar untuk ruang tamu.** Untuk aquarium 300 liter ke atas, pertimbangkan kabinet dengan rangka kayu solid atau kombinasi rangka kayu solid dan panel plywood. Pastikan kabinet memiliki kaki yang bisa disetel levelnya, ventilasi yang memadai, dan akses mudah ke area sump. Verifikasi kapasitas lantai ruangan sebelum pemasangan.
+**Aquarium besar untuk ruang tamu.** Rangka, sambungan, permukaan penopang, lantai, dan akses servis perlu dinilai bersama. Jangan mengandalkan volume sebagai penentu tunggal; bentuk aquarium, posisi beban, serta kondisi lantai dapat mengubah kebutuhan. Verifikasi rancangan sebelum aquarium diisi.
 
 **Aquarium di area semi-terbuka.** Jika kabinet berada di lokasi yang terpapar kelembapan tinggi atau fluktuasi suhu, gunakan material yang secara spesifik dirancang untuk paparan eksternal. Pertimbangkan kabinet stainless steel atau aluminium yang tidak rentan terhadap kelembapan, meskipun biayanya lebih tinggi.
 
@@ -136,7 +132,7 @@ Kesalahan kedua adalah mengabaikan ventilasi. Kabinet yang tertutup rapat tanpa 
 
 Kesalahan ketiga adalah tidak memeriksa level kabinet secara berkala. Kabinet yang mulai tidak rata karena material yang memuai atau lantai yang mengendap akan menciptakan titik tekan tidak merata pada aquarium. Periksa level minimal setiap enam bulan, terutama setelah perubahan suhu atau kelembapan yang signifikan.
 
-Keempat, jangan mengabaikan aspek keamanan penanganan dan instalasi. ISO 12480-1 tentang penggunaan crane yang aman dan Permen PUPR No. 10 Tahun 2021 tentang sistem keselamatan konstruksi memberikan kerangka tentang bagaimana menangani beban berat secara aman, termasuk saat memindahkan atau memasang aquarium besar ([ISO 12480-1](https://www.iso.org/standard/71639.html); [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
+Keempat, pemindahan dan pemasangan aquarium besar memerlukan rencana pengangkatan yang sesuai dengan ukuran, massa, jalur masuk, dan alat yang tersedia. Hentikan pekerjaan bila jalur, titik angkat, atau kapasitas penyangga belum jelas.
 
 ## Satu jalan pintas yang perlu diwaspadai
 

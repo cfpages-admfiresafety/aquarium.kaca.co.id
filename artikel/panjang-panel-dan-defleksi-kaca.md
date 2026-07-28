@@ -41,7 +41,7 @@ END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-Defleksi adalah pergeseran atau pembengkokan kaca akibat tekanan air. Semakin panjang panel kaca, semakin besar defleksi yang terjadi pada kedalaman yang sama. Ini bukan sekadar masalah estetika — defleksi yang berlebihan bisa menyebabkan stres pada sambungan silikon, micro-crack pada tepi kaca, dan pada kasus ekstrem, kegagalan panel.
+Defleksi adalah perubahan bentuk panel kaca akibat tekanan air. Pada kedalaman dan detail penopang yang sebanding, bentang yang lebih panjang perlu ditinjau karena perilaku panel dan sambungannya ikut berubah. Ini bukan sekadar masalah estetika: besarnya gerak yang dapat diterima harus dinilai bersama kaca, tepi, sambungan, dan bracing.
 
 Salah paham yang paling berbahaya adalah menganggap bahwa volume aquarium adalah satu-satunya faktor penentu ketebalan kaca. Volume hanya menghitung total air, tetapi tidak memperhitungkan bagaimana air tersebut menekan panel. Dua aquarium dengan volume 200 liter — satu berukuran 80×40×62,5 cm dan satu lagi 100×40×50 cm — memiliki kedalaman yang berbeda dan panjang panel yang berbeda, sehingga kebutuhan ketebalan kacanya juga berbeda.
 
@@ -55,7 +55,7 @@ Tidak ada tabel umum dalam artikel ini yang boleh dipakai untuk memilih ketebala
 
 **Bracing** adalah struktur penahan yang dipasang di bagian atas atau samping aquarium untuk mengurangi defleksi. Bracing bisa berupa kaca tambahan, aluminium, atau material lain yang membatasi pergerakan panel.
 
-DIN 32622, standar untuk aquarium kaca, mencakup persyaratan keamanan dan pengujian yang relevan untuk memahami apa yang diharapkan dari panel aquarium yang aman ([DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)). Cakupan artikel ini adalah efek panjang panel terhadap defleksi, bukan penerimaan akhir yang memerlukan bukti standar dan ahli.
+Halaman katalog [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913) mengidentifikasi standar aquarium kaca, tetapi tidak menampilkan perhitungan atau persetujuan untuk panel tertentu. Artikel ini hanya menjelaskan mengapa bentang perlu diperiksa; penerimaan akhir tetap memerlukan bukti rancangan yang sesuai.
 
 ## Cara kerjanya
 
@@ -85,9 +85,9 @@ Beberapa kondisi bisa mengubah batas defleksi yang dapat diterima:
 
 Berikut beberapa skenario yang membantu Anda memahami hubungan antara panjang panel dan defleksi:
 
-**Skenario 1: Aquarium 60×30×36 cm dengan ketebalan 6 mm.** Panel depan berukuran 60 cm dengan kedalaman 36 cm. Untuk ketebalan 6 mm, defleksi pada kondisi ini mungkin masih dalam batas yang wajar untuk penggunaan rumahan.
+**Skenario 1: Dua aquarium dengan volume sama, tetapi panel berbeda.** Catat panjang dan kedalaman panel masing-masing. Perbedaan geometri itu cukup untuk membuat kebutuhan rancangan berbeda, sehingga ketebalan tidak boleh dipilih dari volume atau contoh aquarium lain.
 
-**Skenario 2: Aquarium 120×40×50 cm dengan ketebalan 8 mm.** Panel depan berukuran 120 cm — dua kali lipat dari skenario pertama — dengan kedalaman 50 cm. Meskipun ketebalannya lebih besar, defleksi bisa lebih signifikan karena kombinasi panel panjang dan kedalaman yang lebih besar.
+**Skenario 2: Panel lebih panjang pada kedalaman yang sama.** Jangan menyamakan hasilnya dengan panel pendek hanya karena ketebalannya dinaikkan. Fabrikator perlu menilai perubahan bentang bersama detail tepi, sambungan, dan tumpuan.
 
 **Skenario 3: Aquarium 120×40×50 cm dengan bracing top.** Dengan penambahan bracing di bagian atas, bentang panel efektif berkurang, yang mengurangi defleksi secara signifikan. Ini menunjukkan bagaimana bracing bisa menjadi solusi untuk panel panjang.
 
@@ -113,7 +113,7 @@ Alternatif yang lebih andal: konsultasikan dengan fabrikator yang berpengalaman 
 
 ## Kesimpulan
 
-Panjang panel atau bentang kaca adalah faktor kritis dalam menentukan defleksi aquarium yang harus diperhatikan bersama ketebalan dan kedalaman. Panel yang lebih panjang mengalami defleksi lebih besar pada kedalaman yang sama, yang meningkatkan tekanan pada sambungan dan sudut. Bracing bisa menjadi solusi efektif untuk mengurangi defleksi tanpa menambah ketebalan secara berlebihan.
+Panjang panel atau bentang kaca perlu diperhatikan bersama ketebalan, kedalaman, tepi, sambungan, dan tumpuan. Bracing dapat menjadi salah satu bagian dari rancangan untuk mengendalikan gerak panel, tetapi posisi dan detail sambungannya tetap perlu ditinjau untuk konfigurasi aktual.
 
 Langkah selanjutnya yang perlu Anda ambil: tentukan dimensi panel yang sebenarnya, hitung kedalaman air, dan konsultasikan dengan fabrikator untuk menentukan kombinasi ketebalan dan bracing yang tepat. Jangan hanya mengandalkan volume sebagai acuan — perhatikan panjang panel dan kondisi dukungan aquarium Anda.
 

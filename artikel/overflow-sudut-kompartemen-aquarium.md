@@ -49,7 +49,7 @@ Nama atau ketebalan nominal bahan bukan dasar untuk menentukan rancangan overflo
 
 ## Definisi dan batas objek
 
-**Overflow** adalah sistem yang mengalirkan air dari display tank (tampilan utama) ke kompartemen filter atau sump. Sistem ini biasanya terdiri dari lubang atau slot di bagian atas aquarium yang memungkinkan air meluap secara terkontrol. Overflow yang baik harus mencegah kebocoran, menjaga ketinggian air yang stabil, dan memungkinkan akses untuk pembersihan.
+**Overflow** adalah sistem yang mengalirkan air dari display tank (tampilan utama) ke kompartemen filter atau sump. Sistem ini biasanya terdiri dari lubang atau slot di bagian atas aquarium yang memungkinkan air meluap secara terkontrol. Rancangan overflow perlu menyalurkan air pada kondisi operasi yang direncanakan, membatasi risiko air keluar dari jalurnya, dan tetap memberi akses untuk pembersihan. Kapasitas serta detail pengamannya harus ditetapkan untuk konfigurasi aktual, bukan diasumsikan dari bentuknya.
 
 **Sudut** merujuk pada sudut pertemuan antar panel kaca. Sudut 90 derajat adalah yang paling umum, tetapi desain custom bisa menggunakan sudut lain tergantung bentuk yang diinginkan. Sudut yang benar menentukan kekuatan sambungan, estetika, dan kemudahan fabrikasi.
 
@@ -87,7 +87,7 @@ Berikut beberapa skenario yang membantu Anda mengambil keputusan:
 
 **Skenario 1: Aquarium 120 cm dengan overflow internal.** Jangan memilih diameter lubang dari ukuran panjang tangki saja. Minta fabrikator menetapkan detail overflow dari konfigurasi pompa, jalur, tinggi air, dan rencana servis; kompartemen juga perlu cukup aksesibel untuk pembersihan.
 
-**Skenario 2: Aquarium sudut dengan overflow external.** Desain sudut membutuhkan perhatian khusus pada sambungan antar panel. Sudut yang lebih tumpul dari 90 derajat bisa mengurangi tekanan pada sambungan, tetapi juga mengubah estetika dan distribusi air. Overflow external memudahkan akses tetapi membutuhkan ruang tambahan di belakang aquarium.
+**Skenario 2: Aquarium sudut dengan overflow eksternal.** Bentuk sudut mengubah detail pertemuan panel dan jalur air. Jangan menyimpulkan bahwa satu sudut tertentu lebih aman; minta detail sambungan dan rancangan overflow untuk bentuk aktual. Overflow eksternal juga membutuhkan ruang servis di belakang aquarium.
 
 **Skenario 3: Aquarium dengan multiple kompartemen.** Pembagian kompartemen harus mempertimbangkan urutan aliran air — dari display tank ke kompartemen filter mekanis, lalu biologis, dan kembali ke display tank. Setiap kompartemen harus memiliki akses yang memadai untuk perawatan rutin.
 
@@ -97,7 +97,7 @@ Dalam setiap skenario, diskusi dengan fabrikator sebelum fabrikasi dimulai sanga
 
 Kesalahan pertama adalah tidak mempertimbangkan akses untuk perawatan. Banyak desain custom yang terlihat indah tetapi membuat pembersihan filter atau penggantian media menjadi sulit karena kompartemen yang terlalu sempit atau posisi yang tidak strategis.
 
-Kesalahan kedua adalah mengabaikan kapasitas overflow. Lubang yang terlalu kecil bisa menyebabkan air meluap dari display tank saat pompa beroperasi dengan kapasitas penuh. Pastikan kapasitas overflow melebihi kapasitas pompa maksimum.
+Kesalahan kedua adalah mengabaikan kapasitas overflow. Jalur yang tidak cukup untuk kondisi operasi dapat membuat air keluar dari display tank. Minta kapasitas sistem ditetapkan bersama pompa, jalur pipa, tinggi air, dan skenario gangguan daya; jangan memakai aturan ukuran lubang yang umum.
 
 Kesalahan ketiga adalah tidak mempertimbangkan distribusi beban pada sudut. Sudut yang buruk bisa menyebabkan stres konsentrasi pada sambungan, yang berakibat retak atau bocor seiring waktu.
 

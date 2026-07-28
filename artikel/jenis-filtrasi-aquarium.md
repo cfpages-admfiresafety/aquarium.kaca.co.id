@@ -15,18 +15,8 @@ final_route: "/artikel/jenis-filtrasi-aquarium.html"
 technical_review: required
 writing_contract_version: "native-id-v2"
 sources:
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
-  - "https://simbg.pu.go.id/"
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Details/104477/permen-"
-  - "https://www.who.int/publications/i/item/9241546808"
   - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
   - "https://www.fao.org/fishery/en/aquaculture"
-  - "https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html"
-  - "https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004"
-  - "https://speciesplus.net/"
-  - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://www.iso.org/standard/62085.html"
 ---
 
 # Jenis Filtrasi Aquarium dan Fungsi Masing-Masing
@@ -58,7 +48,7 @@ Filtrasi aquarium adalah proses mengalirkan air melalui media atau komponen tert
 
 Yang perlu dipahami, filtrasi tidak sama dengan menjaga kualitas air secara menyeluruh. Parameter seperti suhu, salinitas, pH, dan oksigen terlarut bergantung pada perangkat dan kondisi lingkungan, bukan semata-mata pada filter. Filter adalah satu bagian dari sistem hidup yang lebih besar, dan keputusan tentang filter harus dipertimbangkan bersama sirkulasi, aerasi, pemanas, dan manajemen pakan.
 
-Dari sisi regulasi, pengelolaan akuatik berpotensi terkait berbagai ketentuan perizinan dan keamanan, terutama untuk instalasi berskala besar atau di area publik. Di Indonesia, UU No. 31 Tahun 2004 tentang Perikanan mengatur aspek pengelolaan sumber daya akuatik, sementara standar internasional seperti WHO untuk lingkungan air rekreasi dan pedoman kesehatan akuatik dari WOAH memberikan kerangka acuan yang lebih luas. Penerapannya di Indonesia harus dikonfirmasi dengan peraturan nasional dan lokal yang berlaku ([UU No. 31 Tahun 2004 tentang Perikanan](https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004); [WHO recreational-water guidance](https://www.who.int/publications/i/item/9241546808); [CDC Model Aquatic Health Code](https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html)).
+Untuk aquarium rumah, fokuskan dulu keputusan pada penghuni, kebiasaan memberi pakan, dan hasil pengukuran air. Bila sistemnya besar, terbuka untuk pengunjung, atau melibatkan satwa yang pengadaannya diatur, kebutuhan izin dan pengawasan harus diperiksa sebagai urusan tersendiri; artikel ini tidak menetapkan kewajiban hukumnya.
 
 ## Cara kerja masing-masing jenis filtrasi
 
@@ -100,7 +90,7 @@ Aerasi memasukkan oksigen ke dalam air, baik melalui diffuser, air stone, maupun
 
 Hubungan antara aerasi dan filtrasi biologis sangat erat. Bakteri nitrifikasi adalah organisme aerobik, artinya mereka membutuhkan oksigen untuk menguraikan amonia. Jika oksigen terlarut rendah, koloni bakteri melambat, amonia menumpuk, dan kualitas air memburuk meskipun filter biologis sudah terpasang.
 
-Oksigen terlarut juga dipengaruhi oleh suhu: air yang lebih hangat menampung lebih sedikit oksigen terlarut daripada air yang lebih dingin. Ini berarti aquarium tropis dengan suhu 26-28 derajat Celsius membutuhkan perhatian lebih terhadap aerasi dibandingkan aquarium dengan air yang lebih dingin.
+Suhu juga memengaruhi kemampuan air menahan oksigen. Karena itu, jangan menilai aerasi dari gelembung semata: lihat perilaku penghuni, arah aliran di permukaan, dan hasil pengukuran yang sesuai untuk sistem Anda.
 
 ### Sump dan skimmer protein
 
@@ -120,27 +110,27 @@ Ketiga, frekuensi pemeliharaan sangat mempengaruhi kinerja. Media mekanis yang t
 
 Keempat, kondisi lingkungan seperti suhu, pH, dan oksigen terlarut mempengaruhi aktivitas bakteri nitrifikasi. Perubahan mendadak pada parameter ini bisa mengganggu siklus nitrogen dan memicu krisis kualitas air.
 
-Standar seperti DIN 32622 dan ISO 9001 memberikan kerangka dokumentasi untuk pengelolaan kualitas, namun penerapannya dalam konteks aquarium harus disesuaikan dengan skala dan kebutuhan spesifik instalasi Anda ([DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913); [ISO 9001](https://www.iso.org/standard/62085.html)).
+Jika Anda memakai catatan perawatan, catat perubahan media, hasil uji air, dan gejala pada penghuni. Catatan itu membantu membedakan masalah yang muncul setelah perubahan sistem dari masalah yang sudah berlangsung sebelumnya.
 
 ## Contoh keputusan praktis
 
 Berikut beberapa skenario yang sering dihadapi pemilik aquarium dan pertimbangan untuk setiap situasi.
 
-**Aquarium air tawar pemula dengan bioload ringan.** Untuk aquarium 60-80 liter yang hanya berisi 4-5 ikan kecil, kombinasi sponge filter (mekanis + biologis) dan air stone sudah cukup. Tambahkan sedikit karbon aktif jika air mulai berwarna kuning karena tanaman atau pakan. Jangan memaksakan sump atau skimmer untuk ukuran ini karena biaya dan kompleksitasnya tidak proporsional.
+**Aquarium air tawar pemula dengan beban organik ringan.** Mulailah dari filter yang menyediakan penangkapan kotoran dan ruang bagi bakteri, lalu uji air setelah penghuni dan pakan masuk bertahap. Media kimia dipilih untuk masalah yang jelas, bukan sekadar karena air berubah warna. Bila hasil uji atau perilaku ikan memburuk, tahan penambahan penghuni sampai penyebabnya ditemukan.
 
-**Aquarium air laut dengan karang hidup.** Sistem ini membutuhkan filtrasi biologis yang kuat, skimmer protein untuk mengangkat organik terlarut, sump dengan ruang untuk kalsium reactor atau kalkwasser, dan sirkulasi tinggi. Media karbon aktif mungkin diperlukan untuk menjaga kejernihan, tetapi harus digunakan dengan hati-hati karena bisa menyerap elemen trace yang dibutuhkan karang.
+**Aquarium air laut dengan karang hidup.** Putuskan komponen dari kebutuhan spesies dan rancangan sistemnya. Sump, skimmer protein, reaktor, serta media kimia dapat berguna, tetapi manfaat dan risikonya perlu dipastikan dari kebutuhan penghuni, instruksi produk, serta pengukuran parameter yang relevan; jangan memasangnya sebagai paket wajib.
 
-**Aquarium besar di area publik.** Untuk instalasi di hotel, gedung perkantoran, atau area komersial, pertimbangan utama adalah keandalan dan kemudahan pemeliharaan. Sistem sump dengan redundant pump (pompa cadangan) sangat disarankan. Keamanan listrik dan kebocoran harus menjadi prioritas utama. Pengaturan tata letak dan aksesibilitas juga perlu memenuhi ketentuan yang berlaku untuk bangunan dan fasilitas publik ([PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-); [SIMBG public service](https://simbg.pu.go.id/); [Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017); [Permen PUPR additional record](https://peraturan.bpk.go.id/Details/104477/permen-)).
+**Aquarium besar di area publik.** Keandalan, akses perawatan, keamanan listrik, dan pencegahan tumpahan perlu dirancang sebagai satu sistem. Kebutuhan pompa cadangan, alarm, atau komponen tambahan harus ditetapkan dari analisis kegagalan dan rencana respons yang terdokumentasi, lalu ditinjau oleh pihak teknis yang berwenang.
 
 ## Kesalahan umum dan cara memeriksanya
 
 Kesalahan paling sering adalah menganggap satu jenis filtrasi sudah cukup. Pemilik aquarium memasang filter mekanis yang bagus dan merasa air sudah aman, padahal koloni bakteri belum berkembang atau media biologis tidak mencukupi. Untuk memeriksa, gunakan test kit untuk mengukur amonia, nitrit, dan nitrat secara berkala. Jika ketiga parameter ini dalam kondisi aman, berarti sistem biologis Anda berfungsi.
 
-Kesalahan lain adalah tidak memperhatikan ukuran filter relatif terhadap volume aquarium. Filter yang terlalu kecil untuk volume yang besar tidak akan mampu memproses air cukup cepat, dan beberapa ikan akan terpapar racun yang belum sempat diuraikan. Aturan praktis: pilih filter yang mampu mengalirkan seluruh volume aquarium setidaknya 3-5 kali per jam untuk air tawar, dan lebih tinggi untuk air laut.
+Kesalahan lain adalah memilih filter hanya dari angka debit pada kemasan. Debit nyata berubah karena tinggi dorong, pipa, media, dan kotoran yang terkumpul. Cocokkan rancangan dengan kebutuhan penghuni, lalu verifikasi melalui pemeriksaan aliran dan hasil uji air, bukan dengan satu angka putaran per jam.
 
 Ketiga, Kawan Kaca.co.id, mengganti semua media filtrasi sekaligus bisa menghancurkan koloni bakteri. Ganti media secara bergantian, biarkan satu bagian stabil sebelum mengganti bagian berikutnya. Ini menjaga kontinuitas siklus nitrogen.
 
-Keempat, jangan mengabaikan aspek legal untuk instalasi berskala besar. CITES mengatur perdagangan spesies akuatik tertentu, dan perdagangan atau kepemilikan spesies tertentu memerlukan verifikasi dokumen yang sah ([CITES species database](https://speciesplus.net/)). Pastikan spesies yang Anda pelihara bukan spesies yang dilindungi atau memerlukan izin khusus.
+Keempat, untuk spesies yang asal-usul atau perdagangannya mungkin diatur, jangan mengandalkan nama dagang. Minta identitas spesies dan dokumen asalnya kepada pemasok, kemudian periksa kewajiban yang benar-benar berlaku di lokasi Anda.
 
 ## Satu jalan pintas yang perlu diwaspadai
 

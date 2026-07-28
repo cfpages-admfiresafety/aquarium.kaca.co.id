@@ -16,7 +16,6 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/51994.html"
   - "https://www.iso.org/standard/50256.html"
-  - "https://www.who.int/publications/i/item/9241546808"
   - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
   - "https://www.fao.org/fishery/en/aquaculture"
 writing_contract_version: "native-id-v2"
@@ -28,7 +27,7 @@ Halo, Kawan Kaca.co.id!
 
 Banyak pemilik aquarium bingung saat harus memilih antara air tawar dan air laut, atau bahkan tidak menyadari bahwa parameter yang mereka uji untuk satu jenis sistem mungkin tidak relevan untuk jenis lainnya. Perbedaan antara kedua sistem ini bukan hanya soal garam — ini mencakup kimia air, metode pengujian, stabilitas, dan jenis risiko yang harus dikelola.
 
-Jawaban singkatnya begini: air tawar dan air laut memiliki parameter yang berbeda dalam hal salinitas, densitas, buffering capacity (kapasitas penyangga pH), dan jenis kontaminan yang harus diwaspadai. Sistem air laut membutuhkan pengujian yang lebih sering dan lebih luas karena kompleksitas kimia yang lebih tinggi, sementara sistem air tawar lebih fokus pada stabilitas pH dan siklus nitrogen. Pemahaman tentang perbedaan ini membantu Anda mengalokasikan waktu, biaya, dan peralatan pengujian dengan tepat.
+Jawaban singkatnya begini: air tawar dan air laut perlu dipantau dengan pertanyaan yang berbeda—misalnya salinitas, densitas, dan kapasitas penyangga pH pada air laut, serta parameter yang ditentukan oleh organisme dan air sumber pada kedua sistem. Frekuensi serta jenis uji tidak boleh disamaratakan; tetapkan dari kebutuhan spesies, cara pengolahan air, dan perubahan yang benar-benar terjadi pada sistem Anda.
 
 <!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-002`
@@ -53,9 +52,9 @@ ISO 10523 menjelaskan metode penetapan pH yang bisa menjadi referensi untuk mema
 
 ## Bedakan objek sebelum membandingkan
 
-**Air tawar** adalah air dengan salinitas rendah, biasanya di bawah 0,5 ppt (parts per thousand). Parameter utama yang harus diuji meliputi pH, amonia, nitrit, nitrat, kekerasan, dan klorin. Stabilitas pH di air tawar sangat bergantung pada hardness (kekerasan) dan buffering capacity.
+**Air tawar** adalah sistem dengan salinitas rendah. Parameter yang dipantau ditentukan oleh organisme, air sumber, dan proses pengolahan; pH, amonia, nitrit, nitrat, kekerasan, dan klorin dapat relevan tergantung kondisinya. Stabilitas pH juga dipengaruhi kekerasan dan kapasitas penyangga.
 
-**Air laut** adalah air dengan salinitas sekitar 35 ppt, yang berarti mengandung sekitar 35 gram garam per liter air. Parameter utama yang harus diuji meliputi salinitas, densitas, pH, alkalinitas, kalsium, magnesium, dan iodin. Sistem air laut memiliki buffering capacity yang lebih tinggi, tetapi juga lebih kompleks untuk dikelola.
+**Air laut** adalah sistem dengan kadar garam yang ditetapkan menurut kebutuhan organisme. Selain parameter dasar, salinitas, densitas, pH, alkalinitas, kalsium, dan magnesium dapat menjadi bagian dari pemantauan; jangan menambahkan atau mengejar angka tanpa target spesies dan metode uji yang jelas.
 
 WOAH (World Organisation for Animal Health) menekankan bahwa air yang jernih tidak membuktikan kandungan oksigen terlarut, amonia, nitrit, salinitas, suhu, patogen, atau aliran yang memadai untuk kesejahteraan organisme akuatik ([WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/)). Ini berarti kedua sistem — baik tawar maupun laut — membutuhkan pengujian yang komprehensif, bukan hanya mengandalkan satu atau dua parameter.
 
@@ -63,13 +62,13 @@ WOAH (World Organisation for Animal Health) menekankan bahwa air yang jernih tid
 
 Berikut kriteria-kriteria yang harus Anda pertimbangkan saat membandingkan kedua sistem:
 
-**Salinitas dan densitas:** Air tawar memiliki salinitas mendekati nol, sementara air laut sekitar 35 ppt. Densitas berbanding lurus dengan salinitas — semakin tinggi salinitas, semakin berat air. Untuk air laut, densitas yang umum digunakan adalah 1,023–1,025.
+**Salinitas dan densitas:** Keduanya berkaitan, tetapi pembacaan dipengaruhi suhu dan alat. Catat satuan, alat, suhu rujukan, serta target spesies agar hasil bisa dibandingkan dari waktu ke waktu.
 
 **Buffering capacity:** Air laut memiliki buffering capacity yang jauh lebih tinggi dibanding air tawar. Ini berarti pH air laut lebih stabil dan tidak mudah berubah saat ada penambahan asam atau basa. Air tawar dengan hardness rendah sangat rentan terhadap fluktuasi pH.
 
 **Jenis pengujian:** Air tawar membutuhkan pengujian yang lebih fokus — pH, amonia, nitrit, nitrat, dan hardness. Air laut membutuhkan pengujian yang lebih luas — salinitas, densitas, pH, alkalinitas, kalsium, magnesium, dan trace elements lainnya. ISO 7393-2 menjelaskan metode pengujian untuk klorin bebas dan total, yang relevan untuk pengolahan air tawar ([ISO 7393-2](https://www.iso.org/standard/50256.html)).
 
-**Frekuensi pengujian:** Sistem air laut umumnya membutuhkan pengujian yang lebih sering karena perubahan yang lebih cepat dan kompleks. Sistem air tawar bisa diuji lebih jarang jika sudah stabil, tetapi tetap membutuhkan monitoring rutin.
+**Frekuensi pengujian:** Tetapkan setelah melihat kebutuhan organisme, tahap kematangan sistem, cara pengolahan air, dan perubahan terakhir. Sistem yang tampak stabil pun perlu dipantau ketika ada perubahan stok, pakan, peralatan, atau air sumber.
 
 **Biaya peralatan:** Peralatan pengujian untuk air laut umumnya lebih mahal dan lebih banyak dibanding air tawar. Refractometer atau hydrometer untuk mengukur salinitas adalah peralatan tambahan yang tidak diperlukan untuk air tawar.
 
@@ -93,7 +92,7 @@ Teman Kaca.co.id, ingat bahwa keputusan ini harus didasarkan pada kondisi nyata 
 
 Kesalahan pertama adalah menganggap air laut hanya membutuhkan tambahan garam saja. Padahal, air laut membutuhkan pencampuran yang tepat, buffering, dan penambahan trace elements yang terukur. Garam aquarium yang berkualitas sudah mengandung elemen-elemen ini, tetapi tetap membutuhkan pengukuran yang akurat.
 
-Kesalahan kedua adalah menguji parameter yang sama untuk kedua sistem tanpa mempertimbangkan perbedaan interpretasinya. pH 7,5 dalam air tawar mungkin baik, tetapi pH 7,5 dalam air laut mungkin terlalu rendah untuk karang. Setiap sistem memiliki rentang normal yang berbeda.
+Kesalahan kedua adalah memakai angka target umum tanpa mengaitkannya dengan spesies, metode uji, dan kondisi sistem. Nilai pH yang sama dapat memiliki arti berbeda di dua sistem; catat konteksnya sebelum menyimpulkan hasilnya baik atau buruk.
 
 Kesalahan ketiga adalah tidak mempertimbangkan biaya jangka panjang. Air laut membutuhkan penggantian air yang lebih mahal, suplemen yang lebih banyak, dan peralatan yang lebih kompleks. Biaya awal yang rendah bisa menipu karena biaya operasional yang tinggi.
 
@@ -109,7 +108,7 @@ Sebelum mengambil keputusan, pastikan Anda memiliki:
 - **Biaya operasional:** Hitung biaya jangka panjang — air, suplemen, listrik, dan penggantian komponen.
 - **Waktu untuk pemeliharaan:** Jujurlah tentang berapa banyak waktu yang bisa Anda alokasikan untuk pemeliharaan rutin.
 
-WHO (World Health Organization) memberikan panduan tentang lingkungan air rekreasi yang bisa menjadi referensi untuk memahami bagaimana parameter air dinilai dari sudut pandang kesehatan ([WHO Guidelines for Safe Recreational Water Environments](https://www.who.int/publications/i/item/9241546808)). FAO juga menyediakan sumber daya tentang aquakultur yang relevan untuk pemahaman tentang pengelolaan air dalam budidaya perikanan ([FAO Aquaculture](https://www.fao.org/fishery/en/aquaculture)). Kedua sumber ini menekankan bahwa parameter air harus dinilai secara komprehensif, bukan hanya berfokus pada satu aspek.
+Halaman [FAO tentang akuakultur](https://www.fao.org/fishery/en/aquaculture) memberi konteks umum tentang pengelolaan budidaya, bukan resep parameter untuk aquarium rumahan. Untuk keputusan sistem Anda, utamakan catatan air sumber, target spesies, serta petunjuk alat uji yang digunakan.
 
 ## Keberatan atau jalan pintas yang perlu diwaspadai
 

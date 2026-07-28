@@ -21,7 +21,7 @@ sources: []
 
 Halo, Kawan Kaca.co.id! Banyak pemilik aquarium air laut tidak menyadari bahwa garam dari air laut bisa menyebabkan korosi pada peralatan logam, kelistrikan, dan material pendukung di sekitar aquarium. Korosi bukan hanya masalah estetika, tetapi juga bisa membahayakan keamanan dan mempersingkat umur peralatan.
 
-Jawaban singkatnya: korosi di sekitar aquarium air laut disebabkan oleh paparan garam dari испарewater dan cipratan air laut. Pencegahan korosi membutuhkan kombinasi material yang tahan garam, pelindung permukaan, pembersihan rutin, dan desain yang meminimalkan paparan garam.
+Jawaban singkatnya: korosi di sekitar aquarium air laut dipercepat oleh garam yang terbawa percikan dan penguapan air. Pencegahan memerlukan pemilihan material, perlindungan permukaan, pembersihan, dan rancangan yang mengurangi paparan; kecocokan setiap material tetap perlu diperiksa untuk kondisi pemasangannya.
 
 ![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)
 *Aset lokal proyek; bukan dokumentasi proyek tertentu.*
@@ -87,7 +87,7 @@ Selain memilih material yang tepat, pelindung permukaan juga penting:
 
 Pembersihan rutin adalah salah satu cara paling efektif untuk mencegah korosi:
 
-- **Bersihkan cipratan air laut** dari permukaan logam dan peralatan setelah setiap penggunaan atau setidaknya seminggu sekali.
+- **Bersihkan cipratan air laut** menurut tingkat paparan dan petunjuk materialnya. Jadwalkan pemeriksaan agar residu garam tidak dibiarkan tanpa diketahui.
 - **Gunakan air tawar** untuk membilas area yang terpapar garam.
 - **Keringkan permukaan** setelah dibersihkan untuk menghilangkan kelembapan yang tersisa.
 - **Periksa area tersembunyi** seperti di belakang kabinet, di dalam rak, atau pada sambungan logam.
@@ -115,7 +115,7 @@ Pertimbangkan juga untuk membuat jadwal pemeliharaan rutin yang mencakup pemerik
 
 Kesalahan paling sering adalah mengabaikan pembersihan rutin, menggunakan material yang tidak tahan garam, dan tidak memperhatikan area tersembunyi yang rentan terhadap korosi. Banyak orang juga tidak menyadari bahwa korosi bisa terjadi di area yang tidak terlihat langsung, seperti di dalam kabinet atau pada sambungan logam.
 
-Cara memeriksa: lakukan inspeksi visual secara berkala, setidaknya sebulan sekali. Perhatikan perubahan warna, adanya bintik-bintik karat, atau perubahan tekstur pada permukaan logam. Periksa juga area tersembunyi yang mungkin terpapar kelembapan.
+Cara memeriksa: lakukan inspeksi visual pada interval yang sesuai tingkat paparan dan aksesnya. Perhatikan perubahan warna, bintik karat, atau perubahan tekstur, termasuk pada area tersembunyi yang mungkin lembap.
 
 Perhatikan juga kondisi peralatan elektronik yang berada di dekat aquarium. Korosi pada konektor atau terminal listrik bisa menyebabkan gangguan listrik atau bahkan bahaya keselamatan.
 

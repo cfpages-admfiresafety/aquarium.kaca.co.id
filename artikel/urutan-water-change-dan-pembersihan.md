@@ -42,9 +42,9 @@ END MANAGED IMAGE PLAN -->
 
 ## Persiapan sebelum memulai water change
 
-Sebelum memulai, pastikan Anda sudah menyiapkan semua yang diperlukan: siphon atau vacuum, ember untuk menampung air kotor, alat pembersih kaca (magnet atau scraper), air baru yang sudah di-chlorine (diamkan minimal 24 jam atau gunakan water conditioner), pengukur parameter air, dan timer untuk mengatur durasi pembersihan.
+Sebelum memulai, siapkan siphon atau vacuum, ember untuk air kotor, alat pembersih kaca, air pengganti yang sudah ditangani sesuai petunjuk penyedia air atau water conditioner, alat ukur parameter, dan perlengkapan yang diperlukan. Jangan mengandalkan waktu diam sebagai pengganti pemeriksaan atau penanganan air yang sesuai.
 
-Periksa parameter air saat ini sebelum memulai. Catat pH, amonia, nitrit, nitrat, dan suhu. Parameter ini menjadi baseline untuk membandingkan kondisi setelah water change selesai dilakukan. Jika parameter sudah buruk sebelum water change, pertimbangkan untuk mengganti air dalam jumlah yang lebih besar (tetapi tetap maksimal 40% untuk menghindari perubahan yang terlalu tajam).
+Periksa parameter yang relevan sebelum memulai dan catat hasilnya sebagai pembanding. Jika hasilnya mengkhawatirkan, jangan memakai persentase umum sebagai resep; tentukan perubahan air serta tindakan lain dari penyebabnya, kebutuhan biota, dan kondisi air pengganti.
 
 Matikan equipment listrik yang tidak diperlukan selama pembersihan — heater, powerhead, dan aerator. Biarkan filter tetap berjalan jika memungkinkan, karena filter membantu menjaga sirkulasi dan menjaga koloni bakteri tetap aktif.
 
@@ -64,7 +64,7 @@ Setelah kaca bersih, lanjutkan ke siphon. Gunakan siphon atau vacuum untuk menga
 
 Siphon harus dilakukan dengan hati-hati agar tidak mengganggu akar tanaman atau merusak dekorasi. Angkat siphon sedikit di atas permukaan substrate untuk mengambil kotoran yang longgar, bukan menyedot seluruh lapisan substrate.
 
-Jumlah air yang diambil melalui siphon biasanya 10-20% dari volume tangki. Jika jumlah ini belum cukup, Anda bisa mengambil lebih banyak air tambahan setelah siphon selesai. Ingat bahwa total air yang dibuang (siphon + pengambilan air tambahan) sebaiknya tidak melebihi 30-40% volume tangki.
+Jumlah air yang diambil melalui siphon bergantung pada tujuan pembersihan, kondisi dasar tangki, dan kemampuan menyiapkan air pengganti yang setara. Catat total yang keluar agar perubahan parameter tidak terjadi tanpa disadari.
 
 ## Persiapan dan pengisian air baru
 
@@ -78,7 +78,7 @@ Tambahkan air baru perlahan-lahan. Jangan menuangkan langsung ke dalam tangki ka
 
 Setelah air ditambahkan, nyalakan kembali equipment yang sudah dimatikan. Periksa apakah semua equipment berfungsi dengan normal — heater, powerhead, aerator, dan lampu.
 
-Uji parameter air kembali setelah 1-2 jam. Bandingkan dengan baseline yang dicatat sebelum water change dimulai. Perubahan pH atau suhu yang signifikan perlu diwaspadai.
+Periksa kembali parameter dan perilaku biota pada waktu yang sesuai dengan perubahan yang dilakukan. Bandingkan dengan catatan awal; bila ada perubahan yang tidak dapat dijelaskan atau perilaku mengkhawatirkan, hentikan penambahan dan cari penyebabnya.
 
 Perhatikan perilaku ikan selama beberapa jam setelah water change. Ikan yang stres akibat perubahan parameter air akan menunjukkan gejala seperti bersembunyi berlebihan, nafsu makan menurun, atau perubahan warna.
 
@@ -88,9 +88,9 @@ Sobat Kaca.co.id, pemeriksaan ini sering dilupakan padahal sangat penting. Tanpa
 
 ## Kesalahan umum dalam water change
 
-Kesalahan pertama adalah mengganti air terlalu banyak sekaligus. Penggantian air lebih dari 40% bisa menyebabkan perubahan parameter air yang tajam dan mengejutkan ikan. Lakukan penggantian air secara bertahap dan teratur.
+Kesalahan pertama adalah mengganti air dalam jumlah besar tanpa menilai perbedaan antara air lama dan air pengganti. Perubahan suhu atau kimia yang mendadak dapat membebani biota; rencanakan jumlah dan cara penambahannya untuk kondisi aktual.
 
-Kesalahan kedua adalah tidak menyiapkan air baru dengan benar. Air keran yang mengandung klorin bisa membunuh bakteri nitrifikasi dan merusak insang ikan. Selalu gunakan water conditioner atau diamkan air selama minimal 24 jam.
+Kesalahan kedua adalah tidak menyiapkan air baru sesuai kondisi sumbernya. Pastikan penanganan klorin atau bahan lain mengikuti petunjuk produk dan data air setempat; jangan menganggap mendiamkan air selama waktu tertentu selalu menyelesaikan masalah.
 
 Kesalahan ketiga adalah membersihkan filter pada saat yang sama dengan water change. Membersihkan filter akan menghilangkan koloni bakteri nitrifikasi yang stabil. Bersihkan filter secara terpisah — idealnya bergantian dengan water change, bukan bersamaan. Untuk memahami lebih lanjut tentang urutan media filter yang benar, baca juga tentang [urutan media filter aquarium](/artikel/urutan-media-filter-aquarium.html).
 

@@ -48,7 +48,7 @@ Keputusan untuk memperbaiki atau mengganti aquarium harus didasarkan pada evalua
 
 Salah paham yang paling berbahaya adalah menganggap bahwa perbaikan kecil selalu lebih ekonomis daripada penggantian. Kenyataannya, biaya perbaikan yang berulang bisa menumpuk melebihi biaya penggantian, terutama jika perbaikan tersebut hanya menunda masalah yang lebih serius.
 
-DIN 32622, standar untuk aquarium kaca, mencakup persyaratan keamanan dan pengujian yang relevan untuk memahami apa yang diharapkan dari panel aquarium yang aman ([DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)). Dalam konteks keputusan perbaikan atau penggantian, standar ini menjadi referensi untuk menilai apakah kondisi aquarium masih memenuhi batas keamanan.
+Halaman katalog [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913) mengidentifikasi standar aquarium kaca, tetapi tidak dapat dipakai untuk menyatakan aquarium tertentu masih memenuhi persyaratan. Jika ada retak, perubahan bentuk, atau kebocoran berulang, hentikan penggunaan dan minta penilaian konfigurasi aktual.
 
 ## Definisi dan batas objek
 
@@ -64,7 +64,7 @@ Kawan Kaca.co.id, penting untuk dipahami bahwa setiap keputusan perbaikan atau p
 
 Keputusan perbaikan atau penggantian dimulai dengan inspeksi menyeluruh terhadap kondisi aquarium. Periksa setiap panel kaca untuk retak, chipping, atau micro-crack. Periksa sambungan silikon untuk kebocoran, degradasi, atau pemisahan. Periksa base atau dasar aquarium untuk retak atau deformasi.
 
-SNI 1727:2020 mengatur persyaratan struktural yang relevan untuk memastikan aquarium dan komponennya memenuhi batas keamanan ([SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)). Dalam konteks inspeksi, ini berarti Anda harus mencari tanda-tanda kerusakan yang mempengaruhi integritas struktural, bukan hanya masalah kosmetik.
+Halaman katalog [SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020) bukan panduan diagnosis aquarium atau bukti penerimaan suatu tangki. Dokumentasikan gejala, lokasi, dan waktu kemunculannya agar pihak yang menilai tidak hanya mengandalkan tampilan kosmetik.
 
 ISO 11600 menjelaskan klasifikasi sealant yang relevan untuk memahami bagaimana sambungan kaca aquarium harus dinilai ([ISO 11600](https://www.iso.org/standard/80526.html)). ISO 8339 memberikan informasi tentang sifat tarik sealant yang bisa menjadi referensi tambahan, meskipun tidak boleh digunakan untuk membuktikan kinerja sambungan di kondisi terendam tanpa data tambahan ([ISO 8339](https://www.iso.org/standard/73355.html)). Label kartrid sealant atau satu nilai adhesi saja tidak cukup untuk membuktikan kapasitas sambungan struktural — diperlukan inspeksi visual dan pengujian kebocoran untuk menilai kondisi aktual.
 
@@ -90,7 +90,7 @@ Berikut beberapa skenario yang membantu Anda mengambil keputusan:
 
 **Skenario 1: Chipping minor pada tepi panel depan.** Kerusakan ini masih bisa diperbaiki dengan pengamplasan dan pengecatan ulang, asalkan tidak ada retakan yang menjalar. Biaya perbaikan relatif rendah dan risiko kegagalan masih terkendali.
 
-**Skenario 2: Retak diagonal pada panel samping.** Retak jenis ini mengancam integritas struktural panel dan biasanya menjadi batas untuk penggantian. Perbaikan mungkin memperpanjang usia sementara, tetapi risiko kegagalan tetap tinggi.
+**Skenario 2: Retak pada panel samping.** Jangan menilai arah retak sendiri sebagai dasar perbaikan. Hentikan pengisian atau operasi, dokumentasikan kondisinya, dan minta penilaian sebelum memutuskan penggantian atau tindakan lain.
 
 **Skenario 3: Kebocoran berulang pada sambungan sudut.** Jika kebocoran terjadi berulang kali meskipun sudah diperbaiki, ini menjadi indikasi bahwa sambungan sudah tidak memadai. Penggantian sealant mungkin masih menjadi opsi, tetapi jika masalah berlanjut, penggantian aquarium perlu dipertimbangkan.
 

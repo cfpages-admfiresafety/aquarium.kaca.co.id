@@ -21,7 +21,7 @@ sources: []
 
 Halo, Sobat Kaca.co.id! Banyak pemilik aquarium tidak menyadari bahwa kelembapan di sekitar aquarium bisa menjadi masalah serius. Dinding yang lembap, jamur yang tumbuh di kabinet, atau cat yang mengelupas bisa menjadi tanda bahwa kondensasi dan kelembapan tidak terkendali. Masalah ini bukan hanya estetika, tetapi juga bisa mempengaruhi kesehatan penghuni aquarium dan integritas struktur pendukung.
 
-Jawaban singkatnya: kondensasi terbentuk ketika udara lembap bertemu dengan permukaan yang lebih dingin dari titik embun. Kelembapan di sekitar aquarium meningkat karena испарение dari permukaan air, dan jika tidak ada ventilasi yang memadai, kelembapan ini akan menempel pada permukaan dingin di sekitarnya. Mengendalikan kondensasi membutuhkan kombinasi ventilasi, pengaturan suhu, dan desain kabinet yang tepat.
+Jawaban singkatnya: kondensasi terbentuk ketika udara lembap bertemu dengan permukaan yang lebih dingin dari titik embun. Kelembapan di sekitar aquarium bertambah karena penguapan dari permukaan air. Solusinya perlu ditentukan dari lokasi embun, suhu air dan ruang, serta jalur udara; jangan menambah ventilasi atau mengubah suhu tanpa memeriksa dampaknya pada aquarium dan kelistrikan.
 
 ![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)
 *Aset lokal proyek; bukan dokumentasi proyek tertentu.*
@@ -63,7 +63,7 @@ Kelembapan yang berlebihan di sekitar aquarium bisa menyebabkan berbagai masalah
 
 Ventilasi sering menjadi bagian dari solusi, tetapi bukan jawaban otomatis untuk semua kasus kondensasi. Amati dulu kapan embun muncul, pada permukaan apa, dan apa yang berubah pada suhu air maupun ruangan. Setelah itu, pilih perbaikan—misalnya aliran udara, penutup, atau pengendalian sumber uap—yang tidak mengganggu kebutuhan aquarium dan aman untuk kabinet serta instalasi listrik.
 
-Kawan Kaca.co.id, pertimbangkan untuk memasang kipas exhaust di dekat aquarium untuk mengeluarkan udara lembap. Kipas kecil yang ditempatkan dengan strategis bisa mengurangi kondensasi secara signifikan.
+Kawan Kaca.co.id, kipas atau exhaust mungkin membantu pada sebagian ruang, tetapi penempatannya perlu dinilai dari sumber uap, jalur udara, dan jaraknya dari peralatan listrik. [NEEDS HVAC/ELECTRICAL REVIEW: tetapkan jenis, lokasi, dan perlindungan kipas sebelum pemasangan di area lembap.]
 
 ### Pengaturan suhu
 
@@ -79,7 +79,7 @@ Untuk area yang sulit diventilasi, pertimbangkan untuk menggunakan penyerap kele
 
 ### Top cover atau penutup
 
-Menggunakan top cover atau penutup pada aquarium bisa mengurangi испареwater secara signifikan. Penutup juga membantu menjaga suhu air tetap stabil dan mengurangi penguapan. Namun, pastikan penutup tidak menghalangi akses untuk pemeliharaan.
+Penutup dapat mengubah penguapan dan pertukaran udara, tetapi manfaatnya bergantung pada rancangan aquarium dan kebutuhan penghuninya. Periksa petunjuk peralatan serta kebutuhan ventilasi sebelum memilih atau memodifikasi penutup.
 
 ## Contoh keputusan praktis
 

@@ -16,8 +16,6 @@ technical_review: required
 sources:
   - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
   - "https://www.fao.org/fishery/en/aquaculture"
-  - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
-  - "https://simbg.pu.go.id/"
 writing_contract_version: "native-id-v2"
 ---
 
@@ -27,7 +25,7 @@ Halo, Kawan Kaca.co.id!
 
 Memasukkan livestock baru langsung ke display tank tanpa karantina adalah salah satu kesalahan paling mahal yang bisa dilakukan oleh pemilik aquarium. Satu ikan atau invertebrata yang terinfeksi bisa membahayakan seluruh penghuni aquarium Anda — dan biaya untuk mengobati atau mengganti organisme yang sakit jauh lebih tinggi daripada biaya karantina yang sederhana.
 
-Jawaban singkatnya begini: karantina adalah proses isolasi dan observasi livestock baru selama periode tertentu sebelum dimasukkan ke display tank. Tujuannya adalah mendeteksi penyakit, parasit, atau masalah kesehatan lainnya sebelum menyebar ke seluruh sistem. Karantina harus dilakukan di akuarium terpisah dengan peralatan yang terpisah, dan diawasi secara rutin selama minimal 2–4 minggu. Kondisi pendukung seperti ukuran karantina, parameter air, dan jenis livestock akan mempengaruhi durasi dan metode karantina.
+Jawaban singkatnya begini: karantina adalah proses isolasi dan observasi biota baru sebelum masuk ke tangki utama. Tujuannya membatasi perpindahan masalah kesehatan serta memberi waktu untuk mencatat kondisi biota. Durasi, kondisi air, dan tindakan lanjutan harus ditetapkan menurut spesies, asal, gejala, dan arahan tenaga kesehatan hewan atau pihak yang kompeten; jangan memakai satu rentang waktu sebagai jaminan aman.
 
 <!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-003`
@@ -58,7 +56,6 @@ WOAH (World Organisation for Animal Health) menekankan pentingnya karantina dan 
 
 Cakupan artikel ini adalah alur kerja karantina, bukan saran veterinarian yang tetap menjadi tanggung jawab pihak yang berwenang. Keputusan tentang pengobatan atau euthanasia harus dikonsultasikan dengan ahli yang memenuhi syarat.
 
-SNI 1727:2020 mengatur persyaratan struktural yang relevan untuk memastikan aquarium dan komponennya memenuhi batas keamanan ([SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)). Dalam konteks karantina, ini berarti akuarium karantina harus memenuhi standar keamanan yang sama dengan display tank.
 
 ## Cara kerjanya
 
@@ -68,7 +65,7 @@ Setelah livestock tiba, amati perilaku dan penampilannya selama periode karantin
 
 Peralatan karantina harus terpisah dari peralatan display tank. Gunakan jaring, termometer, dan test kit khusus untuk karantina. Jangan pernah menggunakan peralatan yang sama tanpa sterilisasi yang memadai, karena bisa menjadi media penularan penyakit.
 
-SNI 1727:2020 juga mengatur persyaratan struktural yang relevan untuk dukungan dan lokasi aquarium ([SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)). PUPR menyediakan informasi tentang sistem bangunan yang bisa menjadi referensi untuk memahami bagaimana dukungan struktural dinilai ([PUPR Building Information System](https://simbg.pu.go.id/)). Dalam konteks karantina, ini berarti akuarium karantina harus diletakkan pada dukungan yang memadai dan stabil.
+Tangki karantina tetap memerlukan tumpuan yang rata, kaku, dan sesuai dengan beban aktualnya. Bila kondisi tumpuan meragukan, jangan mengisi tangki sebelum diperiksa.
 
 ## Faktor yang mengubah hasil
 
@@ -88,7 +85,7 @@ Beberapa kondisi bisa mengubah durasi dan metode karantina:
 
 Berikut beberapa skenario yang membantu Anda mengambil keputusan:
 
-**Skenario 1: Ikan baru dari toko.** Karantina selama minimal 2–4 minggu dengan observasi rutin. Perhatikan tanda-tanda penyakit seperti luka, perubahan warna, atau perilaku aneh. Jika ada masalah, konsultasikan dengan ahli sebelum memasukkan ke display tank.
+**Skenario 1: Ikan baru dari toko.** Pisahkan, amati, dan catat kondisi awalnya. Jika muncul luka, perubahan warna, atau perilaku tidak biasa, jangan memindahkannya ke tangki utama; cari arahan yang sesuai sebelum mengambil tindakan.
 
 **Skenario 2: Ikan dari wild catch.** Karantina mungkin perlu lebih lama karena risiko penyakit yang lebih tinggi. Pertimbangkan untuk melakukan pengobatan profilaksis jika direkomendasikan oleh ahli.
 
@@ -112,11 +109,11 @@ Salah satu jalan pintas yang sering diambil adalah mempersingkat durasi karantin
 
 Masalahnya, ikan yang terlihat sehat bisa saja menjadi pembawa penyakit tanpa disadari. Gejala mungkin baru muncul setelah ikan tersebut dimasukkan ke display tank, pada saat sudah terlambat untuk mengisolasi.
 
-Alternatif yang lebih andal: patuhi durasi karantina yang direkomendasikan — minimal 2–4 minggu — dan lakukan observasi rutin selama periode tersebut. Investasi waktu ini jauh lebih kecil dibanding biaya untuk mengobati atau mengganti organisme yang sakit.
+Alternatif yang lebih andal: buat catatan observasi dan kriteria pemindahan yang jelas untuk spesies tersebut, lalu minta arahan profesional bila ada gejala atau riwayat asal yang tidak jelas. Karantina mengurangi risiko, tetapi bukan bukti bahwa biota bebas penyakit.
 
 ## Kesimpulan
 
-Karantina sebelum livestock masuk display tank adalah langkah kritis yang tidak boleh dilewatkan. Proses isolasi dan observasi selama minimal 2–4 minggu membantu mendeteksi masalah kesehatan sebelum menyebar ke seluruh sistem. Peralatan terpisah, pengawasan rutin, dan pencatatan yang baik menjadi fondasi karantina yang efektif.
+Karantina sebelum biota masuk ke tangki utama membantu membatasi perpindahan masalah kesehatan dan memberi dasar keputusan yang lebih baik. Peralatan terpisah, pengawasan rutin, catatan yang baik, dan eskalasi saat ada gejala menjadi fondasinya.
 
 Langkah selanjutnya yang perlu Anda ambil: siapkan akuarium karantina dengan peralatan yang memadai, beli test kit untuk memantau parameter air, dan buat catatan karantina untuk mendokumentasikan semua observasi. Jangan pernah melewatkan karantina hanya karena terlihat sederhana — investasi waktu Anda di sini akan melindungi seluruh penghuni display tank Anda.
 

@@ -45,9 +45,9 @@ END MANAGED IMAGE PLAN -->
 
 Penempatan aquarium bukan sekadar meletakkan kotak kaca di atas meja. Ini adalah proses yang melibatkan verifikasi dukungan struktural, penyesuaian level yang presisi, dan pengecekan komponen sebelum air masuk. Kesalahan pada tahap mana pun bisa berakibat fatal.
 
-Salah paham yang paling berbahaya adalah menganggap bahwa stand atau meja yang sudah ada pasti cukup kuat untuk menahan beban aquarium. Kenyataannya, beban aquarium termasuk air, substrate, batu, peralatan, dan organisme bisa jauh lebih berat dari yang diperkirakan. Sebuah aquarium 100 liter bisa mencapai berat lebih dari 150 kg saat terisi penuh.
+Salah paham yang paling berbahaya adalah menganggap stand atau meja yang sudah ada pasti cukup kuat untuk menahan aquarium. Beban tidak hanya berasal dari air, tetapi juga kaca, substrat, batu, peralatan, dan isi lainnya. Hitung serta tinjau konfigurasi aktualnya; jangan mengganti pemeriksaan itu dengan angka patokan dari aquarium lain.
 
-SNI 1727:2020 mengatur persyaratan struktural yang relevan untuk memastikan aquarium dan komponennya memenuhi batas keamanan ([SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)). Namun, standar ini tidak memberikan panduan spesifik untuk penempatan aquarium rumahan — Anda perlu memahami prinsip dasarnya untuk mengambil keputusan yang tepat.
+Halaman katalog [SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020) mengidentifikasi dokumen standar, bukan bukti bahwa lantai, stand, atau aquarium tertentu sudah memenuhi persyaratannya. Penilaian dukungan perlu memakai data lokasi dan rancangan aktual.
 
 ## Definisi dan batas objek
 
@@ -63,7 +63,7 @@ Sobat Kaca.co.id, penting untuk dipahami bahwa penempatan dan leveling adalah ta
 
 Penempatan aquarium dimulai dengan verifikasi dukungan struktural. Periksa apakah stand atau meja yang akan digunakan mampu menahan beban total aquarium — termasuk air, substrate, batu, peralatan, dan organisme. Beban ini bisa jauh lebih berat dari yang diperkirakan.
 
-PUPR (Pekerjaan Umum dan Perumahan Rakyat) menyediakan informasi tentang sistem bangunan yang bisa menjadi referensi untuk memahami bagaimana dukungan struktural dinilai ([PUPR Building Information System](https://simbg.pu.go.id/)). Meskipun informasi ini tidak spesifik untuk aquarium, prinsip-prinsip dasar tentang beban dan dukungan tetap relevan.
+Sistem [SIMBG PUPR](https://simbg.pu.go.id/) adalah layanan informasi bangunan, bukan panduan penempatan aquarium atau persetujuan untuk lokasi tertentu. Jika beban atau kondisi lantai belum jelas, tahan pengisian dan minta peninjauan pihak yang berkompeten.
 
 Setelah dukungan terverifikasi, lanjutkan dengan leveling. Gunakan waterpass atau level laser untuk memastikan posisi aquarium benar-benar datar. Periksa dari berbagai sudut — depan-belakang dan kiri-kanan — untuk memastikan tidak ada kemiringan yang signifikan.
 
@@ -87,9 +87,9 @@ Beberapa kondisi bisa mengubah hasil penempatan dan leveling:
 
 Berikut beberapa skenario yang membantu Anda mengambil keputusan:
 
-**Skenario 1: Aquarium 60 liter di atas stand kayu.** Berat total sekitar 70–80 kg. Stand kayu yang kokoh dengan empat kaki yang sejajar biasanya memadai, tetapi pastikan permukaannya rata dan tidak fleksibel. Gunakan waterpass untuk memastikan level dari kedua sudut.
+**Skenario 1: Aquarium di atas stand kayu.** Periksa apakah seluruh bidang tumpuan benar-benar menopang aquarium, stand tidak goyah atau melendut, dan lantai di bawahnya tidak berubah saat dibebani. Gunakan waterpass untuk memeriksa arah depan–belakang dan kiri–kanan sebelum pengisian.
 
-**Skenario 2: Aquarium 200 liter di atas meja besi.** Berat total bisa mencapai 250 kg atau lebih. Meja besi harus memiliki kapasitas beban yang memadai dan kaki yang stabil. Periksa apakah meja tersebut dirancang untuk beban statis yang tinggi.
+**Skenario 2: Aquarium besar di atas meja besi.** Periksa data rancangan stand, titik tumpuan, kekakuan, sambungan, dan kondisi lantai. Jangan menyamakan meja yang tampak kokoh dengan stand yang telah dinilai untuk beban aquarium.
 
 **Skenario 3: Aquarium besar di lantai beton.** Lantai beton umumnya mampu menahan beban tinggi, tetapi pastikan permukaannya rata. Jika ada ketidaksempurnaan, gunakan shimming atau leveling compound untuk menyesuaikan.
 
@@ -111,7 +111,7 @@ Salah satu jalan pintas yang sering diambil adalah meletakkan aquarium langsung 
 
 Masalahnya, aquarium yang tidak level akan mengalami tekanan yang tidak merata pada sambungan silikon. Seiring waktu, stres ini bisa menyebabkan kebocoran atau retak yang memerlukan perbaikan yang mahal.
 
-Alternatif yang lebih andal: luangkan waktu 15–30 menit untuk melakukan leveling dengan benar sebelum mengisi air. Biayanya minim — hanya membutuhkan waterpass atau level laser — tetapi informasinya sangat berharga untuk keamanan jangka panjang.
+Alternatif yang lebih andal: selesaikan pemeriksaan level sebelum mengisi air. Waterpass atau level laser hanya membantu membaca posisi; bila tumpuan tidak rata, fleksibel, atau kapasitasnya belum jelas, hentikan proses dan perbaiki atau minta peninjauan terlebih dahulu.
 
 ## Kesimpulan
 

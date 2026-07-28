@@ -97,7 +97,7 @@ Lakukan inspeksi visual terhadap kondisi aquarium secara berkala:
 
 ## Frekuensi pencatatan
 
-Sobat Kaca.co.id, tentukan jadwal pencatatan yang realistis dan konsisten. Pengujian air bisa dilakukan seminggu sekali untuk aquarium baru atau bulanan untuk aquarium yang sudah stabil. Water change dan pembersihan biasanya dilakukan mingguan atau dua minggu sekali. Inspeksi struktural bisa dilakukan bulanan atau quarterly.
+Sobat Kaca.co.id, tentukan jadwal pencatatan yang realistis dan konsisten. Frekuensi uji air, penggantian air, pembersihan, dan inspeksi perlu mengikuti spesies, kondisi sistem, hasil pengukuran, serta instruksi produk—bukan jadwal umum. Bila ada kebocoran, retak, perilaku penghuni yang tidak biasa, atau pembacaan parameter di luar target sistem, catat kejadian itu dan minta penilaian yang sesuai sebelum melakukan perubahan besar.
 
 Yang terpenting adalah konsistensi. Lebih baik mencatat secara teratur dengan data yang sederhana daripada mencatat secara sporadis dengan data yang sangat detail. Mulai dengan parameter dasar dan tambahkan kompleksitas seiring waktu.
 

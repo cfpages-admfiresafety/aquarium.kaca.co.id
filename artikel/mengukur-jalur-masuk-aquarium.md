@@ -48,7 +48,7 @@ Jawaban singkatnya, ukur jalur masuk aquarium dengan cermat sebelum pengiriman, 
 
 Jalur masuk aquarium mencakup seluruh perjalanan dari titik pengiriman hingga lokasi penempatan akhir. Berikut komponen-komponen yang perlu diukur:
 
-**Lebar pintu dan gerbang.** Ukur lebar bukaan pintu, termasuk kusen dan gagang pintu. Pastikan ada toleransi minimal 5 cm di setiap sisi untuk memudahkan manuver.
+**Lebar pintu dan gerbang.** Ukur bukaan bersih pintu, termasuk kusen, gagang, dan bagian yang tidak bisa dilepas. Tentukan ruang manuver bersama pengangkut berdasarkan dimensi kemasan, sudut belok, alat angkat, serta cara membawa aquarium; tidak ada angka toleransi tunggal yang aman untuk semua jalur.
 
 **Tinggi langit-langit.** Ukur tinggi langit-langit di sepanjang jalur masuk, termasuk di bawah ventilasi, lampu gantung, atau elemen lain yang bisa menghalangi.
 
@@ -68,7 +68,7 @@ Untuk mengukur jalur masuk dengan benar, ikuti langkah-langkah berikut:
 
 2. **Ukur dimensi kritis.** Ukur lebar, tinggi, dan kedalaman di setiap titik kritis. Gunakan pita ukur yang akurat dan catat semua pengukuran.
 
-3. **Perhitungkan toleransi.** Tambahkan toleransi minimal 5 cm di setiap sisi untuk memudahkan manuver. Jika jalur sangat sempit, pertimbangkan untuk menambah toleransi lebih besar.
+3. **Perhitungkan ruang manuver.** Bandingkan ukuran benda, kemasan, alat angkat, dan gerak pada setiap belokan. Konfirmasikan kebutuhan ruang dengan pihak yang akan mengirim atau memasang.
 
 4. **Periksa kondisi bangunan.** Periksa kondisi dinding, lantai, dan langit-langit di sepanjang jalur masuk. Pastikan tidak ada kerusakan atau rintangan yang bisa menghalangi pengiriman.
 
@@ -105,7 +105,7 @@ Selain itu, jangan mengabaikan kondisi lantai. Lantai yang licin atau tidak rata
 ## Aturan operasional yang perlu diingat
 
 1. Ukur semua dimensi kritis di sepanjang jalur masuk.
-2. Tambahkan toleransi minimal 5 cm di setiap sisi.
+2. Catat ruang manuver yang diperlukan pada setiap segmen dan belokan.
 3. Periksa kondisi bangunan dan lantai di sepanjang jalur.
 4. Dokumentasikan semua pengukuran dan kondisi.
 5. Konsultasikan dengan vendor atau profesional jika ragu.

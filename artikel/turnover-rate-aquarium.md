@@ -44,7 +44,7 @@ END MANAGED IMAGE PLAN -->
 
 Turnover rate dihitung dengan membagi laju aliran pompa (dalam liter per jam) dengan volume aquarium (dalam liter). Misalnya, pompa dengan laju aliran 1000 liter per jam yang melayani aquarium 200 liter menghasilkan turnover rate 5 kali per jam.
 
-Namun, angka ini tidak memperhitungkan head loss — penurunan tekanan yang terjadi karena gesekan air melewati pipa, sambungan, belokan, dan media filter. Sebuah pompa yang memiliki rating 1000 liter per jam dalam kondisi kosong mungkin hanya menghasilkan 400-600 liter per jam dalam sistem yang nyata dengan panjang pipa 3 meter dan tiga belokan.
+Namun, angka ini tidak memperhitungkan kehilangan aliran (*head loss*) akibat pipa, sambungan, belokan, elevasi, dan media filter. Besarnya penurunan tidak dapat ditentukan dari satu contoh; gunakan kurva pompa, konfigurasi aktual, dan pengukuran keluaran untuk sistem Anda.
 
 Selain itu, media filter yang berbeda memiliki resistensi aliran yang berbeda. Media biologis berpori memberikan resistensi yang lebih rendah dibandingkan filter mekanik yang padat. Ketika media filter mulai tersumbat oleh kotoran, resistensi meningkat dan laju aliran menurun. Inilah sebabnya turnover rate yang terukur saat baru dipasang bisa berbeda signifikan setelah beberapa bulan digunakan.
 
@@ -64,7 +64,7 @@ Cara paling akurat untuk mengukur turnover rate adalah dengan mengukur waktu yan
 
 Pengukuran ini harus dilakukan setelah seluruh sistem terpasang — termasuk pipa, sambungan, dan media filter — bukan hanya pompa dalam kondisi kosong. Pengukuran dalam kondisi operasional memberikan gambaran yang lebih akurat tentang kinerja sebenarnya.
 
-Lakukan pengukuran ulang setiap 2-3 bulan atau setelah membersihkan filter. Perubahan turnover rate bisa menjadi indikasi awal bahwa filter mulai tersumbat atau pompa mengalami penurunan kinerja.
+Ulangi pengukuran setelah perubahan pada pipa, media, atau pompa, serta ketika aliran tampak berubah. Tentukan interval pemantauan dari kondisi sistem dan instruksi peralatan; perubahan aliran perlu diperiksa penyebabnya, bukan langsung dianggap sebagai satu jenis kerusakan.
 
 ## Contoh skenario perhitungan
 

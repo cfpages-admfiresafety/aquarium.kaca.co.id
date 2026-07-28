@@ -16,7 +16,6 @@ technical_review: required
 writing_contract_version: "native-id-v2"
 sources:
   - "https://pesta.bsn.go.id/produk/index/461"
-  - "https://pesta.bsn.go.id/produk/detail/14854-sni662024"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://peraturan.bpk.go.id/Details/235254/"
   - "https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025"
@@ -24,8 +23,6 @@ sources:
   - "https://silk.menlhk.go.id/index.php/svlk/files/1/information-data"
   - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
   - "https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005"
-  - "https://www.iso.org/standard/81997.html"
-  - "https://www.iso.org/standard/23725.html"
   - "https://www.iso.org/standard/40502.html?browse=ics"
   - "https://research.fs.usda.gov/fpl/wood-handbook"
   - "https://www.iso.org/ics/79.060.10/x/"
@@ -41,7 +38,7 @@ sources:
 
 Halo, Teman Kaca.co.id!
 
-Banyak pemilik aquarium mengira bahwa kaca tempered selalu lebih baik dari kaca annealed karena lebih kuat. Kenyataannya, kekuatan bukan satu-satunya faktor yang menentukan kelayakan kaca untuk aquarium. Kaca tempered memang lebih tahan terhadap benturan, tetapi ia memiliki karakteristik pecah yang sangat berbeda — pecah menjadi ribuan serpihan kecil yang tajam, bukan retakan besar yang masih bisa ditangani. Perbedaan ini memiliki implikasi besar terhadap keamanan, fabrikasi, dan biaya perbaikan.
+Banyak pemilik aquarium mengira bahwa kaca tempered selalu lebih baik dari kaca annealed karena lebih kuat. Kenyataannya, kekuatan bukan satu-satunya faktor yang menentukan kelayakan kaca untuk aquarium. Kaca tempered dan annealed memiliki perilaku pecah serta batas fabrikasi yang berbeda. Perbedaan itu perlu dinilai bersama rancangan panel, sambungan, dan risiko pemakaian, bukan dari satu label material.
 
 Jawaban singkatnya: kaca annealed (kaca float biasa) lebih mudah dipotong, dibor, dan dikerjakan setelah diproduksi, sementara kaca tempered lebih kuat tetapi harus diolah sebelum proses pemanasan. Pilihan yang tepat tergantung pada ukuran aquarium, lokasi pemasangan, risiko benturan, dan apakah Anda memerlukan lubang atau cut-out pada panel kaca. Untuk aquarium rumah berukuran sedang dengan desain sederhana, kaca annealed yang memadai sering kali sudah cukup. Untuk aquarium besar, di area publik, atau dengan risiko benturan tinggi, kaca tempered menjadi pertimbangan yang lebih serius ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005); [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
 
@@ -66,7 +63,7 @@ Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 Kaca annealed adalah kaca yang didinginkan secara perlahan dari kondisi leleh suhu tinggi hingga suhu kamar. Proses pendinginan yang terkontrol ini menghasilkan kaca dengan tegangan internal yang rendah dan merata. Kaca ini kemudian bisa dipotong, dibor, dan diolah dengan peralatan standar tukang kaca. Katalog produk BSN mencakup berbagai standar terkait kaca datar termasuk SNI 15-0047-2005 untuk spesifikasi kaca flat ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005); [BSN product index](https://pesta.bsn.go.id/produk/index/461)).
 
-Kaca tempered dimulai dari kaca annealed yang kemudian dipanaskan hingga mendekati titik lunaknya (sekitar 600 derajat Celsius) dan didinginkan dengan cepat menggunakan aliran udara bertekanan tinggi. Proses ini menciptakan lapisan tekan di permukaan dan lapisan tarik di bagian dalam kaca. Kombinasi tegangan ini memberikan kekuatan mekanis yang 4-5 kali lebih tinggi dari kaca annealed dengan ketebalan yang sama.
+Kaca tempered dibuat dari kaca yang terlebih dahulu dipotong dan dikerjakan, lalu dipanaskan serta didinginkan cepat oleh pabrikan. Perlakuan itu menghasilkan tegangan internal yang mengubah perilaku kekuatannya dan cara panel pecah. Besar peningkatan kinerja tidak boleh disimpulkan dari angka umum; minta data produk dan penilaian perancang untuk panel yang akan dipakai.
 
 ### Pola pecah dan implikasi keamanan
 
@@ -74,7 +71,7 @@ Ketika kaca annealed pecah, Teman Kaca.co.id, ia retak menjadi beberapa bagian b
 
 Ketika kaca tempered pecah, ia hancur menjadi ribuan serpihan kecil menyerupai kelereng yang relatif tumpul. Ini adalah fitur keamanan yang disengaja — dalam banyak aplikasi seperti pintu mobil atau shower screen, pola pecah ini lebih aman karena mengurangi risiko luka potong serius. Namun, dalam konteks aquarium, pola pecah ini berarti seluruh panel kaca langsung hancur dan air segera tumpah ke lantai. Tidak ada kesempatan untuk retakan parsial yang masih bisa ditambal.
 
-ISO 12543 dan ISO 1288-3 memberikan kerangka tentang pengujian dan spesifikasi kaca, termasuk aspek keamanan dan kekuatan. SNI 66:2024 juga memberikan acuan teknis tentang persyaratan material yang relevan untuk konteks konstruksi dan fabrikasi ([ISO 12543 laminated glass](https://www.iso.org/standard/81997.html); [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html); [SNI 66:2024](https://pesta.bsn.go.id/produk/detail/14854-sni662024)).
+Halaman katalog standar hanya membantu mengidentifikasi dokumen dan statusnya. Dokumen tersebut bukan bukti bahwa kaca tertentu telah diuji, cocok untuk aquarium, atau memenuhi rancangan Anda. Minta spesifikasi panel dan bukti pengujian yang relevan kepada pabrikan bila keputusan ini bersifat konsekuensial.
 
 ## Konteks fabrikasi dan pengolahan
 
@@ -94,11 +91,11 @@ ISO 21887 memberikan kerangka tentang alur kerja spesifikasi dan pemilihan mater
 
 ### Kaca annealed cocok untuk:
 
-Aquarium rumah berukuran sedang (hingga 200 liter) dengan desain sederhana tanpa lubang atau cut-out kompleks. Proyek yang memerlukan penyesuaian ukuran di lokasi. Budget terbatas di mana biaya tempering tidak proporsional dengan manfaat yang diterima. Aquarium yang ditempatkan di lokasi dengan risiko benturan rendah, jauh dari jalur lalu lintas atau area bermain anak.
+Aquarium dengan panel yang masih mungkin perlu disesuaikan sebelum perakitan, rancangan yang membutuhkan pemotongan atau pelubangan, dan kondisi risiko yang telah dinilai oleh perancang. Kapasitas aquarium bukan batas aman untuk memilih material; tinggi air, bentang, ketebalan, dukungan, serta detail sambungan harus diperiksa bersama.
 
 ### Kaca tempered cocok untuk:
 
-Aquarium besar (di atas 300 liter) di mana tekanan air sangat tinggi dan kegagalan panel akan berakibat fatal. Aquarium di area publik seperti hotel, mall, atau kantor di mana risiko benturan lebih tinggi. Aquarium dengan panel yang sangat panjang di mana defleksi perlu diminimalkan. Situasi di mana keamanan penghuni ruangan menjadi prioritas utama, mengingat kaca tempered pecah menjadi serpihan kecil yang relatif lebih aman dibandingkan pecahan kaca annealed yang tajam.
+Panel yang berisiko terkena benturan atau berada di lokasi dengan konsekuensi kegagalan lebih besar perlu ditinjau secara khusus. Tempering dapat menjadi salah satu pilihan, tetapi bukan jawaban otomatis: perancang perlu menilai perilaku pecah, kebutuhan lubang, metode penopang, dan rencana penggantian panel.
 
 ## Faktor yang mengubah hasil
 

@@ -53,7 +53,7 @@ Beban total aquarium terdiri dari beberapa komponen utama yang harus dihitung se
 
 **Beban kaca** tergantung pada ketebalan dan ukuran panel. Kaca float 10 mm memiliki massa jenis sekitar 25 kg per meter persegi. Aquarium dengan empat panel kaca yang masing-masing berukuran 100 cm x 50 cm akan memiliki beban kaca sekitar 50 kg.
 
-**Beban substrate** termasuk pasir, kerikil, atau tanah di dasar aquarium. Substrate biasanya ditempatkan dengan ketebalan 5-10 cm di dasar aquarium. Berat substrate tergantung pada jenis dan kepadatannya.
+**Beban substrat** termasuk pasir, kerikil, atau tanah di dasar aquarium. Ketebalan dan massa jenisnya harus dicatat dari rancangan atau data produk, karena keduanya dapat mengubah beban secara berarti.
 
 **Beban hardscape** termasuk batu, kayu, dan ornamen lainnya. Beban ini bisa sangat bervariasi tergantung pada jenis dan jumlah hardscape yang digunakan.
 
@@ -79,7 +79,7 @@ Untuk menghitung beban total aquarium, ikuti langkah-langkah berikut:
 
 6. **Tambahkan berat peralatan.** Timbang semua peralatan yang akan dipasang di dalam atau di sekitar aquarium.
 
-7. **Tambahkan beban dinamis.** Sediakan cadangan untuk beban dinamis selama pemeliharaan (biasanya 10-20% dari beban statis).
+7. **Catat kondisi sementara.** Masukkan beban yang dapat muncul saat pengisian, pengangkatan, atau perawatan sesuai metode kerja yang direncanakan. Besaran cadangan perlu ditetapkan oleh pihak yang menilai struktur, bukan dipilih dari persentase umum.
 
 SNI 1727:2020 memberikan panduan tentang beban desain struktur yang relevan untuk memahami kapasitas lantai dan dukungan yang diperlukan (sumber: https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
 
@@ -105,7 +105,7 @@ Misalkan Anda merencanakan aquarium dengan dimensi interior 100 cm x 50 cm x 50 
 4. **Berat substrate:** 20 liter x 1,5 kg/liter = 30 kg
 5. **Berat hardscape:** 15 kg (estimasi)
 6. **Berat peralatan:** 5 kg
-7. **Beban dinamis:** 32 kg (10% dari beban statis)
+7. **Kondisi sementara:** [NEEDS STRUCTURAL REVIEW: masukkan beban dan metode kerja yang akan dipakai saat pengisian atau perawatan.]
 
 **Beban total:** 220 + 50 + 30 + 15 + 5 + 32 = 352 kg
 
