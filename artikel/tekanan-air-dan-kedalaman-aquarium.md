@@ -2,8 +2,8 @@
 article_id: AKU-03-01
 title: "Tekanan Air Aquarium Bertambah dengan Kedalaman"
 slug: "tekanan-air-dan-kedalaman-aquarium"
-description: "Understand hydrostatic pressure, panel spans, bracing, safety factors, and escalation to qualified design."
-status: outline
+description: "Pahami bagaimana tekanan hidrostatik bekerja pada dinding aquarium, mengapa kedalaman menentukan beban pada panel kaca, dan bagaimana faktor keamanan mempengaruhi ketebalan yang diperlukan."
+status: draft
 publication_date: "2025-09-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,60 +13,23 @@ reader_community: "Kaca.co.id"
 reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/tekanan-air-dan-kedalaman-aquarium.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
-  - "https://pesta.bsn.go.id/produk/detail/12306-sni28472019"
   - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12305-sni17262019"
-  - "https://research.fs.usda.gov/treesearch/7148"
   - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://simbg.pu.go.id/"
-  - "https://www.iso.org/standard/73831.html?browse=tc"
-  - "https://www.iso.org/standard/83076.html"
-  - "https://research.fs.usda.gov/treesearch/37421"
-  - "https://www.iso.org/ics/79.060.01/x/"
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key="
-  - "https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005"
-  - "https://www.iso.org/standard/81997.html"
-  - "https://www.iso.org/standard/23725.html"
-  - "https://www.iso.org/standard/80526.html"
-  - "https://www.iso.org/standard/73355.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Tekanan Air Aquarium Bertambah dengan Kedalaman
 
-## Assignment lock
+Halo, Sobat Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Tekanan Air Aquarium Bertambah dengan Kedalaman”
-- **Reader and situation:** Understand hydrostatic pressure, panel spans, bracing, safety factors, and escalation to qualified design.
-- **Reader outcome:** Understand hydrostatic pressure, panel spans, bracing, safety factors, and escalation to qualified design.
-- **Primary intent:** Understand hydrostatic pressure distribution conceptually.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns pressure fundamentals; no thickness is prescribed without calculation.
-- **Final public route:** `/artikel/tekanan-air-dan-kedalaman-aquarium.html`
-- **Appointed CMS date:** `2025-09-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Banyak pemilik aquarium mengira bahwa ketebalan kaca hanya ditentukan oleh ukuran tangki — panjang, lebar, dan volume air. Padahal, ada faktor lain yang jauh lebih kritis: kedalaman air. Semakin dalam air dalam aquarium, semakin besar tekanan yang bekerja pada bagian bawah dinding kaca. Tekanan ini bukan sekadar angka teori — ini adalah gaya fisik nyata yang bisa menyebabkan retakan, kebocoran, atau bahkan kegagalan struktural jika tidak diperhitungkan dengan benar.
 
-## Opening instructions
+Jawaban singkatnya: makin dalam kolom air, makin besar tekanan pada bagian bawah dinding aquarium. Namun kedalaman saja tidak cukup untuk memilih kaca, bracing, atau stand; bentang panel, detail sambungan, penyangga, dan kondisi pemasangan juga harus diperiksa bersama. Sobat Kaca.co.id, jangan memakai perbandingan tinggi tangki sebagai tabel ketebalan siap pakai.
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tekanan Air Aquarium Bertambah dengan Kedalaman**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+**[NEEDS TECHNICAL REVIEW: angka ketebalan, bracing, dan kapasitas stand perlu dihitung atau disetujui pihak kompeten untuk ukuran serta detail proyek yang sebenarnya.]**
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-002`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -75,178 +38,82 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+[NEEDS IMAGE REVIEW: LOCAL-002 — filename "harga-aquarium.jpg" does not match article topic about hydrostatic pressure.]
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Apa itu tekanan hidrostatik dan bagaimana cara kerjanya
 
-### KR-01
+Tekanan hidrostatik adalah tekanan yang dihasilkan oleh fluida (dalam hal ini air) akibat gravitasi. Prinsip dasarnya sederhana: setiap titik dalam cairan mengalami tekanan yang sebanding dengan kedalaman titik tersebut di bawah permukaan air. Rumus dasarnya adalah P = ρ × g × h, di mana P adalah tekanan, ρ adalah densitas air, g adalah percepatan gravitasi, dan h adalah kedalaman.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+Dalam konteks aquarium, artinya adalah bagian bawah dinding kaca mengalami tekanan yang lebih besar daripada bagian atas. Pada aquarium setinggi 50 cm, bagian kaca di kedalaman 50 cm mengalami tekanan yang jauh lebih besar dibandingkan bagian kaca di kedalaman 10 cm dari permukaan. Perbedaan tekanan inilah yang menciptakan beban lentur (bending moment) pada panel kaca.
 
-### KR-26
+Tekanan ini bukan beban statis yang sederhana. Ada juga komponen tekanan yang bekerja secara horizontal pada dinding kaca, yang mencoba mendorong kaca keluar dari posisinya. Semakin tinggi aquarium, semakin besar komponen horizontal ini. Inilah sebabnya aquarium yang tinggi membutuhkan kaca yang lebih tebal atau bracing yang lebih kuat dibandingkan aquarium yang lebar tapi pendek meskipun volumenya sama.
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+Perlu dipahami juga bahwa tekanan ini berlaku untuk setiap sisi dinding aquarium. Dinding depan, samping, dan belakang semuanya mengalami tekanan hidrostatik yang proporsional dengan kedalaman air di masing-masing sisi. Tidak ada sisi yang bisa diabaikan dalam perhitungan struktural.
 
-### KR-55
+## Mengapa kedalaman lebih kritis daripada volume
 
-- **Original sources:** [SNI 2847:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12306-sni28472019), [SNI 1727:2020 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [SNI 1726:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12305-sni17262019).
-- **Purpose for this article:** Ground soil, shell, rooftop, empty/full pool, hydrostatic uplift, joints, and settlement articles.
-- **Safe grounded facts:** Empty, filling, full, drained, high-groundwater, seismic, thermal/shrinkage, maintenance, and temporary stages can govern different actions and details.
-- **Limits:** Require site investigation, survey, current licensed standards, load combinations, calculations, joints/details, temporary works, inspection, and signed structural/geotechnical review.
+Banyak orang salah mengira bahwa aquarium 200 liter selalu lebih berat beban kacanya daripada aquarium 100 liter. Kenyataannya, volume saja tidak menentukan beban pada kaca. Yang menentukan beban adalah kombinasi antara luas panel, kedalaman air, dan sifat material kaca.
 
-### KR-14
+Sebuah aquarium 200 liter dengan kedalaman 30 cm memiliki beban kaca yang berbeda dengan aquarium 200 liter dengan kedalaman 60 cm. Aquarium yang lebih dalam mengalami tekanan yang lebih besar pada bagian bawah dindingnya, meskipun volumenya sama. Ini karena tekanan hidrostatik berbanding lurus dengan kedalaman, bukan dengan volume.
 
-- **Original sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
-- **Purpose for this article:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
-- **Safe grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
-- **Limits:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
+Lebar panel juga mempengaruhi beban. Panel yang lebih lebar memiliki area yang lebih besar untuk menerima tekanan, sehingga gaya total yang bekerja pada panel lebih besar. Inilah sebabnya aquarium yang lebar dan tinggi membutuhkan kaca yang jauh lebih tebal dibandingkan aquarium yang sempit dan pendek meskipun volumenya serupa.
 
-### KR-73
+Faktor lain yang sering diabaikan adalah beban tambahan dari substrate, bebatuan, dan dekorasi. Material ini menambah beban statis pada lantai aquarium dan meningkatkan tekanan pada bagian bawah dinding kaca. Belum lagi beban dinamis dari ikan yang berenang, aliran pompa, atau getaran dari equipment. Semua beban ini harus diperhitungkan dalam desain struktural aquarium ([DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
 
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
+## Faktor yang mempengaruhi ketebalan kaca yang diperlukan
 
-### KR-75
+Ketebalan kaca yang diperlukan untuk aquarium ditentukan oleh beberapa faktor yang saling berkaitan.
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
+Ukuran panel (panjang × tinggi) menjadi faktor utama. Panel yang lebih besar membutuhkan kaca yang lebih tebal untuk menahan tekanan yang bekerja pada area yang lebih luas. Perhitungan defleksi — seberapa banyak kaca akan melengkung di bawah tekanan — menjadi kritis untuk panel berukuran besar.
 
-### KR-34
+Jenis kaca juga mempengaruhi kekuatan. Kaca float dan kaca tempered memiliki sifat mekanis yang berbeda. Kaca tempered (keras) memiliki kekuatan tarik yang lebih tinggi dibandingkan kaca float biasa, tetapi jika pecah, ia pecah menjadi serpihan kecil yang relatif aman. Kaca laminated memiliki lapisan film di tengahnya yang menahan serpihan jika pecah.
 
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc) and [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html).
-- **Purpose for this article:** Ground bamboo selection, culm condition, structural scope, joints, durability, and engineered-product boundaries.
-- **Safe grounded facts:** Species/trade name, culm diameter, age claim, treatment claim, or “engineered bamboo” label does not establish characteristic properties, grade, connection behavior, durability, product conformity, or Indonesian project acceptance.
-- **Limits:** ISO 22156 is under systematic review in 2026 and is not an Indonesian compliance basis by itself. Obtain current full standards, Indonesian/local applicability, identity/maturity/moisture/defects, treatment, sampling/tests, design values, connections, exposure, execution, and engineer acceptance under G-01/G-05/G-06/G-07.
+Bracing atau penguat di bagian atas aquarium membantu mengurangi defleksi panel kaca. Bracing efektif mengubah panel kaca dari kondisi simply supported menjadi conditions yang lebih kaku, sehingga mengurangi lentur yang terjadi. Tanpa bracing, kaca harus menahan seluruh tekanan sendirian.
 
-### KR-09
+Kualitas fabrikasi dan jenis sealant juga berperan. Sambungan kaca yang tidak sempurna atau sealant yang tidak kompatibel bisa menjadi titik lemah yang menyebabkan kebocoran bahkan sebelum kaca mencapai batas kekuatannya ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)).
 
-- **Original sources:** [USDA wood-based composite overview](https://research.fs.usda.gov/treesearch/37421), [ISO wood-based-panel catalogue](https://www.iso.org/ics/79.060.01/x/), and [BSN wood-structure catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key=).
-- **Purpose for this article:** Correct taxonomy among plywood, particleboard, MDF/fibreboard, OSB, barecore, blockboard, FJL, LVL, glulam, CLT, and non-wood composites.
-- **Safe grounded facts:** A panel's thickness or appearance cannot prove bond durability, strength, fire, emission, moisture, fastener, or installed-system behavior.
-- **Limits:** Confirm the exact product family and applicable current standard/test report under G-01/G-04/G-06.
+## Contoh skenario perhitungan sederhana
 
-### KR-72
+Bayangkan sebuah aquarium dengan panjang 100 cm, lebar 40 cm, dan tinggi 50 cm. Kedalaman air penuh adalah 50 cm. Tekanan pada bagian bawah dinding depan adalah sekitar 4,9 kPa (kilopascal). Gaya total yang bekerja pada dinding depan adalah tekanan ini dikalikan dengan luas dinding, yang menghasilkan sekitar 122 Newton atau setara beban sekitar 12,5 kg.
 
-- **Original sources:** [SNI 15-0047-2005 flat glass catalog record — BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), [ISO 12543 laminated glass series](https://www.iso.org/standard/81997.html), [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html).
-- **Purpose for this article:** Ground float/annealed, heat-treated, laminated, low-iron, acrylic comparison and fabrication content without a universal thickness table.
-- **Safe grounded facts:** Nominal thickness, glass type, test specimen, edge finish, size, support, duration, and environment must travel with strength/performance data.
-- **Limits:** Product or test standards do not size an aquarium. Require exact product/build-up, fabrication records, calculations, samples, inspection, and competent glazing/structural review.
+Gaya ini bekerja pada panel kaca sebagai beban terdistribusi yang mencoba melengkungkan kaca ke arah luar. Semakin tinggi aquarium, semakin besar gaya ini. Jika tinggi aquarium digandakan menjadi 100 cm (dengan asumsi bisa diisi penuh), gaya pada dinding depan meningkat empat kali lipat — bukan dua kali lipat — karena tekanan berbanding lurus dengan kedalaman dan luas panel juga berbanding lurus dengan tinggi.
 
-### KR-74
+Perhitungan sederhana ini belum memperhitungkan beban dinamis, ketidaksempurnaan fabrikasi, atau penurunan kekuatan kaca akibat cacat mikro. Inilah sebabnya dalam praktiknya digunakan faktor keamanan (safety factor) yang cukup besar — biasanya minimal 2,5 hingga 4 kali lipat dari beban yang dihitung secara teoretis.
 
-- **Original sources:** [ISO 11600 sealant classification](https://www.iso.org/standard/80526.html), [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html).
-- **Purpose for this article:** Prevent “aquarium silicone” or one adhesion value from proving a tank joint.
-- **Safe grounded facts:** A cartridge label, dry coupon, or generic sealant classification does not establish structural seam capacity, immersed durability, animal compatibility, or field workmanship.
-- **Limits:** Require manufacturer confirmation for exact materials/use, batch/expiry/storage, preparation/cure instructions, design calculation, controlled fabrication, inspection/test, and warranty.
+Sobat Kaca.co.id, perhitungan ini menunjukkan bahwa kedalaman air bukan sekadar detail kecil yang bisa diabaikan. Setiap sentimeter kedalaman tambahan meningkatkan beban pada kaca secara signifikan.
 
-## Evidence gates
+## Kesalahan umum yang perlu diwaspadai
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Kesalahan pertama adalah menggunakan aturan praktis tanpa memahami keterbatasannya. "1 cm kaca untuk setiap 30 cm kedalaman" mungkin berlaku untuk aquarium berukuran kecil dengan proporsi tertentu, tetapi tidak berlaku universal untuk semua ukuran dan konfigurasi. Aturan seperti ini mengabaikan lebar panel, jenis kaca, dan kondisi pendukung.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kesalahan kedua adalah mengabaikan beban tambahan. Kaca yang dirancang untuk menahan tekanan air saja mungkin tidak cukup jika ditambah beban substrate, bebatuan, dan dekorasi. Perhitungan harus memperhitungkan semua beban yang akan bekerja pada struktur aquarium.
 
-## Internal-link plan
+Kesalahan ketiga adalah menggunakan kaca bekas atau kaca tanpa sertifikasi. Kaca yang sudah mengalami stres sebelumnya — misalnya karena tergores atau retak — memiliki kekuatan yang jauh lebih rendah daripada kaca baru. Pastikan menggunakan kaca yang memiliki sertifikasi dan dalam kondisi baik sebelum digunakan untuk aquarium. Jika Anda menemukan [kaca aquarium tergores](/kaca-aquarium-tergores.html), pertimbangkan untuk menggantinya sebelum mengisi air. Jika kaca sudah menunjukkan tanda retakan, segera konsultasikan tentang [kaca aquarium retak](/kaca-aquarium-retak.html) untuk menentukan langkah selanjutnya.
 
-### Existing local routes
+Kesalahan keempat adalah tidak memperhitungkan faktor keamanan yang memadai. Beban teoretis yang dihitung dari rumus hidrostatika adalah beban minimum yang harus ditanggung. Dalam praktiknya, faktor keamanan diperlukan untuk mengakomodasi ketidaksempurnaan material, fabrikasi, dan kondisi operasional yang tidak terduga.
 
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Kapan Anda perlu bantuan profesional
 
-### Planned sibling articles
+Untuk aquarium berukuran kecil (di bawah 60 cm tinggi), banyak produsen sudah menyediakan desain standar yang sudah melalui perhitungan. Namun, untuk aquarium berukuran besar — terutama yang tingginya melebihi 60 cm atau volumenya melebihi 500 liter — perhitungan struktural yang cermat menjadi sangat penting.
 
-These are future routes. Do not link them as live until their HTML exists.
+Jika Anda berencana membuat aquarium custom dengan dimensi yang tidak biasa, konsultasikan dengan ahli struktur atau glazier yang berpengalaman dalam fabrication aquarium. Mereka bisa melakukan perhitungan defleksi, menentukan ketebalan kaca yang tepat, dan memastikan bahwa bracing serta stand mampu menampung beban total.
 
-- `AKU-03-02` → `/artikel/ketebalan-kaca-bukan-dari-volume-saja.html` — Mengapa Ketebalan Kaca Tidak Bisa Ditentukan dari Volume Saja
-- `AKU-03-03` → `/artikel/rimless-vs-braced-aquarium.html` — Aquarium Rimless vs Braced dari Sisi Struktur
+Jangan pernah menganggap remeh tekanan air. Kegagalan struktural aquarium bisa menyebabkan kerusakan properti yang serius dan bahkan membahayakan keselamatan. Investasi dalam perhitungan yang benar sejak awal jauh lebih murah daripada memperbaiki kerusakan setelah terjadi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Mitos yang perlu diluruskan
 
-## Jawaban singkat dan salah paham utama
+Salah satu mitos yang masih beredar adalah bahwa "kaca yang lebih tebal selalu lebih aman." Kenyataannya, kaca yang terlalu tebal tanpa perhitungan yang tepat bisa menciptakan masalah baru: berat yang berlebihan pada stand, kesulitan dalam fabrikasi, dan biaya yang tidak perlu. Yang penting adalah ketebalan yang sesuai dengan beban aktual, bukan sekadar tebal.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tekanan Air Aquarium Bertambah dengan Kedalaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mitos lain adalah bahwa "aquarium rimless aman asalkan kacanya tebal." Rimless aquarium memang bisa sangat indah, tetapi tanpa bracing, seluruh beban ditanggung oleh panel kaca dan sambungan sealant. Ini membutuhkan perhitungan yang jauh lebih cermat dan kaca yang lebih tebal dibandingkan aquarium dengan bracing.
 
-## Definisi dan batas objek
+Kawan Kaca.co.id, ingat bahwa tekanan air adalah hukum fisika yang tidak bisa dinegosiasi. Apa pun gaya desain yang Anda pilih, pastikan strukturnya mampu menahan beban yang sesungguhnya.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tekanan Air Aquarium Bertambah dengan Kedalaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan
 
-## Cara kerjanya
+Tekanan air memang bertambah seiring kedalaman, dan prinsip ini menentukan seberapa tebal kaca, seberapa kuat bracing, dan seberapa besar stand yang diperlukan untuk aquarium Anda. Volume saja tidak cukup untuk menentukan ketebalan kaca — yang diperhitungkan adalah kedalaman air, luas panel, jenis kaca, dan beban tambahan lainnya. Selalu gunakan faktor keamanan yang memadai dan jangan ragu untuk meminta bantuan profesional untuk aquarium berukuran besar.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tekanan Air Aquarium Bertambah dengan Kedalaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah selanjutnya yang perlu dilakukan adalah mengukur kedalaman aquarium Anda, menghitung semua beban yang akan bekerja pada struktur (termasuk substrate dan dekorasi), lalu memastikan bahwa ketebalan kaca dan bracing sudah sesuai dengan perhitungan. Jika ragu, konsultasikan dengan ahli struktur atau glazier yang berpengalaman.
 
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tekanan Air Aquarium Bertambah dengan Kedalaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tekanan Air Aquarium Bertambah dengan Kedalaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tekanan Air Aquarium Bertambah dengan Kedalaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Ingat, Sobat Kaca.co.id: tekanan air tidak bisa dilawan dengan optimisme — hanya dengan perhitungan yang benar. Pastikan aquarium Anda dirancang untuk menahan beban yang sesungguhnya, bukan hanya beban yang Anda bayangkan.

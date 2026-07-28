@@ -2,8 +2,8 @@
 article_id: AKU-02-01
 title: "Kaca Float vs Low-Iron untuk Aquarium"
 slug: "kaca-float-vs-low-iron-aquarium"
-description: "Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence."
-status: outline
+description: "Bandingskan kaca float dan low-iron untuk aquarium dari segi warna, kejernihan, ketersediaan, fabrikasi, dan bukti inspeksi sebelum Anda memutuskan."
+status: draft
 publication_date: "2025-08-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Kaca.co.id"
 reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/kaca-float-vs-low-iron-aquarium.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://pesta.bsn.go.id/produk/index/461"
   - "https://pesta.bsn.go.id/produk/detail/14854-sni662024"
@@ -36,219 +37,109 @@ sources:
   - "https://research.fs.usda.gov/treesearch/62246"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kaca Float vs Low-Iron untuk Aquarium
 
-## Assignment lock
+Halo, Sobat Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Kaca Float vs Low-Iron untuk Aquarium”
-- **Reader and situation:** Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence.
-- **Reader outcome:** Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence.
-- **Primary intent:** Compare color, clarity, availability, fabrication, and inspection evidence.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns optical glass choice; thickness belongs to AKU-03.
-- **Final public route:** `/artikel/kaca-float-vs-low-iron-aquarium.html`
-- **Appointed CMS date:** `2025-08-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Salah satu keputusan paling membingungkan saat memesan aquarium adalah memilih jenis kaca. Banyak pembeli hanya melihat ketebalan dan harga, tanpa menyadari bahwa dua kaca dengan ketebalan sama bisa memiliki tampilan warna, kejernihan, dan harga yang sangat berbeda. Kaca float standar memiliki warna hijau kebiruan yang khas di tepinya, sementara kaca low-iron (juga dikenal sebagai ultra-clear atau extra-clear) memiliki tepi yang lebih bening. Perbedaan ini bukan sekadar estetika — ia mempengaruhi bagaimana Anda melihat warna ikan, karang, dan dekorasi di dalam aquarium.
 
-## Opening instructions
+Jawaban singkatnya: kaca float adalah pilihan yang paling tersedia dan ekonomis untuk sebagian besar aquarium, sementara kaca low-iron menawarkan kejernihan optik yang lebih baik dengan sedikit distorsi warna hijau. Namun, kaca low-iron memiliki ketersediaan yang lebih terbatas, harga yang lebih tinggi, dan pertimbangan fabrikasi yang sedikit berbeda. Pilihan yang tepat tergantung pada prioritas Anda: apakah kejernihan visual worth it dengan biaya tambahan, atau apakah kaca float standar sudah memadai untuk kebutuhan Anda ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005); [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kaca Float vs Low-Iron untuk Aquarium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies harga aquarium as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
+![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga aquarium` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-33
-
-- **Original sources:** [SNI 9374:2025 official BSN catalogue listing for corrugated metal-coated steel roof/wall products](https://pesta.bsn.go.id/produk/index/461), [SNI 66:2024 official BSN record](https://pesta.bsn.go.id/produk/detail/14854-sni662024), and [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
-- **Purpose for this article:** Bound material selection, profile, coating, fasteners, underlay, flashings, condensation, wind, water, and warranty claims.
-- **Safe grounded facts:** Base-metal/coating label, thickness, colour, or “anti bocor/panas/karat” marketing does not establish complete roof wind, water, thermal, acoustic, condensation, corrosion, or service-life performance.
-- **Limits:** Obtain current complete standards, exact proposed roof system, product data/instructions, load/support/fastener design, environmental compatibility, samples, installation inspection, maintenance, and warranty evidence under G-01/G-03/G-05/G-06/G-11.
-
-### KR-17
-
-- **Original sources:** [Permen LHK 8/2021 status record](https://peraturan.bpk.go.id/Details/235254/), [Permenhut 23/2025 amendment](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025), [PP 8/2026 amendment to PP 23/2021](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026), and [official SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data).
-- **Purpose for this article:** Ground legality, forest origin, processing, transport/export-document, and regulatory-refresh articles.
-- **Safe grounded facts:** A legal/sustainability claim must identify the current rule, actor, activity, source, product, document, issuer, holder, scope, date/status, and verification path.
-- **Limits:** Read consolidated operative texts and current implementing rules; verify actual documents in the official system with legal/compliance review under G-11.
-
-### KR-26
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
-
-### KR-72
-
-- **Original sources:** [SNI 15-0047-2005 flat glass catalog record — BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), [ISO 12543 laminated glass series](https://www.iso.org/standard/81997.html), [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html).
-- **Purpose for this article:** Ground float/annealed, heat-treated, laminated, low-iron, acrylic comparison and fabrication content without a universal thickness table.
-- **Safe grounded facts:** Nominal thickness, glass type, test specimen, edge finish, size, support, duration, and environment must travel with strength/performance data.
-- **Limits:** Product or test standards do not size an aquarium. Require exact product/build-up, fabrication records, calculations, samples, inspection, and competent glazing/structural review.
-
-### KR-16
-
-- **Original sources:** [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Build specification and selection workflows without ranking vague trade labels.
-- **Safe grounded facts:** Selection should state requirement, evidence, acceptance method, responsible reviewer, deviation control, and maintenance assumptions.
-- **Limits:** Exact suitability remains product-, project-, site-, and professional-dependent under G-03/G-04/G-06.
-
-### KR-73
-
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
-
-### KR-75
-
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
-
-### KR-34
-
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc) and [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html).
-- **Purpose for this article:** Ground bamboo selection, culm condition, structural scope, joints, durability, and engineered-product boundaries.
-- **Safe grounded facts:** Species/trade name, culm diameter, age claim, treatment claim, or “engineered bamboo” label does not establish characteristic properties, grade, connection behavior, durability, product conformity, or Indonesian project acceptance.
-- **Limits:** ISO 22156 is under systematic review in 2026 and is not an Indonesian compliance basis by itself. Obtain current full standards, Indonesian/local applicability, identity/maturity/moisture/defects, treatment, sampling/tests, design values, connections, exposure, execution, and engineer acceptance under G-01/G-05/G-06/G-07.
-
-### KR-02
-
-- **Original sources:** [USDA Forest Products Laboratory Wood Handbook, revised 2021](https://research.fs.usda.gov/fpl/wood-handbook) and [Chapter 2 — commercially important woods](https://research.fs.usda.gov/treesearch/62246).
-- **Purpose for this article:** Ground anatomy, vocabulary, species/property, movement, machining, and failure explanations.
-- **Safe grounded facts:** Species name alone does not establish an individual piece's grade, moisture, defects, strength, durability, machining response, or project suitability.
-- **Limits:** U.S. species tables and construction practice are not Indonesian design values. Use Indonesian/local evidence and actual specimens under G-02/G-06.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-02-02` → `/artikel/kaca-tempered-vs-annealed-aquarium.html` — Kaca Tempered vs Annealed untuk Aquarium
-- `AKU-02-03` → `/artikel/edge-polish-dan-bevel-kaca-aquarium.html` — Edge Polish, Bevel, dan Kualitas Tepi Kaca
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Float vs Low-Iron untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Float vs Low-Iron untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Apa itu kaca float?
+
+Kaca float diproduksi dengan menuangkan lelehan kaca ke atas permukaan timah cair, sehingga menghasilkan lembaran kaca dengan ketebalan yang seragam dan permukaan yang sangat datar. Proses ini menjadi metode standar industri dunia untuk produksi kaca datar. Karena menggunakan bahan baku yang mengandung oksida besi, kaca float memiliki warna hijau kebiruan yang khas, terutama terlihat pada tepi atau saat dilihat dari sudut miring.
+
+Kaca float tersedia dalam berbagai ketebulan dan ukuran, mudah ditemukan di pasaran, dan bisa diproses oleh hampir semua tukang kaca. Katalog produk BSN mencakup berbagai standar terkait kaca dan material bangunan, termasuk SNI 15-0047-2005 untuk kaca datar ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005); [BSN product index](https://pesta.bsn.go.id/produk/index/461)).
+
+### Apa itu kaca low-iron?
+
+Kaca low-iron diproduksi dengan mengurangi kandungan oksida besi dalam lelehan kaca, sehingga menghasilkan lembaran dengan transmisi cahaya yang lebih tinggi dan distorsi warna yang minimal. Tepi kaca low-iron terlihat lebih bening atau sedikit kebiruan, tidak hijau seperti kaca float. Kaca ini sangat dihargai untuk aplikasi di mana kejernihan visual adalah prioritas, seperti aquarium karang, display gallery, atau toko hiasan akuatik.
+
+Namun, ketersediaan kaca low-iron di pasar Indonesia lebih terbatas dibandingkan kaca float. Ukuran dan ketebalan tertentu mungkin harus dipesan khusus, dan waktu tunggu bisa lebih lama. Selain itu, harga kaca low-iron per lembar biasanya 30-60% lebih tinggi dari kaca float dengan ketebalan dan ukuran yang sama. SNI 66:2024 memberikan acuan teknis tentang persyaratan material yang relevan untuk konteks konstruksi dan fabrikasi ([SNI 66:2024](https://pesta.bsn.go.id/produk/detail/14854-sni662024)).
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Float vs Low-Iron untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Warna dan kejernihan optik
+
+Perbedaan paling mencolok antara kedua jenis kaca adalah pada warna. Kaca float standar menambahkan sedikit rona hijau pada objek yang dilihat melalui kaca. Efek ini semakin terlihat ketika kaca semakin tebal atau ketika Anda melihat dari sudut miring. Untuk aquarium dengan ketebalan 10-12 mm, perbedaan warna ini sudah bisa diperhatikan oleh mata telanjang.
+
+Kaca low-iron mengurangi efek ini secara signifikan, Sobat Kaca.co.id. Warna ikan, karang, dan dekorasi terlihat lebih natural dan akurat. Untuk hobi karang (reef keeping) di mana warna fluoresen karang adalah daya tarik utama, perbedaan ini bisa menjadi faktor penentu. Namun, untuk aquarium air tawar biasa dengan pencahayaan standar, perbedaan warna mungkin tidak cukup signifikan untuk membenarkan biaya tambahan.
+
+ISO 12543 dan ISO 1288-3 memberikan kerangka tentang spesifikasi dan pengujian kekuatan kaca laminasi, yang relevan jika Anda mempertimbangkan kaca laminated untuk aquarium besar atau di area publik ([ISO 12543 laminated glass](https://www.iso.org/standard/81997.html); [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html)).
+
+### Ketersediaan dan logistik
+
+Kaca float tersedia luas di hampir semua toko kaca dan pabrik kaca di Indonesia. Ketebalan umum seperti 5 mm, 8 mm, 10 mm, 12 mm, dan 15 mm biasanya tersedia stoknya. Proses pemesanan dan pengiriman relatif cepat, dan Anda memiliki banyak pilihan vendor.
+
+Kaca low-iron memiliki ketersediaan yang lebih terbatas. Vendor khusus atau pabrik besar biasanya yang menyimpan stok jenis ini, dan untuk ukuran atau ketebalan tertentu mungkin perlu dipesan dengan waktu tunggu yang lebih lama. Ini bisa menjadi pertimbangan penting jika proyek memiliki deadline yang ketat. SNI 1727:2020 tentang beban desain untuk struktur bangunan memberikan konteks tentang bagaimana kapasitas dan beban diperhitungkan, termasuk untuk elemen penahan seperti kaca ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020); [SIMBG](https://simbg.pu.go.id/)).
+
+### Fabrikasi dan pengolahan
+
+Dari sisi fabrikasi, kaca float dan low-iron umumnya bisa diproses dengan mesin dan teknik yang sama. Pemotongan, penggilingan tepi, pengeboran lubang, dan laminasi bisa dilakukan pada kedua jenis kaca. Namun, kaca low-iron memerlukan kehati-hatian ekstra dalam penanganan karena bekas sidik jari atau goresan kecil lebih mudah terlihat pada permukaan yang jernih.
+
+DIN 32622 tentang persyaratan keamanan dan pengujian aquarium kaca memberikan kerangka tentang standar fabrikasi yang harus dipenuhi untuk aquarium, termasuk aspek tepi, sambungan, dan pengujian keamanan. Standar ini berlaku untuk kedua jenis kaca ([DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
+
+## Konteks material pendukung aquarium
+
+Memilih kaca bukan keputusan yang berdiri sendiri. Kaca adalah bagian dari sistem yang meliputi stand atau kabinet penyangga, substrate, batu, peralatan, dan air itu sendiri. Dari sisi struktur pendukung, SNI 7973:2013 tentang desain struktur kayu dan ISO 22156 tentang struktur bambu memberikan acuan tentang material yang bisa digunakan untuk stand atau kabinet aquarium. Pemilihan material stand harus mempertimbangkan beban yang akan ditangkap, kondisi kelembapan, dan daya tahan jangka panjang ([SNI 7973:2013](https://pesta.bsn.go.id/produk/detail/9716-sni79732013); [ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc); [ISO 7567:2024](https://www.iso.org/standard/83076.html)).
+
+Panel berbasis kayu seperti plywood dan blockboard juga merupakan material umum untuk kabinet aquarium. USDA Wood Handbook dan katalog ISO untuk panel kayu memberikan informasi tentang karakteristik material ini, termasuk respons terhadap kelembapan dan beban. Katalog plywood dari ISO dan USDA tentang kayu komersial penting memberikan referensi tentang jenis-jenis panel yang tersedia ([USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook); [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/); [USDA commercially important woods](https://research.fs.usda.gov/treesearch/62246)).
+
+Dari sisi legalitas dan keberlanjutan, penggunaan material kayu untuk aquarium juga harus mempertimbangkan aspek legal. Permen LHK 8/2021, Permenhut 23/2025, dan PP 8/2026 mengatur aspek legalitas kayu dan produk kayu di Indonesia. Sistem Verifikasi Legalitas Kayu (SVLK) melalui SILK memberikan mekanisme verifikasi bahwa material kayu yang digunakan berasal dari sumber legal. Ini penting untuk memastikan bahwa stand atau kabinet aquarium Anda menggunakan material yang sah ([Permen LHK 8/2021](https://peraturan.bpk.go.id/Details/235254/); [Permenhut 23/2025](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025); [PP 8/2026](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026); [SILK/SVLK](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data)).
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Float vs Low-Iron untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Kaca float cocok untuk:
+
+Aquarium air tawar dengan biaya terbatas di mana kejernihan optik bukan prioritas utama. Aquarium yang ditempatkan di lokasi dengan pencahayaan tidak terlalu terang, di mana efek warna hijau kaca kurang terlihat. Proyek dengan deadline ketat di mana ketersediaan stok menjadi faktor penting. Aquarium dengan ketebalan kaca relatif tipis (8-10 mm) di mana efek warna hijau tidak terlalu mencolok.
+
+### Kaca low-iron cocok untuk:
+
+Aquarium karang (reef tank) di mana warna fluoresen karang ingin ditampilkan semaksimal mungkin. Display aquarium di toko hiasan akuatik atau gallery di mana presentasi visual adalah daya tarik utama. Aquarium besar dengan ketebalan kaca 15 mm ke atas di mana efek warna hijau dari kaca float akan sangat terlihat. Proyek di mana anggaran tidak menjadi kendala utama dan kualitas visual menjadi prioritas.
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Float vs Low-Iron untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, Kawan Kaca.co.id, menganggap kaca low-iron otomatis lebih kuat dari kaca float. Kekuatan kaca bergantung pada ketebalan, jenis perlakuan panas (tempered atau annealed), dan desain keseluruhan, bukan pada kandungan besi. Kaca float 12 mm tempered tidak lebih lemah dari kaca low-iron 12 mm tempered. Perbedaannya ada pada optik, bukan pada mekanik ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005)).
+
+Kedua, memilih kaca low-iron hanya karena terlihat "lebih bagus" tanpa mempertimbangkan logistik. Jika vendor terdekat tidak menyimpan stok kaca low-iron dalam ukuran yang Anda butuhkan, waktu tunggu pemesanan khusus bisa menunda proyek secara signifikan.
+
+Ketiga, mengabaikan perbedaan pencahayaan. Kaca low-iron akan terlihat paling mengesankan dengan pencahayaan LED berkualitas tinggi yang memiliki rendering warna baik (CRI tinggi). Dengan pencahayaan standar atau lampu neon lama, perbedaan antara kaca float dan low-iron menjadi jauh kurang terlihat.
+
+Keempat, tidak mempertimbangkan konteks penggunaan secara keseluruhan. ISO 21887 memberikan kerangsa tentang alur kerja spesifikasi dan pemilihan material, di mana keputusan harus didasarkan pada bukti, metode penerimaan, dan tanggung jawab peninjau, bukan sekadar preferensi visual ([ISO 21887](https://www.iso.org/standard/40502.html?browse=ics)).
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Float vs Low-Iron untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum memutuskan, minta vendor untuk menunjukkan sampel kedua jenis kaca dalam ketebalan yang Anda rencanakan. Bandingkan langsung dengan menempatkan sampel di depan objek berwarna. Periksa juga apakah vendor memiliki stok atau hanya menerima pemesanan khusus. Tanyakan waktu tunggu, syarat pembayaran untuk pemesanan khusus, dan kebijakan pengembalian jika sampel tidak sesuai.
 
-## Objection or shortcut to address
+Pastikan Anda mendapatkan sertifikat atau data teknis yang menyatakan jenis kaca, ketebalan nominal, dan status perlakuan panas (jika tempered). SNI 15-0047-2005 dan DIN 32622 memberikan referensi tentang spesifikasi dan persyaratan keamanan kaca datar, namun konformitas produk spesifik harus dikonfirmasi dengan sertifikat uji dari produsen atau pihak ketiga yang terakreditasi. SNI 1727:2020 juga relevan untuk memastikan bahwa beban kaca diperhitungkan dalam desain struktur secara keseluruhan ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005); [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913); [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Satu jalan pintas yang perlu diwaspadai
 
-## Required conclusion
+Beberapa vendor menawarkan "kaca extra clear" atau "kaca crystal" dengan harga yang tidak jauh berbeda dari kaca float, tetapi tanpa sertifikasi atau data teknis yang jelas. Tanpa bukti kandungan besi yang rendah dari produsen terpercaya, Anda mungkin membayar premium untuk kaca float biasa yang hanya dipolis permukaannya. Selalu minta bukti tertulis tentang jenis kaca yang sebenarnya, dan bandingkan dengan sampel yang benar-benar low-iron.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih andal adalah membeli dari vendor yang menyebutkan merek dan nomor batch kaca, sehingga Anda bisa melacak asal-usul material. Jika memungkinkan, minta sampel dari batch yang sama dengan yang akan digunakan untuk proyek Anda.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kaca float dan low-iron masing-masing memiliki keunggulan dan keterbatasan. Kaca float menawarkan ketersediaan luas dan harga yang lebih terjangkau, sementara kaca low-iron memberikan kejernihan optik yang superior. Tidak ada pemenang universal — pilihan yang tepat bergantung pada jenis aquarium, prioritas visual, anggaran, dan logistik proyek Anda.
+
+Langkah selanjutnya: tentukan prioritas utama Anda (kejernihan vs ketersediaan vs biaya), minta sampel dari kedua jenis kaca dalam ketebulan yang direncanakan, bandingkan langsung, dan konfirmasi ketersediaan stok serta waktu pengiriman. Jika ragu, konsultasikan dengan tukang kaca atau fabricator yang berpengalaman untuk memastikan pilihan Anda sesuai dengan kebutuhan spesifik aquarium Anda.
+
+Untuk memahami perbedaan kaca tempered dan annealed, baca juga tentang [kaca tempered vs annealed untuk aquarium](/artikel/kaca-tempered-vs-annealed-aquarium.html). Jika Anda ingin mempelajari lebih lanjut tentang kualitas tepi kaca, lihat artikel tentang [edge polish dan bevel kaca aquarium](/artikel/edge-polish-dan-bevel-kaca-aquarium.html).

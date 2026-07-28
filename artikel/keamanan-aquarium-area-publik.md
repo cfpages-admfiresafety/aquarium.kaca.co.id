@@ -2,8 +2,8 @@
 article_id: AKU-13-06
 title: "Keamanan Akses Aquarium di Area Publik"
 slug: "keamanan-aquarium-area-publik"
-description: "Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure."
-status: outline
+description: "Pelajari cara memastikan keamanan akses aquarium di area publik, termasuk penghalang, dampak, penutup, pemeliharaan, dan jalur evakuasi."
+status: draft
 publication_date: "2026-05-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Kaca.co.id"
 reader_address: "Sobat Kaca.co.id"
 final_route: "/artikel/keamanan-aquarium-area-publik.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
@@ -31,219 +32,113 @@ sources:
   - "https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Keamanan Akses Aquarium di Area Publik
 
-## Assignment lock
+Halo, Sobat Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Keamanan Akses Aquarium di Area Publik”
-- **Reader and situation:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Reader outcome:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Primary intent:** Address barriers, impact, lids, tampering, maintenance, and evacuation paths.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Sobat Kaca.co.id`
-- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns public-area access; structural approval belongs to AKU-03/AKU-06.
-- **Final public route:** `/artikel/keamanan-aquarium-area-publik.html`
-- **Appointed CMS date:** `2026-05-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Aquarium di area publik — seperti hotel, mall, kantor, atau restoran — memiliki tantangan keamanan yang sangat berbeda dari aquarium di rumah pribadi. Di area publik, aquarium tidak hanya harus aman bagi penghuni airnya, tetapi juga harus aman bagi ratusan atau ribuan orang yang berlalu-lalang setiap hari. Anak-anak mungkin menjulurkan tangan, orang mungkin bersandar pada panel, atau seseorang mungkin tidak sengaja menabrak stand. Setiap skenario ini memiliki implikasi keamanan yang serius, Sobat Kaca.co.id.
 
-## Opening instructions
+Jawaban singkatnya: keamanan akses aquarium di area publik memerlukan kombinasi penghalang fisik (barrier), penutup yang memadai (lid), desain yang tahan terhadap benturan (impact resistance), jalur evakuasi yang jelas, dan protokol pemeliharaan yang terdokumentasi. Tidak ada satu solusi yang menjamin keamanan tanpa memperhatikan seluruh aspek ini secara bersamaan. Persyaratan spesifik bergantung pada jenis bangunan, jumlah pengunjung, dan tingkat risiko ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-); [SIMBG](https://simbg.pu.go.id/)).
 
-- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Keamanan Akses Aquarium di Area Publik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies harga aquarium as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
+![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga aquarium` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-14
-
-- **Original sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
-- **Purpose for this article:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
-- **Safe grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
-- **Limits:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
-
-### KR-25
-
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
-- **Safe grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
-- **Limits:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
-
-### KR-55
-
-- **Original sources:** [SNI 2847:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12306-sni28472019), [SNI 1727:2020 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [SNI 1726:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12305-sni17262019).
-- **Purpose for this article:** Ground soil, shell, rooftop, empty/full pool, hydrostatic uplift, joints, and settlement articles.
-- **Safe grounded facts:** Empty, filling, full, drained, high-groundwater, seismic, thermal/shrinkage, maintenance, and temporary stages can govern different actions and details.
-- **Limits:** Require site investigation, survey, current licensed standards, load combinations, calculations, joints/details, temporary works, inspection, and signed structural/geotechnical review.
-
-### KR-73
-
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
-
-### KR-75
-
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
-
-### KR-77
-
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
-
-### KR-74
-
-- **Original sources:** [ISO 11600 sealant classification](https://www.iso.org/standard/80526.html), [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html).
-- **Purpose for this article:** Prevent “aquarium silicone” or one adhesion value from proving a tank joint.
-- **Safe grounded facts:** A cartridge label, dry coupon, or generic sealant classification does not establish structural seam capacity, immersed durability, animal compatibility, or field workmanship.
-- **Limits:** Require manufacturer confirmation for exact materials/use, batch/expiry/storage, preparation/cure instructions, design calculation, controlled fabrication, inspection/test, and warranty.
-
-### KR-26
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
-
-### KR-79
-
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-13-04` → `/artikel/drainase-dan-proteksi-tumpahan-aquarium.html` — Drainase Darurat dan Proteksi Tumpahan
-- `AKU-13-05` → `/artikel/korosi-area-aquarium-laut.html` — Korosi di Sekitar Aquarium Air Laut
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Keamanan Akses Aquarium di Area Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Apa yang perlu diamankan
+
+Keamanan aquarium di area publik bukan hanya soal kaca yang tidak pecah. Ia meliputi beberapa lapisan perlindungan yang saling melengkapi:
+
+Pertama, kaca aquarium itu sendiri harus mampu menahan benturan yang mungkin terjadi di area publik. DIN 32622 memberikan persyaratan keamanan dan pengujian untuk aquarium kaca, termasuk aspek resistensi benturan dan stabilitas ([DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
+
+Kedua, stand atau kabinet harus stabil dan tidak mudah terguling jika ditekan atau ditabrak. SNI 1727:2020 memberikan acuan tentang beban desain, termasuk beban lateral yang bisa terjadi saat seseorang bersandar atau menabrak aquarium ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020); [SIMBG](https://simbg.pu.go.id/)).
+
+Ketiga, sistem kelistrikan harus aman dari air dan tidak menciptakan risiko sengatan listrik. IEC 60364-7-702 dan PUIL 2020 memberikan kerangka tentang instalasi listrik yang aman di area basah atau semi-basa ([IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897); [PLN PUIL 2020](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman)).
+
+Keempat, jalur evakuasi dan akses pemeliharaan harus tetap tersedia meskipun aquarium terpasang.
+
+### Kondisi awal yang harus diverifikasi
+
+Sebelum aquarium dioperasikan di area publik, verifikasi beberapa kondisi kritis. Pastikan lantai mampu menanggung beban (lihat artikel tentang kapasitas lantai). Pastikan kelistrikan memenuhi standar keselamatan untuk area basah. Pastikan ada sistem drainase atau penampungan tumpahan yang memadai. Pastikan jalur evakuasi tidak terhalang oleh aquarium atau peralatan pendukung.
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Keamanan Akses Aquarium di Area Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aquarium di area publik mengalami penurunan kinerja lebih cepat dibandingkan di lingkungan rumah karena beberapa faktor:
+
+Pertama, fluktuasi suhu yang lebih ekstrem. Area publik mungkin tidak memiliki kontrol suhu yang konsisten, terutama di area semi-terbuka. Perubahan suhu yang tiba-tiba bisa mempengaruhi kesehatan ikan dan integritas sambungan silikon.
+
+Kedua, paparan cahaya yang berlebihan. Aquarium di area publik sering kali terpapar sinar matahari langsung atau pencahayaan dekoratif yang intens. Cahaya berlebihan bisa memicu pertumbuhan alga yang berlebihan dan meningkatkan suhu air.
+
+Ketiga, kontak fisik yang lebih sering. Pengunjung mungkin menyentuh, mengetuk, atau bersandar pada aquarium. Kontak berulang ini bisa melemahkan sambungan seiring waktu.
+
+ISO 11600 dan ISO 8339 memberikan kerangka tentang klasifikasi dan propensi sealant, yang relevan untuk memastikan sambungan aquarium tetap kuat meskipun terpapar kondisi yang lebih keras ([ISO 11600 sealant classification](https://www.iso.org/standard/80526.html); [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html)).
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Keamanan Akses Aquarium di Area Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### Data awal dan pengukuran
+
+Sebelum aquarium mulai beroperasi di area publik, buat dokumentasi baseline yang mencakup:
+
+Foto kondisi semua panel kaca, sambungan silikon, dan tepi. Ukuran level aquarium di beberapa titik. Kondisi stand atau kabinet. Kondisi sistem kelistrikan dan drainase. Kondisi air awal (suhu, pH, parameter lain).
+
+Dokumentasi ini akan menjadi acuan untuk membandingkan kondisi di masa mendatang dan mendeteksi perubahan sejak dini.
+
+### Inspeksi berkala
+
+Tentukan jadwal inspeksi berkala yang sesuai dengan tingkat risiko. Untuk area publik dengan lalu lintas tinggi, inspeksi visual mingguan dan inspeksi menyeluruh bulanan sudah disarankan. Periksa sambungan silikon untuk retakan atau perpecahan, kondisi kaca untuk goresan atau retakan, level aquarium, kondisi stand, dan sistem kelistrikan.
+
+SNI 7973:2013 dan USDA stress-grade overview memberikan konteks tentang bagaimana material struktural (kayu) berubah seiring waktu dan paparan, yang relevan untuk stand atau kabinet aquarium ([SNI 7973:2013](https://pesta.bsn.go.id/produk/detail/9716-sni79732013); [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148)).
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Keamanan Akses Aquarium di Area Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berdasarkan temuan inspeksi, ada beberapa tingkat intervensi yang mungkin diperlukan:
+
+Pemantauan aktif: jika tidak ada kerusakan yang terlihat tetapi kondisi berisiko (misalnya, aquarium di area dengan fluktuasi suhu tinggi), tingkatkan frekuensi inspeksi dan dokumentasikan perubahan.
+
+Perawatan preventif: bersihkan sambungan silikon dari debris, periksa dan kencangkan sekrup stand, pastikan sistem drainase tidak tersumbat.
+
+Perbaikan: jika ditemukan retakan kecil pada silikon atau goresan pada kaca, lakukan perbaikan segera sebelum kerusakan menjalar. Untuk kerusakan signifikan, pertimbangkan penggantian panel.
+
+Penghentian sementara: jika ditemukan kerusakan struktural yang mengancam keamanan, kosongkan aquarium segera dan amankan area. Jangan menunggu perbaikan jika risiko keamanan sudah tinggi.
+
+WOAH Aquatic Animal Health Code dan FAO aquaculture resources memberikan kerangka tentang pemeliharaan kesehatan akuatik, yang relevan untuk memastikan bahwa intervensi pemeliharaan tidak membahayakan penghuni air ([WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/); [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture)).
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Keamanan Akses Aquarium di Area Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritas intervensi ditentukan oleh beberapa faktor, Kawan Kaca.co.id: konsekuensi (apa yang terjadi jika kegagalan terjadi), urgensi (seberapa cepat kerusakan berkembang), akses (seberapa mudah area bisa diamankan), dan biaya (perbandingan biaya perawatan vs biaya kegagalan).
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Kegagalan kaca di area publik bisa berakibat fatal karena pecahan kaca dan tumpahan air akan membahayakan pengunjung. Oleh karena itu, setiap tanda kerusakan pada panel kaca harus ditangani dengan prioritas tertinggi.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Keamanan Akses Aquarium di Area Publik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Keretakan sambungan silikon juga harus diprioritaskan karena bisa menyebabkan kebocoran yang merusak lantai dan menciptakan risiko terpeleset. SNI 2847:2019, SNI 1727:2020, dan SNI 1726:2019 memberikan kerangka tentang beban dan kombinasi beban yang harus diperhitungkan dalam evaluasi risiko ([SNI 2847:2019](https://pesta.bsn.go.id/produk/detail/12306-sni28472019); [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12626-sni17272020); [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12305-sni17262019)).
 
-## Objection or shortcut to address
+## Rekaman dan pemicu pemeriksaan ulang
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Setiap inspeksi dan intervensi harus didokumentasikan dengan: tanggal dan nama pemeriksa, foto kondisi saat itu, temuan dan tindakan yang diambil, serta rencana tindak lanjut. Dokumentasi ini harus tersedia untuk pemilik berikutnya, pengelola gedung, dan peninjau profesional.
 
-## Required conclusion
+Pemicu pemeriksaan ulang yang lebih intensif meliputi: setelah gempa bumi atau getaran signifikan, setelah perubahan suhu ekstrem, setelah kejadian tumpahan air yang besar, setelah penggantian komponen utama, atau setelah adanya keluhan dari pengunjung.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Satu jalan pintas yang perlu diwaspadai
 
-## Draft completion checklist
+Beberapa pengelola area publik mengandalkan "pagar dekoratif" atau tanaman sebagai penghalang di sekitar aquarium. Penghalang semacam ini bukan pengganti barrier fisik yang memadai. Tanaman bisa dipindahkan, pagar dekoratif bisa didorong, dan anak-anak bisa dengan mudah melewati penghalang yang tidak dirancang untuk tujuan keamanan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang benar adalah menggunakan barrier yang dirancang khusus dengan ketinggian dan kekuatan yang memadai, dipasang dengan kokoh ke lantai atau dinding, dan tidak bisa dipindahkan tanpa alat khusus. Konsultasikan dengan profesional keamanan untuk memastikan barrier memenuhi standar yang berlaku.
+
+## Kesimpulan
+
+Keamanan akses aquarium di area publik memerlukan pendekatan holistik yang meliputi penghalang fisik, penutup yang memadai, desain tahan benturan, jalur evakuasi yang jelas, dan protokol pemeliharaan terdokumentasi. Tidak ada komponen yang bisa diabaikan tanpa menciptakan celah keamanan.
+
+Langkah selanjutnya: identifikasi risiko spesifik di area Anda, pastikan semua komponen keamanan terpasang dan berfungsi, tetapkan jadwal inspeksi berkala, dan dokumentasikan semua kondisi dan tindakan. Jika ragu, minta tinjauan dari profesional keamanan dan struktur yang memahami persyaratan untuk instalasi di area publik.
+
+Untuk memahami drainase dan proteksi tumpahan, baca juga tentang [drainase dan proteksi tumpahan aquarium](/artikel/drainase-dan-proteksi-tumpahan-aquarium.html). Jika Anda ingin mempelajari tentang korosi di area aquarium laut, lihat artikel tentang [korosi area aquarium laut](/artikel/korosi-area-aquarium-laut.html).

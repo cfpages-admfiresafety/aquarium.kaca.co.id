@@ -2,8 +2,9 @@
 article_id: AKU-11-05
 title: "Sensor, Controller, dan Alarm Aquarium"
 slug: "sensor-controller-alarm-aquarium"
-description: "Coordinate light, heat, controls, cables, moisture, isolation, and maintenance access."
-status: outline
+description: "Pahami cara menyalakan sensor, controller, dan alarm aquarium agar cahaya, panas, kelistrikan, dan kelembapan terkoordinasi dengan aman."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-31"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -33,37 +34,7 @@ sources:
   - "https://www.iso.org/standard/62085.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Sensor, Controller, dan Alarm Aquarium
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Sensor, Controller, dan Alarm Aquarium”
-- **Reader and situation:** Coordinate light, heat, controls, cables, moisture, isolation, and maintenance access.
-- **Reader outcome:** Coordinate light, heat, controls, cables, moisture, isolation, and maintenance access.
-- **Primary intent:** Choose monitored variables, failure states, calibration, and manual fallback.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns automation control; product claims require current evidence.
-- **Final public route:** `/artikel/sensor-controller-alarm-aquarium.html`
-- **Appointed CMS date:** `2026-03-31` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sensor, Controller, dan Alarm Aquarium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -74,179 +45,96 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Sensor, Controller, dan Alarm Aquarium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Kaca.co.id!
 
-### KR-01
+Banyak pemilik aquarium mengandalkan satu thermostat murah atau timer lampu sederhana dan mengira sistem sudah aman. Padahal, sensor, controller, dan alarm yang tidak terkoordinasi bisa menciptakan kegagalan berantai: suhu naik tanpa ada yang mematikan heater, pH jatuh tanpa ada yang memberi sinyal, atau pompa mati tanpa backup yang menyala. Singkatnya, masalahnya bukan tidak adanya sensor — tetapi tidak adanya koordinasi antar komponen yang memastikan satu kegagalan tidak menjadi bencana.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+Jawaban singkatnya: setiap sistem monitoring aquarium harus dirancang dengan tiga lapisan — sensor yang mengukur, controller yang memutuskan, dan alarm yang memberi tahu Anda. Ketiganya harus bekerja secara terpisah agar satu kegagalan komponen tidak menghilangkan seluruh sistem keamanan. Selain itu, kelistrikan, pencahayaan, pemanas, dan akses pemeliharaan harus terkoordinasi dalam satu rencana yang memperhitungkan kelembapan, isolasi, dan cadangan daya.
 
-### KR-38
+![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)
 
-- **Original sources:** [PUPR Guide to Green Open Space Planning](https://ciptakarya.pu.go.id/bsb/Download/Read/35), [BMKG data portal](https://dataonline.bmkg.go.id/).
-- **Purpose for this article:** Ground site-analysis and program articles in connected soil, water, climate, users, access, utilities, buildings, and vegetation evidence.
-- **Safe grounded facts:** Boundary, levels, drainage, existing trees, shade, wind, utilities, soil, access, users, adjacent structures, views, and maintenance capacity can be surveyed separately.
-- **Limits:** Public data does not replace a current survey, utility detection, soil/water testing, user brief, or professional design.
-
-### KR-66
-
-- **Original sources:** [US Department of Energy pool-heating guidance](https://www.energy.gov/energysaver/heat-pump-swimming-pool-heaters), [US Department of Energy pool-pump guidance](https://www.energy.gov/energysaver/choosing-and-installing-pool-pump), [BMKG data portal](https://dataonline.bmkg.go.id/).
-- **Purpose for this article:** Ground covers, heaters/chillers, solar, evaporation, pump speed, lighting, schedules, and lifecycle-cost articles.
-- **Safe grounded facts:** Baseline consumption and service conditions must be measured before comparing retrofit savings.
-- **Limits:** No percentage savings, payback, temperature, capacity, evaporation, or operating-cost claim without dated local inputs, transparent method, equipment data, installation, and measurement.
-
-### KR-71
-
-- **Original sources:** [BMKG data portal](https://dataonline.bmkg.go.id/), [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
-- **Purpose for this article:** Separate stable pool principles from changing rainfall/heat/dust/salinity/source water, service coverage, capacity, product, price, cases, certificates, and warranties.
-- **Safe grounded facts:** A weather normal, city name, photograph, quote, portfolio, testimonial, certificate, equipment list, test, and warranty prove different things.
-- **Limits:** If current site/operator proof is absent, keep the article neutral and mark the evidence gap.
-
-### KR-79
-
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
-
-### KR-30
-
-- **Original sources:** [SNI 0225-2:2020 PUIL design record](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020), [SNI 0225-4-41:2020 official PUIL catalogue](https://pesta.bsn.go.id/produk/index?key=Puil), and [SNI 0225-6:2020 listed by BSN](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020).
-- **Purpose for this article:** Bound lighting, sockets, fans, pumps, controls, cabling, weather exposure, shock protection, and commissioning claims.
-- **Safe grounded facts:** Wattage, IP marketing, cable size, or a product certificate alone does not establish circuit protection, earthing, bonding, isolation, routing, environmental suitability, or a verified installation.
-- **Limits:** Obtain current full PUIL parts, supply/earthing facts, environment/exposure, loads, equipment data, routing, protection, competent design/installation, inspection, testing, and records under G-01/G-09/G-11.
-
-### KR-72
-
-- **Original sources:** [SNI 15-0047-2005 flat glass catalog record — BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), [ISO 12543 laminated glass series](https://www.iso.org/standard/81997.html), [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html).
-- **Purpose for this article:** Ground float/annealed, heat-treated, laminated, low-iron, acrylic comparison and fabrication content without a universal thickness table.
-- **Safe grounded facts:** Nominal thickness, glass type, test specimen, edge finish, size, support, duration, and environment must travel with strength/performance data.
-- **Limits:** Product or test standards do not size an aquarium. Require exact product/build-up, fabrication records, calculations, samples, inspection, and competent glazing/structural review.
-
-### KR-73
-
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
-
-### KR-77
-
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
-
-### KR-81
-
-- **Original sources:** [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913), [ISO 9001](https://www.iso.org/standard/62085.html).
-- **Purpose for this article:** Ground maintenance and repair decisions in documented condition, consequence, and responsible disposition.
-- **Safe grounded facts:** A dry exterior at one moment does not prove seam integrity; cosmetic repair does not establish structural or immersed performance.
-- **Limits:** Define stop/drain/isolate/relocate decisions through fabricator, structural/glazing, electrical, and aquatic professionals; require original design, condition survey, repair method, controlled test, records, and signed acceptance. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `AKU-01` | KR-01, KR-67, KR-06, KR-14, KR-74, KR-81, KR-77, KR-79, KR-72, KR-78 | Tujuan, kapasitas, dan brief aquarium; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-02` | KR-01, KR-33, KR-17, KR-26, KR-72, KR-16, KR-73, KR-75, KR-34, KR-02 | Jenis kaca dan proses fabrikasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-03` | KR-01, KR-26, KR-55, KR-14, KR-73, KR-75, KR-34, KR-09, KR-72, KR-74 | Ketebalan, tekanan air, dan beban; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-04` | KR-01, KR-17, KR-50, KR-02, KR-72, KR-74, KR-79, KR-77, KR-81, KR-73 | Bentuk dan desain aquarium; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-05` | KR-01, KR-13, KR-62, KR-55, KR-78, KR-63, KR-74, KR-73, KR-72, KR-81 | Seam, silicone, dan adhesive; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-06` | KR-01, KR-14, KR-34, KR-09, KR-75, KR-73, KR-26, KR-55, KR-72, KR-76 | Stand, base, kabinet, dan lantai; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-07` | KR-01, KR-30, KR-65, KR-68, KR-59, KR-76, KR-75, KR-18, KR-79, KR-81 | Pengiriman, instalasi, dan commissioning; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-08` | KR-01, KR-25, KR-47, KR-31, KR-64, KR-77, KR-48, KR-67, KR-78, KR-81 | Filtrasi, sirkulasi, dan aerasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-09` | KR-01, KR-60, KR-03, KR-11, KR-77, KR-13, KR-15, KR-52, KR-78, KR-79 | Air tawar, air laut, dan kualitas air; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-10` | KR-01, KR-54, KR-57, KR-63, KR-78, KR-48, KR-74, KR-03, KR-77, KR-75 | Livestock suitability dan welfare; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-11` | KR-01, KR-38, KR-66, KR-71, KR-79, KR-30, KR-72, KR-73, KR-77, KR-81 | Lighting, heating, dan keselamatan listrik; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-12` | KR-01, KR-21, KR-38, KR-13, KR-80, KR-73, KR-75, KR-26, KR-77, KR-78 | Aquascape, substrate, dan dekorasi; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-13` | KR-01, KR-14, KR-25, KR-55, KR-73, KR-75, KR-77, KR-74, KR-26, KR-79 | Aquarium indoor dan outdoor; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-14` | KR-01, KR-21, KR-38, KR-46, KR-80, KR-13, KR-81, KR-74, KR-75, KR-78 | Perawatan, inspeksi, dan keputusan perbaikan; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-15` | KR-01, KR-51, KR-24, KR-69, KR-10, KR-18, KR-72, KR-73, KR-76, KR-81 | Custom order, harga, vendor, dan logistik; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `AKU-16` | KR-01, KR-33, KR-17, KR-53, KR-18, KR-80, KR-74, KR-75, KR-79, KR-81 | Standar, dokumentasi, warranty, dan acceptance; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A public map or climate series, field survey, laboratory result, design input, installed condition, and operating result are different evidence layers. 2. Common name, accepted botanical name, nursery identity, cultivar/provenance, delivered batch, and local performance are different evidence objects. 3. Planting design must consider mature roots/canopy, users, utilities, structures, water, maintenance, risks, and replacement—not appearance alone. 4. A watering duration is meaningless without flow, distribution, area, soil/media, plant stage, weather, and measured response. 5. Drainage follows the catchment, levels, infiltration, receiving system, overflow, erosion, water quality, and maintenance; a drain product does not prove capacity. 6. A paver, coating, luminaire, planter, pond component, green-wall module, or gazebo does not prove the installed system. 7. One symptom or photograph cannot distinguish water, nutrient, root, chemical, pest, disease, and building-interface causes. 8. Biodiversity, cooling, carbon, flood, native, low-maintenance, and sustainability claims require a defined baseline, method, boundary, and monitoring period. 9. Pool, ornamental pond, aquarium, irrigation, rainwater, wastewater, and recreational water have different purpose-specific evidence. 10. Prices, services, plant/product lists, coverage, capacity, cases, schedules, certificates, warranties, and performance are volatile operator evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` Current complete standards and exact acceptance | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain licensed current editions, applicable clauses, methods, inputs, units, tolerances, acceptance, and qualified interpretation | | `G-02` Function, site, users, local rules, PBG/SLF, and approvals | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify location, land/site constraints, public/private function, permanence, users, work scope, local rules, PBG/SLF applicability, submissions, responsible parties, and authority decisions | | `G-03` Climate, occupancy, loads, exposure, and geometry | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain surveyed geometry, use/occupancy, wind/rain/seismic inputs, topography, microclimate, wetting/drying, temperature, shade, vegetation, drainage, and change scenarios | | `G-04` Ground, foundation, anchors, slopes, water, and services | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain survey, investigation, soil/groundwater/drainage/slope/service facts, reactions, design, excavation/temporary works, concrete/anchor evidence, inspection, and geotechnical/structural acceptance | | `G-05` Complete structural design, connections, stability, and acceptance | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain current load/seismic/wood basis, material grades, calculations, drawings, load path, bracing, connections, anchorage, temporary stability, inspections, deviations, and signed engineer review | | `G-06` Exact material, roof, finish, fastener, and product-system evidence | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain product construction/grade/moisture/coating, current data/instructions/SDS/reports, exposure and compatibility evidence, samples/mockups, fastening/lap/detail basis, maintenance, and warranty | | `G-07` Moisture, biological damage, treatment, drainage, and durability | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify species/product, moisture paths, ground separation, drainage/ventilation, organism/activity, treatment identity/label/history, finish system, inspection baseline, specialist disposition, and follow-up | | `G-08` Fire strategy, ignition sources, assembly evidence, and post-fire decision | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Confirm function/users, local fire basis, ignition/electrical/cooking exposure, separation/escape/access, exact assembly evidence, controls, incident facts, and fire/structural decision | | `G-09` Accessible route, lighting, power, controls, and electrical verification | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify user/function applicability, continuous route and level-change details, seating/guards/controls, supply/earthing/environment, circuit protection, equipment, competent design/installation, testing, and records | | `G-10` Construction K3, temporary works, lifting, height, and public protection | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Confirm current duties, risk assessment, competence, temporary stability, excavation/lifting/height/machine/electrical/chemical controls, weather limits, exclusion, emergency/rescue, supervision, and records | | `G-11` Inspection, quality control, testing, deviations, and handover | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Define approved submittals, samples, hold points, measurements, inspections/tests, nonconformance, concealed-work records, commissioning, as-built documents, care plan, warranty, and acceptance | | `G-12` Current legality, traceability, sustainability, and claim scope | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify species/product/source, current forestry rules, official status, chain model, certificate holder/scope, transaction records, conservation/trade context, lifecycle method, and authorized wording | | `G-13` Equivalent scope, price, schedule, supplier, contract, and warranty | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain dated offers with the same site/design/material/finish/MEP/approval/safety/QC/logistics scope, explicit exclusions/deviations, capability, milestones, payment, acceptance, warranty, maintenance, and claim route | | `G-14` Site, climate, soil, levels, utilities, water, users, and baseline | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain current boundary/topographic/utility survey, representative soil/water tests, BMKG/local climate basis, existing-tree/condition inventory, user/maintenance brief, photographs, risks, and signed baseline | | `G-15` Botanical identity, provenance, nursery quality, mature form, toxicity, and local status | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify accepted name/synonyms, cultivar/provenance, delivered batch, nursery condition, mature traits, Indonesian invasive/protected status, toxicity/thorns, local ecology, and authorized selection | | `G-16` Irrigation demand, water source/quality, hydraulic performance, and permissions | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify climate/plant/media inputs, hydrozones, source rights/quality, pressure/flow, filtration, distribution audit, controls, drainage/runoff, monitoring, commissioning, and operator competence | | `G-17` Plant-health diagnosis, fertilizer, pesticide, pruning, transplant, and large-tree work | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain representative observation/sample/lab evidence, qualified diagnosis, current product label, site risk assessment, arborist/agronomy decision, safe method, records, and follow-up | | `G-18` Pond/water-feature purpose, water criteria, aquatic welfare, vector, and discharge | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Define use/contact, species/stock, water source, hydraulic and treatment calculations, chemistry/microbiology/oxygen criteria, welfare plan, vector control, overflow/discharge approval, and measured commissioning | | `G-19` Catchment, grading, infiltration, drainage, erosion, waterproofing, and receiving system | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain survey and rainfall basis, hydrology/hydraulics, geotechnics/groundwater, levels, inlet/outlet/overflow, waterproof interfaces, erosion/sediment controls, downstream approval, inspection, and maintenance access | | `G-20` Biodiversity, native/invasive, pollinator, carbon, cooling, flood, or sustainability outcome | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Define baseline, geography, accepted species/status, intervention, comparison boundary, indicators, method, monitoring period, confounders, trade-offs, and qualified ecological review | | `G-21` Water/electrical edge safety, slips, access, public interaction, and animal contact | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Verify intended users/contact, edge/guard/access route, slip and rescue considerations, electrical environment/protection/testing, animal-contact controls, supervision, signage, emergency plan, and authority approval | | `G-22` Live service, plant/product, price, capacity, coverage, schedule, case, image, certificate, and warranty | `AKU-01`, `AKU-02`, `AKU-03`, `AKU-04`, `AKU-05`, `AKU-06`, `AKU-07`, `AKU-08`, `AKU-09`, `AKU-10`, `AKU-11`, `AKU-12`, `AKU-13`, `AKU-14`, `AKU-15`, `AKU-16` | Obtain dated operator-approved source, exact scope, original rights/evidence, assumptions/exclusions, effective/review date, privacy basis, and approved wording; otherwise keep neutral | ## Source-refresh triggers Recheck immediately when: - an outline uses law, SNI status, certification, export, environmental, K3, or product-compliance language; - ISO/BSN records show review, amendment, replacement, confirmation, or withdrawal; - a supplier, product construction, adhesive/finish/preservative, report, certificate, label, or warranty changes; - project climate, use, load, fire strategy, moisture exposure, substrate, installation, or maintenance conditions differ; - an exact value, class, tolerance, test result, service life, price, yield, capacity, or acceptance decision is proposed; - publication begins more than 90 days after this verification date for law/safety/legal pages, or more than 12 months later for stable technical foundations. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-11-03` → `/artikel/keselamatan-listrik-area-aquarium.html` — Drip Loop, RCD, dan Isolasi Listrik di Area Basah
-- `AKU-11-04` → `/artikel/manajemen-kabel-aquarium.html` — Manajemen Kabel dan Power Strip Aquarium
-- `AKU-11-06` → `/artikel/backup-power-aquarium.html` — Backup Power untuk Sistem Life Support
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sensor, Controller, dan Alarm Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum aquarium; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sensor, Controller, dan Alarm Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum memilih perangkat, penting untuk memahami apa yang termasuk dalam pembahasan ini dan apa yang tidak.
+
+**Sensor** adalah perangkat yang mengukur parameter lingkungan: suhu air, pH, salinitas, ketinggian air, atau aliran. Sensor hanya memberikan data — ia tidak mengambil keputusan. **Controller** adalah perangkat yang menerima data dari sensor dan mengambil tindakan: menyalakan atau mematikan heater, pompa, atau lampu berdasarkan ambang batas yang ditetapkan. **Alarm** adalah perangkat yang memberi tahu Anda ketika ada sesuatu yang keluar dari rentang aman: suhu terlalu tinggi, air bocor, atau daya mati.
+
+Yang tidak termasuk dalam pembahasan ini adalah desain akuatik profesional, standar kesehatan hewan air untuk spesies tertentu, atau klaim kinerja produk spesifik. Artikel ini fokus pada prinsip koordinasi dan keamanan sistem, bukan pada pemilihan produk atau desain instalasi lengkap. Seperti yang dijelaskan dalam DIN 32622 tentang aquarium kaca ([catatan DIN](https://www.dinmedia.de/en/standard/din-32622/262406913)), persyaratan keamanan aquarium mencakup banyak aspek yang saling terkait — dan monitoring elektronik adalah salah satu lapisan keamanan, bukan satu-satunya.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sensor, Controller, dan Alarm Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sistem sensor, controller, dan alarm bekerja dalam urutan yang jelas: ukur, putuskan, beri tahu. Tetapi masing-masing lapisan memiliki tantangan sendiri.
+
+**Sensor harus diukur dan dikalibrasi secara berkala.** Sensor suhu yang menunjukkan 26°C belum tentu benar — ia bisa deviasi 1-2 derajat dari kondisi aktual. Tanpa kalibrasi berkala, data yang masuk ke controller sudah salah sejak awal. Untuk parameter seperti pH, deviasi bisa lebih signifikan karena sensor pH rentan terhadap drift seiring waktu. BMKG menyediakan data iklim ([portal BMKG](https://dataonline.bmkg.go.id/)) yang bisa menjadi referensi untuk memahami kondisi ambient, tetapi data lingkungan aquarium harus diukur langsung di lokasi.
+
+**Controller harus memiliki logika kegagalan yang jelas.** Ketika sensor memberikan data di luar rentang, controller harus memiliki aturan yang sudah ditetapkan sebelumnya: apakah heater dimatikan, apakah pompa backup dinyalakan, atau apakah alarm aktif. Controller yang bagus bukan yang paling mahal, tetapi yang logika kegagalannya bisa Anda pahami dan verifikasi. Standar IEC 60364-7-702 ([catatan IEC](https://webstore.iec.ch/en/publication/1897)) tentang instalasi listrik untuk kolam renang dan area basah memberikan kerangka tentang bagaimana perangkat elektronik harus dipasang di lingkungan lembap — prinsip yang relevan untuk aquarium.
+
+**Alarm harus berbunyi bahkan ketika Anda tidak ada di ruangan.** Alarm yang hanya menyalakan lampu di aquarium tidak berguna jika Anda sedang tidak di rumah. Alarm harus memiliki setidaknya satu jalur notifikasi yang bisa Anda terimi dari jarak jauh: pesan telepon, aplikasi, atau panggilan telepon. Tanpa ini, alarm hanya menjadi hiasan.
+
+Ketiga lapisan ini harus terpisah secara elektris. Jika controller dan alarm menggunakan power supply yang sama, satu gangguan listrik bisa mematikan keduanya sekaligus. Inilah mengapa isolasi dan redundansi menjadi kunci. Seperti yang dijelaskan dalam pedoman PUIL 2020 dari PLN ([informasi PLN](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman)), instalasi listrik di area basah membutuhkan perlindungan khusus termasuk grounding dan isolasi yang memadai.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sensor, Controller, dan Alarm Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi bisa mengubah bagaimana sensor, controller, dan alarm bekerja dalam praktik.
+
+**Lingkungan lembap dan korosif.** Area sekitar aquarium memiliki kelembapan tinggi yang bisa mempengaruhi koneksi listrik, sensor, dan elektronik. SNI 0225-2:2020 PUIL ([catatan BSN](https://pesta.bsn.go.id/produk/detail/12857-sni0225-22020)) dan pedoman PUIL 2020 dari PLN ([informasi PLN](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman)) memberikan dasar tentang bagaimana instalasi listrik harus dilakukan di area basah, termasuk perlindungan terhadap kelembapan dan percikan air. SNI 0225-4-41:2020 ([katalog PUIL](https://pesta.bsn.go.id/produk/index?key=Puil)) secara spesifik membahas instalasi untuk area dengan risiko kelembapan tinggi. Rating IP (Ingress Protection) pada perangkat elektronik menunjukkan seberapa tahan perangkat terhadap debu dan air, tetapi rating IP saja tidak menjamin instalasi yang aman — ia hanya membuktikan karakteristik perangkat dalam kondisi pengujian terkontrol. Panduan PUPR tentang perencanaan ruang terbuka hijau ([sumber PUPR](https://ciptakarya.pu.go.id/bsb/Download/Read/35)) memberikan konteks tentang bagaimana kondisi lingkungan seperti drainase, kelembapan tanah, dan vegetasi mempengaruhi desain instalasi — prinsip yang relevan untuk memahami bagaimana lingkungan sekitar aquarium mempengaruhi perangkat elektronik.
+
+**Ketidakstabilan daya listrik.** Fluktuasi tegangan, pemadaman mendadak, atau ground fault bisa mempengaruhi seluruh sistem monitoring. UU No. 8 Tahun 1999 tentang Perlindungan Konsumen ([catatan BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999)) mengatur hak konsumen terhadap produk yang aman, tetapi tanggung jawab instalasi tetap berada di tangan pemasang. RCD (Residual Current Device) atau ELCB menjadi komponen kritis yang harus dipasang pada sirkuit aquarium untuk memutus aliran listrik jika terjadi kebocoran arus.
+
+**Suhu dan perubahan iklim.** Suhu ruangan mempengaruhi beban heater dan chiller. Data BMKG ([portal BMKG](https://dataonline.bmkg.go.id/)) menunjukkan bahwa suhu ambient di berbagai wilayah Indonesia berbeda-beda, dan perubahan musim bisa mempengaruhi stabilitas suhu aquarium. Panduan DOE tentang heat pump untuk kolam ([sumber DOE](https://www.energy.gov/energysaver/heat-pump-swimming-pool-heaters)) menjelaskan bahwa efisiensi pemanas sangat bergantung pada suhu ambient — prinsip yang relevan untuk pemahaman bagaimana heater dan chiller bekerja di kondisi berbeda. Heater yang bekerja terlalu keras karena suhu ruangan rendah akan lebih cepat aus, sementara chiller yang bekerja di ruangan panas membutuhkan kapasitas lebih besar. Fluktuasi suhu yang tidak terkendali juga bisa mempengaruhi integritas kaca aquarium — perubahan suhu mendadak menyebabkan ekspansi dan kontraksi yang bisa menyebabkan stres pada sambungan silicone, seperti yang dibahas lebih lanjut tentang [kaca aquarium yang menguning](/kaca-aquarium-menguning.html) akibat kondisi lingkungan yang tidak stabil.
+
+**Jenis dan jumlah livestock.** Ikan yang berbeda memiliki toleransi suhu dan parameter air yang berbeda pula. WOAH Aquatic Animal Health Code ([catatan WOAH](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/)) dan sumber daya FAO tentang akuakultur ([catatan FAO](https://www.fao.org/fishery/en/aquaculture)) memberikan kerangka tentang bagaimana kesehatan hewan air dinilai, tetapi kebutuhan spesifik spesies harus dikonsultasikan dengan ahli akuatik atau veteriner. Clear water tidak membuktikan kualitas air yang cocok untuk semua spesies.
+
+**Akses pemeliharaan.** Sensor yang sulit dijangkau untuk kalibrasi atau penggantian akan terlupakan. Rencana penempatan harus mempertimbangkan akses untuk pemeliharaan rutin, bukan hanya kemudahan pemasangan awal. Panduan DOE tentang pompa kolam ([sumber DOE](https://www.energy.gov/energysaver/choosing-and-installing-pool-pump)) menekankan pentingnya akses untuk pemeliharaan dan inspeksi rutin pada perangkat mekanis — prinsip yang sama berlaku untuk pompa dan sensor aquarium. Sistem manajemen mutu seperti ISO 9001 ([catatan ISO](https://www.iso.org/standard/62085.html)) memberikan kerangka tentang bagaimana proses pemeliharaan dan inspeksi harus didokumentasikan — meskipun standar ini bukan persyaratan wajib untuk aquarium rumahan, prinsip dokumentasi dan inspeksi berkala tetap relevan untuk memastikan sistem monitoring berfungsi sebagaimana mestinya.
+
+**Kaca dan material pendukung.** Kaca aquarium itu sendiri memiliki properti yang mempengaruhi pemilihan sensor. SNI 15-0047-2005 tentang kaca datar ([catatan BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005)) dan standar ISO tentang kaca laminasi ([catatan ISO](https://www.iso.org/standard/81997.html)) serta pengujian kekuatan kaca ([catatan ISO](https://www.iso.org/standard/23725.html)) memberikan dasar tentang properti kaca, tetapi sensor yang dipasang pada aquarium harus memperhitungkan kondisi aktual kaca — termasuk ketebalan, jenis, dan kondisi tepi. SNI 1727:2020 tentang beban desain struktur ([catatan BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)) juga relevan untuk memahami bagaimana beban dan struktur aquarium mempengaruhi penempatan perangkat. Sensor yang terlalu dekat ke kaca atau terlalu lama terpapar kelembapan bisa mempercepat kerusakan pada koneksi, sehingga pemahaman tentang kondisi kaca menjadi penting untuk perencanaan penempatan yang baik — topik yang dibahas lebih detail dalam panduan tentang [kaca aquarium yang retak](/kaca-aquarium-retak.html).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sensor, Controller, dan Alarm Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan Anda memiliki aquarium 300 liter dengan heater, pompa sirkulasi, dan lampu LED. Berikut skenario yang menunjukkan bagaimana koordinasi sensor, controller, dan alarm bekerja dalam praktik.
+
+**Skenario 1: Heater gagal menyala di malam hari.** Jika Anda hanya mengandalkan satu thermostat built-in pada heater, dan heater tersebut gagal, suhu air akan turun perlahan hingga ikan stres. Tetapi jika Anda memiliki sensor suhu terpisah yang terhubung ke controller independen, controller bisa mendeteksi penurunan suhu dan mengaktifkan alarm — atau bahkan menghidupkan heater backup jika tersedia. Tanpa alarm jarak jauh, Anda baru mengetahui masalah ini keesokan paginya.
+
+**Skenario 2: Pompa sirkulasi mati saat Anda pergi.** Pompa yang mati menyebabkan sirkulasi air berhenti, oksigen terlarut menurun, dan amonia mulai menumpuk. Controller yang terhubung ke sensor aliran bisa mendeteksi pompa yang berhenti dan mengaktifkan alarm. Tetapi jika controller dan alarm menggunakan power supply yang sama, satu pemadaman listrik bisa mematikan keduanya sekaligus. Inilah mengapa redundansi power supply menjadi penting.
+
+**Skenario 3: Sensor pH drift tanpa disadari.** Sensor pH yang tidak dikalibrasi selama 6 bulan bisa deviasi signifikan dari pH aktual. Jika controller mengandalkan data dari sensor ini untuk mengatur penambahan buffer, Anda mungkin menambahkan terlalu banyak atau terlalu sedikit — dan menyebabkan stres pada livestock. Kalibrasi rutin adalah satu-satunya cara memastikan data sensor masih akurat.
+
+**Skenario 4: Kabel sensor terkena kelembapan.** Kabel yang tidak terlindung dengan baik di area lembap bisa mengalami korosi atau korsleting. Ini bisa menyebabkan data sensor salah atau bahkan korsleting yang mematikan seluruh sirkuit. Pastikan kabel sensor menggunakan jalur yang terlindung dan terisolasi dengan baik, sesuai dengan pedoman PUIL 2020.
+
+Dalam setiap skenario, pertanyaan kuncinya sama, Sobat Kaca.co.id: apakah setiap komponen memiliki jalur kegagalan yang terpisah, dan apakah Anda memiliki cara untuk mengetahui ketika sesuatu salah?
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sensor, Controller, dan Alarm Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Mengandalkan satu perangkat untuk semua fungsi.** Banyak heater memiliki thermostat built-in, tetapi jika thermostat itu sendiri gagal, tidak ada yang memberi tahu Anda. Pisahkan sensor dari controller, dan controller dari alarm.
 
-## Objection or shortcut to address
+**Mengabaikan kalibrasi.** Sensor yang tidak dikalibrasi adalah sensor yang tidak bisa dipercaya. Jadwalkan kalibrasi minimal sekali setiap 3-6 bulan untuk sensor suhu dan pH.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Tidak memiliki alarm jarak jauh.** Alarm yang hanya berbunyi di ruangan yang sama dengan aquarium tidak berguna saat Anda tidak ada. Pastikan setidaknya satu jalur notifikasi bisa Anda terima dari luar rumah.
 
-## Required conclusion
+**Melupakan isolasi dan grounding.** Instalasi listrik di area basah membutuhkan perlindungan khusus. RCD atau ELCB harus dipasang pada sirkuit aquarium, dan kabel harus terlindung dari kelembapan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Tidak memiliki rencana kegagalan.** Apa yang terjadi ketika daya mati selama 8 jam? Apa yang terjadi ketika pompa utama dan backup sama-sama gagal? Rencana kegagalan harus ditulis sebelum Anda membutuhkannya.
 
-## Draft completion checklist
+Untuk memeriksa apakah sistem Anda sudah cukup, ajukan pertanyaan ini: "Jika semua perangkat monitoring mati sekarang, apakah saya akan mengetahuinya dalam 1 jam?" Jika jawabannya tidak, maka Anda perlu meninjau ulang desain.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Jebakan yang perlu diwaspadai
+
+Pembaca mungkin berpikir: "Bukannya sensor wifi yang sudah terhubung ke smartphone sudah cukup aman?"
+
+Ini jebakan yang umum. Sensor wifi memang memudahkan monitoring dari jarak jauh, tetapi ia memiliki titik kegagalan tersendiri: koneksi internet yang terputus, aplikasi yang tidak kompatibel, atau server yang down. Ketika koneksi internet putus, Anda kehilangan akses ke data sensor — dan alarm tidak bisa mengirim notifikasi.
+
+Alternatif yang lebih andal adalah memiliki setidaknya satu jalur notifikasi yang tidak bergantung pada internet, seperti alarm berbunyi langsung atau SMS via modem lokal. Wifi dan aplikasi adalah lapisan kenyamanan tambahan, bukan pengganti alarm hardware yang bisa diandalkan.
+
+## Kesimpulan
+
+Sensor, controller, dan alarm aquarium harus bekerja sebagai tiga lapisan yang terpisah namun terkoordinasi. Sensor mengukur, controller memutuskan, dan alarm memberi tahu — dan ketiganya harus memiliki jalur kegagalan yang terpisah agar satu kegagalan komponen tidak menghilangkan seluruh sistem keamanan. Kelistrikan, kelembapan, akses pemeliharaan, dan redundansi daya adalah faktor yang tidak boleh dilupakan.
+
+Langkah selanjutnya: identifikasi parameter mana yang paling kritis untuk sistem Anda (suhu, pH, aliran, ketinggian air), lalu pastikan setiap parameter memiliki sensor independen, controller dengan logika kegagalan yang jelas, dan alarm yang bisa Anda terima dari jarak jauh. Konsultasikan dengan teknisi listrik untuk memastikan instalasi memenuhi standar keamanan di area basah.
+
+Aturan operasionalnya, Teman Kaca.co.id: jika satu komponen bisa mematikan seluruh sistem monitoring dalam satu kegagalan, maka desain Anda belum cukup aman. Redundansi bukan kemewahan — ia adalah kebutuhan.

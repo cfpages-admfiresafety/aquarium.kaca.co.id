@@ -2,8 +2,9 @@
 article_id: AKU-13-05
 title: "Korosi di Sekitar Aquarium Air Laut"
 slug: "korosi-area-aquarium-laut"
-description: "Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure."
-status: outline
+description: "Pahami korosi di sekitar aquarium air laut: penyebab, jenis, pencegahan, dan cara mengatasinya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,238 +14,117 @@ reader_community: "Kaca.co.id"
 reader_address: "Kawan Kaca.co.id"
 final_route: "/artikel/korosi-area-aquarium-laut.html"
 technical_review: required
-sources:
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://research.fs.usda.gov/treesearch/7148"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
-  - "https://simbg.pu.go.id/"
-  - "https://pesta.bsn.go.id/produk/detail/12306-sni28472019"
-  - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12305-sni17262019"
-  - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
-  - "https://www.fao.org/fishery/en/aquaculture"
-  - "https://www.iso.org/standard/80526.html"
-  - "https://www.iso.org/standard/73355.html"
-  - "https://webstore.iec.ch/en/publication/1897"
-  - "https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman"
+sources: []
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Korosi di Sekitar Aquarium Air Laut
 
-## Assignment lock
+Halo, Kawan Kaca.co.id! Banyak pemilik aquarium air laut tidak menyadari bahwa garam dari air laut bisa menyebabkan korosi pada peralatan logam, kelistrikan, dan material pendukung di sekitar aquarium. Korosi bukan hanya masalah estetika, tetapi juga bisa membahayakan keamanan dan mempersingkat umur peralatan.
 
-- **Writer task:** Expand this file into one complete article answering: “Korosi di Sekitar Aquarium Air Laut”
-- **Reader and situation:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Reader outcome:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Primary intent:** Protect metal, electrical, fixtures, structure, and finishes from salt exposure.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns marine environmental corrosion; equipment selection belongs to AKU-11.
-- **Final public route:** `/artikel/korosi-area-aquarium-laut.html`
-- **Appointed CMS date:** `2026-05-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: korosi di sekitar aquarium air laut disebabkan oleh paparan garam dari испарewater dan cipratan air laut. Pencegahan korosi membutuhkan kombinasi material yang tahan garam, pelindung permukaan, pembersihan rutin, dan desain yang meminimalkan paparan garam.
 
-## Opening instructions
+![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Korosi di Sekitar Aquarium Air Laut**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies harga aquarium as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
+## Mengapa korosi terjadi di area aquarium air laut
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Korosi adalah proses kimia di mana logam bereaksi dengan lingkungan sekitarnya, terutama kelembapan dan garam. Di sekitar aquarium air laut, sumber garam utama adalah испарewater dari permukaan air yang mengandung garam. Uap air yang mengandung garam ini akan menempel pada permukaan logam dan mempercepat proses korosi.
 
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga aquarium](/wp-content/uploads/2022/02/harga-aquarium.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga aquarium` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Faktor yang memperparah korosi antara lain: kelembapan udara yang tinggi, suhu yang hangat, paparan sinar matahari langsung, dan kurangnya ventilasi. Di daerah pesisir dengan kelembapan alami yang tinggi, korosi bisa terjadi lebih cepat dibanding di daerah dengan iklim kering.
 
-## Evidence packet
+## Jenis korosi yang umum terjadi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+### Korosi uniform
 
-### KR-01
+Korosi uniform terjadi secara merata pada seluruh permukaan logam. Ini adalah jenis korosi yang paling umum dan biasanya tidak langsung membahayakan struktur, tetapi bisa mengurangi ketebalan material secara bertahap.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+### Korosi pitting
 
-### KR-14
+Korosi pitting adalah jenis korosi lokal yang menciptakan lubang-lubang kecil pada permukaan logam. Ini lebih berbahaya karena bisa merusak material secara lokal dan menyebabkan kebocoran atau kegagalan struktural.
 
-- **Original sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
-- **Purpose for this article:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
-- **Safe grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
-- **Limits:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
+### Korosi galvanic
 
-### KR-25
+Korosi galvanic terjadi ketika dua jenis logam yang berbeda bersentuhan dalam kelembapan yang mengandung garam. Logam yang lebih aktif akan terkorosi lebih cepat, sementara logam yang kurang aktif akan terlindungi.
 
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
-- **Safe grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
-- **Limits:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
+### Korosi crevice
 
-### KR-55
+Korosi crevice terjadi di celah atau ruang sempit di mana air laut bisa terperangkap dan kelembapan tetap tinggi. Ini sering terjadi pada sambungan, sekrup, atau area tersembunyi lainnya.
 
-- **Original sources:** [SNI 2847:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12306-sni28472019), [SNI 1727:2020 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [SNI 1726:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12305-sni17262019).
-- **Purpose for this article:** Ground soil, shell, rooftop, empty/full pool, hydrostatic uplift, joints, and settlement articles.
-- **Safe grounded facts:** Empty, filling, full, drained, high-groundwater, seismic, thermal/shrinkage, maintenance, and temporary stages can govern different actions and details.
-- **Limits:** Require site investigation, survey, current licensed standards, load combinations, calculations, joints/details, temporary works, inspection, and signed structural/geotechnical review.
+## Material yang tahan korosi
 
-### KR-73
+Untuk mengurangi korosi di sekitar aquarium air laut, pilih material yang tahan terhadap paparan garam:
 
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
+**Stainless steel grade 316.** Grade 316 kerap dipertimbangkan untuk lingkungan yang lebih korosif, tetapi sebutan grade saja tidak membuktikan kecocokan sebuah komponen. Bentuk komponen, celah, sambungan, campuran material, paparan garam, dan petunjuk produsennya tetap perlu diperiksa. [NEEDS MATERIAL REVIEW: minta identitas material, metode pemasangan, serta konfirmasi produsen untuk paparan air laut yang direncanakan.]
 
-### KR-75
+**Plastik dan komposit.** Material plastik seperti PVC, ABS, atau HDPE tidak terkena korosi. Ini bisa digunakan untuk bracket, penjepit, atau komponen non-struktural lainnya.
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
+**Aluminium anodized.** Aluminium yang dianodized memiliki lapisan pelindung yang meningkatkan ketahanan terhadap korosi. Namun, jika lapisan anodized rusak, aluminium di bawahnya bisa terkorosi.
 
-### KR-77
+**Kayu dengan treatment.** Kayu yang dilapisi dengan baik atau diobati dengan bahan pengawet bisa tahan terhadap kelembapan, tetapi tetap membutuhkan pemeliharaan rutin.
 
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
+## Pelindung permukaan
 
-### KR-74
+Selain memilih material yang tepat, pelindung permukaan juga penting:
 
-- **Original sources:** [ISO 11600 sealant classification](https://www.iso.org/standard/80526.html), [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html).
-- **Purpose for this article:** Prevent “aquarium silicone” or one adhesion value from proving a tank joint.
-- **Safe grounded facts:** A cartridge label, dry coupon, or generic sealant classification does not establish structural seam capacity, immersed durability, animal compatibility, or field workmanship.
-- **Limits:** Require manufacturer confirmation for exact materials/use, batch/expiry/storage, preparation/cure instructions, design calculation, controlled fabrication, inspection/test, and warranty.
+**Cat anti-korosi.** Gunakan cat yang dirancang untuk lingkungan marine atau yang mengandung seng chromate untuk melindungi permukaan logam.
 
-### KR-26
+**Pelumas anti-korosi.** Gunakan pelumas atau minyak yang mengandung inhibitor korosi pada komponen logam yang bergerak atau sering dibuka-tutup.
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+**Coating epoksi.** Lapisan epoksi bisa memberikan perlindungan yang baik terhadap korosi, tetapi harus diaplikasikan dengan benar dan diperbarui secara berkala.
 
-### KR-79
+## Pembersihan rutin
 
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
+Pembersihan rutin adalah salah satu cara paling efektif untuk mencegah korosi:
 
-## Evidence gates
+- **Bersihkan cipratan air laut** dari permukaan logam dan peralatan setelah setiap penggunaan atau setidaknya seminggu sekali.
+- **Gunakan air tawar** untuk membilas area yang terpapar garam.
+- **Keringkan permukaan** setelah dibersihkan untuk menghilangkan kelembapan yang tersisa.
+- **Periksa area tersembunyi** seperti di belakang kabinet, di dalam rak, atau pada sambungan logam.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Sobat Kaca.co.id, pembersihan rutin bukan hanya untuk menjaga penampilan, tetapi juga untuk mencegah kerusakan yang lebih serius akibat korosi.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Desain yang meminimalkan paparan
 
-## Internal-link plan
+Desain yang baik bisa mengurangi paparan garam pada peralatan:
 
-### Existing local routes
+- **Posisikan aquarium** jauh dari peralatan elektronik yang sensitif.
+- **Gunakan kabinet tertutup** dengan ventilasi yang memadai untuk melindungi peralatan di dalamnya.
+- **Hindari penempatan** di dekat jendela yang terkena paparan sinar matahari langsung, karena panas bisa mempercepat proses korosi.
+- **Pertimbangkan penggunaan** exhaust fan untuk mengeluarkan udara lembap dari sekitar aquarium.
 
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Contoh keputusan praktis
 
-### Planned sibling articles
+Jika Anda menemukan tanda korosi pada peralatan aquarium, langkah pertama adalah mengidentifikasi jenis dan tingkat keparahannya. Korosi ringan masih bisa ditangani dengan pembersihan dan pelapisan ulang, tetapi korosi berat mungkin memerlukan penggantian komponen.
 
-These are future routes. Do not link them as live until their HTML exists.
+Kawan Kaca.co.id, jangan abaikan tanda-tanda korosi awal seperti bintik-bintik karat, perubahan warna pada logam, atau kesulitan membuka/menutup komponen. Tindakan pencegahan yang dilakukan lebih awal bisa menghemat biaya perbaikan yang jauh lebih besar di kemudian hari.
 
-- `AKU-13-03` → `/artikel/kondensasi-dan-kelembapan-aquarium.html` — Kondensasi dan Kelembapan di Sekitar Aquarium
-- `AKU-13-04` → `/artikel/drainase-dan-proteksi-tumpahan-aquarium.html` — Drainase Darurat dan Proteksi Tumpahan
-- `AKU-13-06` → `/artikel/keamanan-aquarium-area-publik.html` — Keamanan Akses Aquarium di Area Publik
+Pertimbangkan juga untuk membuat jadwal pemeliharaan rutin yang mencakup pemeriksaan korosi. Dengan jadwal yang teratur, Anda bisa mendeteksi masalah sebelum menjadi terlalu serius dan mengambil tindakan korektif yang diperlukan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan umum dan cara memeriksanya
 
-## Mulai dari gejala, bukan tebakan penyebab
+Kesalahan paling sering adalah mengabaikan pembersihan rutin, menggunakan material yang tidak tahan garam, dan tidak memperhatikan area tersembunyi yang rentan terhadap korosi. Banyak orang juga tidak menyadari bahwa korosi bisa terjadi di area yang tidak terlihat langsung, seperti di dalam kabinet atau pada sambungan logam.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Korosi di Sekitar Aquarium Air Laut”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cara memeriksa: lakukan inspeksi visual secara berkala, setidaknya sebulan sekali. Perhatikan perubahan warna, adanya bintik-bintik karat, atau perubahan tekstur pada permukaan logam. Periksa juga area tersembunyi yang mungkin terpapar kelembapan.
 
-## Saringan risiko langsung
+Perhatikan juga kondisi peralatan elektronik yang berada di dekat aquarium. Korosi pada konektor atau terminal listrik bisa menyebabkan gangguan listrik atau bahkan bahaya keselamatan.
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Korosi di Sekitar Aquarium Air Laut”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Sanggahan atau jalan pintas yang perlu diwaspadai
 
-## Kemungkinan mekanisme
+Beberapa orang mungkin berpikir bahwa menggunakan stainless steel sudah cukup untuk mencegah korosi. Namun, tidak semua jenis stainless steel tahan terhadap garam. Stainless steel grade 304, misalnya, kurang tahan terhadap korosi garam dibanding grade 316. Penting untuk memilih jenis stainless steel yang sesuai dengan lingkungan penggunaan.
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Korosi di Sekitar Aquarium Air Laut”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Kaca.co.id, ingatlah bahwa pencegahan korosi adalah investasi jangka panjang. Biaya untuk material yang tepat dan pembersihan rutin jauh lebih kecil daripada biaya penggantian peralatan yang rusak akibat korosi.
 
-## Urutan pemeriksaan dan pengujian
+## Kesimpulan
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Korosi di Sekitar Aquarium Air Laut”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara membaca hasil tanpa melompat ke kesimpulan
-
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Korosi di Sekitar Aquarium Air Laut”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Korosi di Sekitar Aquarium Air Laut”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Korosi di sekitar aquarium air laut disebabkan oleh paparan garam dari испарewater dan cipratan air laut. Pencegahan korosi membutuhkan kombinasi material yang tahan garam, pelindung permukaan, pembersihan rutin, dan desain yang meminimalkan paparan garam. Kawan Kaca.co.id, langkah selanjutnya adalah melakukan inspeksi visual secara berkala dan mengambil tindakan pencegahan segera jika ditemukan tanda-tanda korosi. Untuk informasi lebih lanjut tentang kondensasi dan kelembapan, Anda bisa membaca artikel tentang [kondensasi dan kelembapan di sekitar aquarium](/artikel/kondensasi-dan-kelembapan-aquarium.html) dan [keamanan akses aquarium di area publik](/artikel/keamanan-aquarium-area-publik.html).

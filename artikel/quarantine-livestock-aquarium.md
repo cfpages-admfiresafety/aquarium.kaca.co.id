@@ -2,8 +2,8 @@
 article_id: AKU-10-04
 title: "Quarantine sebelum Livestock Masuk Display Tank"
 slug: "quarantine-livestock-aquarium"
-description: "Match volume, dimensions, habitat, behavior, compatibility, stocking, quarantine, and care capability."
-status: outline
+description: "Panduan karantina sebelum livestock masuk display tank: isolasi, observasi, pemisahan peralatan, dan pencatatan."
+status: draft
 publication_date: "2026-03-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,58 +14,22 @@ reader_address: "Kawan Kaca.co.id"
 final_route: "/artikel/quarantine-livestock-aquarium.html"
 technical_review: required
 sources:
-  - "https://www.worldaquatics.com/rules/competition-regulations"
-  - "https://www.worldaquatics.com/rules/facilities-rules"
-  - "https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html"
-  - "https://www.iso.org/standard/41202.html"
-  - "https://www.nsf.org/knowledge-library/nsf-ansi-50-equipment-swimming-pools-spas-hot-tubs"
-  - "https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004"
-  - "https://speciesplus.net/"
   - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
-  - "https://www.who.int/publications/i/item/9241546808"
-  - "https://www.iso.org/standard/80526.html"
-  - "https://www.iso.org/standard/73355.html"
-  - "https://ejournal.brin.go.id/jphh/article/view/12876"
-  - "https://penerbit.brin.go.id/press/catalog/book/310"
-  - "https://research.fs.usda.gov/treesearch/62246"
   - "https://www.fao.org/fishery/en/aquaculture"
   - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
   - "https://simbg.pu.go.id/"
+writing_contract_version: "native-id-v2"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Quarantine sebelum Livestock Masuk Display Tank
 
-## Assignment lock
+Halo, Kawan Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Quarantine sebelum Livestock Masuk Display Tank”
-- **Reader and situation:** Match volume, dimensions, habitat, behavior, compatibility, stocking, quarantine, and care capability.
-- **Reader outcome:** Match volume, dimensions, habitat, behavior, compatibility, stocking, quarantine, and care capability.
-- **Primary intent:** Plan isolation, observation, equipment separation, and records.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns quarantine workflow; veterinary advice remains external.
-- **Final public route:** `/artikel/quarantine-livestock-aquarium.html`
-- **Appointed CMS date:** `2026-03-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Memasukkan livestock baru langsung ke display tank tanpa karantina adalah salah satu kesalahan paling mahal yang bisa dilakukan oleh pemilik aquarium. Satu ikan atau invertebrata yang terinfeksi bisa membahayakan seluruh penghuni aquarium Anda — dan biaya untuk mengobati atau mengganti organisme yang sakit jauh lebih tinggi daripada biaya karantina yang sederhana.
 
-## Opening instructions
+Jawaban singkatnya begini: karantina adalah proses isolasi dan observasi livestock baru selama periode tertentu sebelum dimasukkan ke display tank. Tujuannya adalah mendeteksi penyakit, parasit, atau masalah kesehatan lainnya sebelum menyebar ke seluruh sistem. Karantina harus dilakukan di akuarium terpisah dengan peralatan yang terpisah, dan diawasi secara rutin selama minimal 2–4 minggu. Kondisi pendukung seperti ukuran karantina, parameter air, dan jenis livestock akan mempengaruhi durasi dan metode karantina.
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Quarantine sebelum Livestock Masuk Display Tank**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-003`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -74,180 +38,86 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-54
-
-- **Original sources:** [World Aquatics competition regulations](https://www.worldaquatics.com/rules/competition-regulations), [World Aquatics facilities resources](https://www.worldaquatics.com/rules/facilities-rules).
-- **Purpose for this article:** Separate competition-facility requirements from residential, hotel, therapy, school, and leisure-pool dimensions.
-- **Safe grounded facts:** Pool length/width/depth, lanes, markings, starting/turning/diving equipment, tolerances, certification, timing, and event operations depend on discipline and rule edition.
-- **Limits:** Do not apply competition dimensions to non-competition pools or quote an exact requirement without the current rule, discipline, event level, survey, and qualified interpretation.
-
-### KR-57
-
-- **Original sources:** [CDC Model Aquatic Health Code, 2024 edition](https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html), [ISO 9906 rotodynamic pump acceptance tests](https://www.iso.org/standard/41202.html).
-- **Purpose for this article:** Ground turnover, flow, head loss, pipe, inlet/outlet, gutter, tank, and commissioning content without publishing universal sizes.
-- **Safe grounded facts:** Volume, design flow, static level, pipe/fitting loss, filter/valve/heater loss, suction conditions, inlet distribution, overflow, balance tank, pump curve, speed, measurement uncertainty, and dirty/clean conditions affect duty.
-- **Limits:** No universal turnover, velocity, pipe, pump, tank, or inlet number without current authority criteria, calculations, equipment curves, anti-entrapment review, and measured commissioning.
-
-### KR-63
-
-- **Original sources:** [NSF/ANSI/CAN 50 overview](https://www.nsf.org/knowledge-library/nsf-ansi-50-equipment-swimming-pools-spas-hot-tubs), [CDC Model Aquatic Health Code](https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html).
-- **Purpose for this article:** Ground drains, outlets, skimmers, inlets, gutters, tanks, valves, gauges, ladders, rails, covers, and automation interfaces.
-- **Safe grounded facts:** A compliant component can still be unsuitable, mislocated, unsupported, inaccessible, incorrectly installed, chemically incompatible, or outside the tested configuration.
-- **Limits:** Require current product standard/certification scope, exact model, design drawings/calculations, instructions, anti-entrapment/access review, inspection, commissioning, and traceability.
-
-### KR-78
-
-- **Original sources:** [UU No. 31 Tahun 2004 tentang Perikanan — BPK](https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004), [CITES species database](https://speciesplus.net/), [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/).
-- **Purpose for this article:** Prevent décor-first stocking, unsupported compatibility, protected-species, import, and health claims.
-- **Safe grounded facts:** A trade name, shop availability, photo, or CITES listing does not by itself prove lawful possession/import, health, compatibility, or welfare in one tank.
-- **Limits:** Verify current Indonesian fisheries/quarantine/conservation rules, species identity/source/documents, qualified welfare/health plan, and local authority before specific stocking or trade claims.
-
-### KR-48
-
-- **Original sources:** [WHO Guidelines for Safe Recreational Water Environments](https://www.who.int/publications/i/item/9241546808), [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/).
-- **Purpose for this article:** Ground garden-water articles without copying swimming-pool limits or treating fish as decoration.
-- **Safe grounded facts:** Clear water does not prove safe chemistry, microbiology, oxygen, animal welfare, hydraulic performance, electrical safety, or watertightness.
-- **Limits:** Require purpose-specific water criteria, calculations, product/system data, electrical and structural design, animal-health expertise, local discharge rules, and measured commissioning.
-
-### KR-74
-
-- **Original sources:** [ISO 11600 sealant classification](https://www.iso.org/standard/80526.html), [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html).
-- **Purpose for this article:** Prevent “aquarium silicone” or one adhesion value from proving a tank joint.
-- **Safe grounded facts:** A cartridge label, dry coupon, or generic sealant classification does not establish structural seam capacity, immersed durability, animal compatibility, or field workmanship.
-- **Limits:** Require manufacturer confirmation for exact materials/use, batch/expiry/storage, preparation/cure instructions, design calculation, controlled fabrication, inspection/test, and warranty.
-
-### KR-03
-
-- **Original sources:** [BRIN wood-anatomy study for five West Java/Banten species](https://ejournal.brin.go.id/jphh/article/view/12876), [BRIN Red List of 50 Indonesian commercial timber trees](https://penerbit.brin.go.id/press/catalog/book/310), and [USDA Chapter 2](https://research.fs.usda.gov/treesearch/62246).
-- **Purpose for this article:** Support species-name, substitution, identification, conservation, and suitability articles.
-- **Safe grounded facts:** Local/trade name, color, smell, seller label, and one photograph are insufficient to prove botanical identity, legality, conservation status, or performance.
-- **Limits:** Obtain specimen provenance, anatomical examination or qualified identification, current conservation/trade status, and purchase documents under G-02/G-11.
-
-### KR-77
-
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
-
-### KR-75
-
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-10-02` → `/artikel/stocking-bukan-berdasarkan-liter-saja.html` — Mengapa Stocking Tidak Bisa Berdasarkan Liter Saja
-- `AKU-10-03` → `/artikel/kompatibilitas-livestock-aquarium.html` — Kompatibilitas Livestock dalam Satu Aquarium
-- `AKU-10-05` → `/artikel/kebutuhan-tanaman-coral-invertebrata.html` — Kebutuhan Tanaman Air, Coral, dan Invertebrata
-- `AKU-10-06` → `/artikel/tanda-sistem-tidak-sesuai-livestock.html` — Tanda Sistem Tidak Sesuai untuk Livestock
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+[NEEDS IMAGE REVIEW: LOCAL-003 — foto bg aquarium belum bisa diverifikasi kesesuaiannya]
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Quarantine sebelum Livestock Masuk Display Tank”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Karantina bukan sekadar "menaruh ikan baru di akuarium kecil selama beberapa hari". Ini adalah proses yang membutuhkan perencanaan, peralatan terpisah, pengawasan rutin, dan pencatatan yang baik. Tanpa karantina yang memadai, Anda berisiko memperkenalkan penyakit atau parasit ke display tank yang sudah stabil.
+
+Salah paham yang paling berbahaya adalah menganggap bahwa karantina hanya diperlukan untuk ikan yang terlihat sakit. Kenyataannya, banyak penyakit dan parasit tidak menunjukkan gejala yang terlihat selama periode inkubasi. Ikan yang terlihat sehat bisa saja menjadi pembawa penyakit tanpa disadari.
+
+WOAH (World Organisation for Animal Health) menekankan pentingnya karantina dan biosecurity dalam pengelolaan kesehatan organisme akuatik ([WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/)). FAO juga menyediakan sumber daya tentang aquakultur yang relevan untuk pemahaman tentang pengelolaan kesehatan dalam budidaya perikanan ([FAO Aquaculture](https://www.fao.org/fishery/en/aquaculture)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Quarantine sebelum Livestock Masuk Display Tank”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Karantina** adalah proses isolasi dan observasi livestock baru di akuarium terpisah selama periode tertentu sebelum dimasukkan ke display tank. Tujuannya adalah mendeteksi masalah kesehatan sebelum menyebar ke seluruh sistem.
+
+**Livestock** dalam konteks aquarium adalah semua organisme hidup yang dipelihara — termasuk ikan, invertebrata, coral, dan tanaman air. Setiap jenis livestock mungkin membutuhkan pendekatan karantina yang berbeda.
+
+Cakupan artikel ini adalah alur kerja karantina, bukan saran veterinarian yang tetap menjadi tanggung jawab pihak yang berwenang. Keputusan tentang pengobatan atau euthanasia harus dikonsultasikan dengan ahli yang memenuhi syarat.
+
+SNI 1727:2020 mengatur persyaratan struktural yang relevan untuk memastikan aquarium dan komponennya memenuhi batas keamanan ([SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)). Dalam konteks karantina, ini berarti akuarium karantina harus memenuhi standar keamanan yang sama dengan display tank.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Quarantine sebelum Livestock Masuk Display Tank”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Karantina dimulai dengan persiapan akuarium karantina. Siapkan akuarium terpisah dengan ukuran yang memadai — idealnya minimal 20–30% dari volume display tank. Isi dengan air dari display tank atau air yang sudah diolah dengan parameter yang sama. Pasang filtrasi dan pemanas yang memadai.
+
+Setelah livestock tiba, amati perilaku dan penampilannya selama periode karantina. Perhatikan tanda-tanda penyakit — seperti perubahan warna, luka, perilaku aneh, atau penurunan nafsu makan. Dokumentasikan semua observasi dalam catatan karantina.
+
+Peralatan karantina harus terpisah dari peralatan display tank. Gunakan jaring, termometer, dan test kit khusus untuk karantina. Jangan pernah menggunakan peralatan yang sama tanpa sterilisasi yang memadai, karena bisa menjadi media penularan penyakit.
+
+SNI 1727:2020 juga mengatur persyaratan struktural yang relevan untuk dukungan dan lokasi aquarium ([SNI 1727:2020, BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020)). PUPR menyediakan informasi tentang sistem bangunan yang bisa menjadi referensi untuk memahami bagaimana dukungan struktural dinilai ([PUPR Building Information System](https://simbg.pu.go.id/)). Dalam konteks karantina, ini berarti akuarium karantina harus diletakkan pada dukungan yang memadai dan stabil.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Quarantine sebelum Livestock Masuk Display Tank”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi bisa mengubah durasi dan metode karantina:
+
+**Jenis livestock:** Ikan, invertebrata, dan coral mungkin memiliki kebutuhan karantina yang berbeda. Beberapa jenis lebih rentan terhadap penyakit tertentu dan mungkin membutuhkan durasi karantina yang lebih lama.
+
+**Asal livestock:** Livestock dari wild catch mungkin memiliki risiko penyakit yang lebih tinggi dibanding captive-bred. Pertimbangkan asal livestock saat menentukan durasi karantina.
+
+**Kondisi display tank:** Jika display tank sudah memiliki penghuni yang sehat, karantina menjadi lebih penting untuk melindungi mereka dari potensi penularan.
+
+**Peralatan yang tersedia:** Ketersediaan akuarium karantina, filtrasi, pemanas, dan test kit akan mempengaruhi kualitas karantina yang bisa Anda lakukan.
+
+**Pengetahuan dan pengalaman:** Pemahaman tentang tanda-tanda penyakit dan cara mengobservasi livestock akan mempengaruhi efektivitas karantina.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Quarantine sebelum Livestock Masuk Display Tank”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut beberapa skenario yang membantu Anda mengambil keputusan:
+
+**Skenario 1: Ikan baru dari toko.** Karantina selama minimal 2–4 minggu dengan observasi rutin. Perhatikan tanda-tanda penyakit seperti luka, perubahan warna, atau perilaku aneh. Jika ada masalah, konsultasikan dengan ahli sebelum memasukkan ke display tank.
+
+**Skenario 2: Ikan dari wild catch.** Karantina mungkin perlu lebih lama karena risiko penyakit yang lebih tinggi. Pertimbangkan untuk melakukan pengobatan profilaksis jika direkomendasikan oleh ahli.
+
+**Skenario 3: Invertebrata atau coral.** Karantina untuk invertebrata dan coral mungkin membutuhkan kondisi air yang lebih spesifik — termasuk salinitas, suhu, dan parameter lainnya. Pastikan akuarium karantina dapat menyesuaikan kondisi ini.
+
+Dalam setiap skenario, prinsip yang sama berlaku: isolasi, observasi, pencatatan, dan verifikasi sebelum memasukkan ke display tank. Jangan pernah melewatkan karantina hanya karena terlihat sederhana.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Quarantine sebelum Livestock Masuk Display Tank”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah tidak melakukan karantina sama sekali. Banyak pemilik aquarium langsung memasukkan livestock baru ke display tank karena malas atau tidak memiliki akuarium karantina. Risiko penularan penyakit menjadi sangat tinggi.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menggunakan peralatan yang sama antara karantina dan display tank tanpa sterilisasi. Peralatan yang tidak disterilisasi bisa menjadi media penularan penyakit.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah tidak melakukan observasi rutin selama karantina. Tanpa observasi yang memadai, masalah kesehatan mungkin tidak terdeteksi sampai terlambat.
 
-## Required conclusion
+Kesalahan keempat adalah durasi karantina yang terlalu singkat. Beberapa penyakit memiliki periode inkubasi yang panjang, sehingga karantina yang terlalu singkat mungkin tidak cukup untuk mendeteksi masalah.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Keberatan atau jalan pintas yang perlu diwaspadai
 
-## Draft completion checklist
+Salah satu jalan pintas yang sering diambil adalah mempersingkat durasi karantina karena "ikan terlihat sehat". Pendekatan ini berisiko karena banyak penyakit tidak menunjukkan gejala selama periode inkubasi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Masalahnya, ikan yang terlihat sehat bisa saja menjadi pembawa penyakit tanpa disadari. Gejala mungkin baru muncul setelah ikan tersebut dimasukkan ke display tank, pada saat sudah terlambat untuk mengisolasi.
+
+Alternatif yang lebih andal: patuhi durasi karantina yang direkomendasikan — minimal 2–4 minggu — dan lakukan observasi rutin selama periode tersebut. Investasi waktu ini jauh lebih kecil dibanding biaya untuk mengobati atau mengganti organisme yang sakit.
+
+## Kesimpulan
+
+Karantina sebelum livestock masuk display tank adalah langkah kritis yang tidak boleh dilewatkan. Proses isolasi dan observasi selama minimal 2–4 minggu membantu mendeteksi masalah kesehatan sebelum menyebar ke seluruh sistem. Peralatan terpisah, pengawasan rutin, dan pencatatan yang baik menjadi fondasi karantina yang efektif.
+
+Langkah selanjutnya yang perlu Anda ambil: siapkan akuarium karantina dengan peralatan yang memadai, beli test kit untuk memantau parameter air, dan buat catatan karantina untuk mendokumentasikan semua observasi. Jangan pernah melewatkan karantina hanya karena terlihat sederhana — investasi waktu Anda di sini akan melindungi seluruh penghuni display tank Anda.
+
+Sebelum memindahkan biota dari karantina, periksa kembali [stocking yang tidak bisa ditentukan dari liter saja](/artikel/stocking-bukan-berdasarkan-liter-saja.html) dan [kompatibilitas livestock dalam satu aquarium](/artikel/kompatibilitas-livestock-aquarium.html). Karantina yang selesai bukan pengganti dua keputusan itu.

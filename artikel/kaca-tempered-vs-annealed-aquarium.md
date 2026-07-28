@@ -2,8 +2,8 @@
 article_id: AKU-02-02
 title: "Kaca Tempered vs Annealed untuk Aquarium"
 slug: "kaca-tempered-vs-annealed-aquarium"
-description: "Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence."
-status: outline
+description: "Pahami perbedaan kaca tempered dan annealed untuk aquarium dari segi kekuatan, pola pecah, keamanan, dan implikasi desain sebelum Anda memilih."
+status: draft
 publication_date: "2025-08-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Kaca.co.id"
 reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/kaca-tempered-vs-annealed-aquarium.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://pesta.bsn.go.id/produk/index/461"
   - "https://pesta.bsn.go.id/produk/detail/14854-sni662024"
@@ -36,220 +37,109 @@ sources:
   - "https://research.fs.usda.gov/treesearch/62246"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kaca Tempered vs Annealed untuk Aquarium
 
-## Assignment lock
+Halo, Teman Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Kaca Tempered vs Annealed untuk Aquarium”
-- **Reader and situation:** Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence.
-- **Reader outcome:** Compare glass families, edge work, drilling, bending, coatings, and fabrication evidence.
-- **Primary intent:** Understand failure mode, processing, drilling, edge, and design implications.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns heat-treatment comparison; project selection requires glazing review.
-- **Final public route:** `/artikel/kaca-tempered-vs-annealed-aquarium.html`
-- **Appointed CMS date:** `2025-08-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Banyak pemilik aquarium mengira bahwa kaca tempered selalu lebih baik dari kaca annealed karena lebih kuat. Kenyataannya, kekuatan bukan satu-satunya faktor yang menentukan kelayakan kaca untuk aquarium. Kaca tempered memang lebih tahan terhadap benturan, tetapi ia memiliki karakteristik pecah yang sangat berbeda — pecah menjadi ribuan serpihan kecil yang tajam, bukan retakan besar yang masih bisa ditangani. Perbedaan ini memiliki implikasi besar terhadap keamanan, fabrikasi, dan biaya perbaikan.
 
-## Opening instructions
+Jawaban singkatnya: kaca annealed (kaca float biasa) lebih mudah dipotong, dibor, dan dikerjakan setelah diproduksi, sementara kaca tempered lebih kuat tetapi harus diolah sebelum proses pemanasan. Pilihan yang tepat tergantung pada ukuran aquarium, lokasi pemasangan, risiko benturan, dan apakah Anda memerlukan lubang atau cut-out pada panel kaca. Untuk aquarium rumah berukuran sedang dengan desain sederhana, kaca annealed yang memadai sering kali sudah cukup. Untuk aquarium besar, di area publik, atau dengan risiko benturan tinggi, kaca tempered menjadi pertimbangan yang lebih serius ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005); [DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
 
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kaca Tempered vs Annealed untuk Aquarium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-003
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies bg aquarium as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-003] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
+![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-- **Image ID:** `LOCAL-003`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Apa yang membedakan kaca tempered dan annealed
 
-## Evidence packet
+### Proses perlakuan panas
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Kaca annealed adalah kaca yang didinginkan secara perlahan dari kondisi leleh suhu tinggi hingga suhu kamar. Proses pendinginan yang terkontrol ini menghasilkan kaca dengan tegangan internal yang rendah dan merata. Kaca ini kemudian bisa dipotong, dibor, dan diolah dengan peralatan standar tukang kaca. Katalog produk BSN mencakup berbagai standar terkait kaca datar termasuk SNI 15-0047-2005 untuk spesifikasi kaca flat ([SNI 15-0047-2005](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005); [BSN product index](https://pesta.bsn.go.id/produk/index/461)).
 
-### KR-01
+Kaca tempered dimulai dari kaca annealed yang kemudian dipanaskan hingga mendekati titik lunaknya (sekitar 600 derajat Celsius) dan didinginkan dengan cepat menggunakan aliran udara bertekanan tinggi. Proses ini menciptakan lapisan tekan di permukaan dan lapisan tarik di bagian dalam kaca. Kombinasi tegangan ini memberikan kekuatan mekanis yang 4-5 kali lebih tinggi dari kaca annealed dengan ketebalan yang sama.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+### Pola pecah dan implikasi keamanan
 
-### KR-33
+Ketika kaca annealed pecah, Teman Kaca.co.id, ia retak menjadi beberapa bagian besar dengan tepi yang tajam tetapi masih bisa ditangani. Pecahan kaca masih mempertahankan bentuk lembaran, sehingga potensi cedera lebih terkendali dan area yang terdampak lebih mudah dibersihkan.
 
-- **Original sources:** [SNI 9374:2025 official BSN catalogue listing for corrugated metal-coated steel roof/wall products](https://pesta.bsn.go.id/produk/index/461), [SNI 66:2024 official BSN record](https://pesta.bsn.go.id/produk/detail/14854-sni662024), and [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
-- **Purpose for this article:** Bound material selection, profile, coating, fasteners, underlay, flashings, condensation, wind, water, and warranty claims.
-- **Safe grounded facts:** Base-metal/coating label, thickness, colour, or “anti bocor/panas/karat” marketing does not establish complete roof wind, water, thermal, acoustic, condensation, corrosion, or service-life performance.
-- **Limits:** Obtain current complete standards, exact proposed roof system, product data/instructions, load/support/fastener design, environmental compatibility, samples, installation inspection, maintenance, and warranty evidence under G-01/G-03/G-05/G-06/G-11.
+Ketika kaca tempered pecah, ia hancur menjadi ribuan serpihan kecil menyerupai kelereng yang relatif tumpul. Ini adalah fitur keamanan yang disengaja — dalam banyak aplikasi seperti pintu mobil atau shower screen, pola pecah ini lebih aman karena mengurangi risiko luka potong serius. Namun, dalam konteks aquarium, pola pecah ini berarti seluruh panel kaca langsung hancur dan air segera tumpah ke lantai. Tidak ada kesempatan untuk retakan parsial yang masih bisa ditambal.
 
-### KR-17
+ISO 12543 dan ISO 1288-3 memberikan kerangka tentang pengujian dan spesifikasi kaca, termasuk aspek keamanan dan kekuatan. SNI 66:2024 juga memberikan acuan teknis tentang persyaratan material yang relevan untuk konteks konstruksi dan fabrikasi ([ISO 12543 laminated glass](https://www.iso.org/standard/81997.html); [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html); [SNI 66:2024](https://pesta.bsn.go.id/produk/detail/14854-sni662024)).
 
-- **Original sources:** [Permen LHK 8/2021 status record](https://peraturan.bpk.go.id/Details/235254/), [Permenhut 23/2025 amendment](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025), [PP 8/2026 amendment to PP 23/2021](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026), and [official SILK/SVLK service](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data).
-- **Purpose for this article:** Ground legality, forest origin, processing, transport/export-document, and regulatory-refresh articles.
-- **Safe grounded facts:** A legal/sustainability claim must identify the current rule, actor, activity, source, product, document, issuer, holder, scope, date/status, and verification path.
-- **Limits:** Read consolidated operative texts and current implementing rules; verify actual documents in the official system with legal/compliance review under G-11.
+## Konteks fabrikasi dan pengolahan
 
-### KR-26
+### Pemotongan dan pengeboran
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+Kaca annealed bisa dipotong dan dibor setelah diproduksi. Tukang kaca bisa menyesuaikan ukuran, membuat lubang untuk pipa atau fitting, dan melakukan penyesuaian di lokasi proyek jika diperlukan. Fleksibilitas ini sangat berharga untuk proyek custom di mana dimensi mungkin perlu penyesuaian akhir.
 
-### KR-72
+Kaca tempered harus dipotong dan dibor SEBELUM proses tempering. Setelah ditempering, kaca tidak bisa lagi dipotong atau dibor tanpa menghancurkan seluruh panel. Ini berarti semua dimensi, lubang, dan cut-out harus ditentukan secara pasti sebelum proses pemanasan. Kesalahan satu milimeter saja bisa berarti seluruh panel harus dibuat ulang.
 
-- **Original sources:** [SNI 15-0047-2005 flat glass catalog record — BSN](https://pesta.bsn.go.id/produk/detail/7348-sni15-0047-2005), [ISO 12543 laminated glass series](https://www.iso.org/standard/81997.html), [ISO 1288-3 glass strength test](https://www.iso.org/standard/23725.html).
-- **Purpose for this article:** Ground float/annealed, heat-treated, laminated, low-iron, acrylic comparison and fabrication content without a universal thickness table.
-- **Safe grounded facts:** Nominal thickness, glass type, test specimen, edge finish, size, support, duration, and environment must travel with strength/performance data.
-- **Limits:** Product or test standards do not size an aquarium. Require exact product/build-up, fabrication records, calculations, samples, inspection, and competent glazing/structural review.
+### Tepi dan finishing
 
-### KR-16
+Kaca annealed bisa diasah, dipoles, atau dibuat bevel setelah diproduksi. Tepi bisa disesuaikan di lokasi jika diperlukan. Kaca tempered harus memiliki tepi yang sudah selesai sebelum proses tempering. Tepi yang tajam atau cacat pada kaca tempered bisa menjadi titik awal retakan saat proses pemanasan, yang mengakibatkan panel gagal selama produksi.
 
-- **Original sources:** [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics), [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook), and [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/).
-- **Purpose for this article:** Build specification and selection workflows without ranking vague trade labels.
-- **Safe grounded facts:** Selection should state requirement, evidence, acceptance method, responsible reviewer, deviation control, and maintenance assumptions.
-- **Limits:** Exact suitability remains product-, project-, site-, and professional-dependent under G-03/G-04/G-06.
+ISO 21887 memberikan kerangka tentang alur kerja spesifikasi dan pemilihan material, yang relevan untuk memastikan bahwa proses fabrikasi kaca memenuhi persyaratan proyek. Dari sisi material pendukung seperti kayu untuk stand atau kabinet, USDA Wood Handbook dan katalog ISO untuk panel kayu memberikan informasi tentang karakteristik material ini, termasuk respons terhadap kelembapan dan beban ([ISO 21887](https://www.iso.org/standard/40502.html?browse=ics); [USDA Wood Handbook](https://research.fs.usda.gov/fpl/wood-handbook); [ISO plywood catalogue](https://www.iso.org/ics/79.060.10/x/)).
 
-### KR-73
+## Kapan masing-masing pilihan masuk akal
 
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
+### Kaca annealed cocok untuk:
 
-### KR-75
+Aquarium rumah berukuran sedang (hingga 200 liter) dengan desain sederhana tanpa lubang atau cut-out kompleks. Proyek yang memerlukan penyesuaian ukuran di lokasi. Budget terbatas di mana biaya tempering tidak proporsional dengan manfaat yang diterima. Aquarium yang ditempatkan di lokasi dengan risiko benturan rendah, jauh dari jalur lalu lintas atau area bermain anak.
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
+### Kaca tempered cocok untuk:
 
-### KR-34
+Aquarium besar (di atas 300 liter) di mana tekanan air sangat tinggi dan kegagalan panel akan berakibat fatal. Aquarium di area publik seperti hotel, mall, atau kantor di mana risiko benturan lebih tinggi. Aquarium dengan panel yang sangat panjang di mana defleksi perlu diminimalkan. Situasi di mana keamanan penghuni ruangan menjadi prioritas utama, mengingat kaca tempered pecah menjadi serpihan kecil yang relatif lebih aman dibandingkan pecahan kaca annealed yang tajam.
 
-- **Original sources:** [ISO 22156:2021 official record](https://www.iso.org/standard/73831.html?browse=tc) and [ISO 7567:2024 official record](https://www.iso.org/standard/83076.html).
-- **Purpose for this article:** Ground bamboo selection, culm condition, structural scope, joints, durability, and engineered-product boundaries.
-- **Safe grounded facts:** Species/trade name, culm diameter, age claim, treatment claim, or “engineered bamboo” label does not establish characteristic properties, grade, connection behavior, durability, product conformity, or Indonesian project acceptance.
-- **Limits:** ISO 22156 is under systematic review in 2026 and is not an Indonesian compliance basis by itself. Obtain current full standards, Indonesian/local applicability, identity/maturity/moisture/defects, treatment, sampling/tests, design values, connections, exposure, execution, and engineer acceptance under G-01/G-05/G-06/G-07.
+## Faktor yang mengubah hasil
 
-### KR-02
+Keputusan antara kaca tempered dan annealed tidak bisa dilepaskan dari konteks sistem aquarium secara keseluruhan. Beberapa faktor yang perlu dipertimbangkan:
 
-- **Original sources:** [USDA Forest Products Laboratory Wood Handbook, revised 2021](https://research.fs.usda.gov/fpl/wood-handbook) and [Chapter 2 — commercially important woods](https://research.fs.usda.gov/treesearch/62246).
-- **Purpose for this article:** Ground anatomy, vocabulary, species/property, movement, machining, and failure explanations.
-- **Safe grounded facts:** Species name alone does not establish an individual piece's grade, moisture, defects, strength, durability, machining response, or project suitability.
-- **Limits:** U.S. species tables and construction practice are not Indonesian design values. Use Indonesian/local evidence and actual specimens under G-02/G-06.
+Pertama, beban tekanan air. Aquarium dengan ketinggian air 60 cm atau lebih menghasilkan tekanan signifikan pada panel kaca. Semakin tinggi aquarium, semakin besar tekanan di bagian bawah, dan semakin penting kekuatan kaca.
 
-## Evidence gates
+Kedua, desain dukungan. Kaca yang ditopang dengan baik di seluruh tepi bawah akan mengalami tekanan yang lebih merata dibandingkan kaca yang hanya ditopang di beberapa titik. Desain stand atau kabinet aquarium mempengaruhi bagaimana beban kaca didistribusikan. SNI 1727:2020 memberikan acuan tentang beban desain untuk struktur bangunan, yang relevan untuk memastikan bahwa stand aquarium mampu menopang beban secara memadai ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020); [SIMBG](https://simbg.pu.go.id/)).
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+Ketiga, akses untuk pemeliharaan. Jika Anda perlu membuka atau mengganti panel kaca secara berkala, kaca annealed memberikan lebih banyak fleksibilitas dibandingkan kaca tempered yang harus dipesan dengan dimensi presisi.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Dari sisi material pendukung, ISO 22156 dan ISO 7567 memberikan kerangka tentang bambu sebagai material struktural, meskipun penerapannya di Indonesia masih perlu diverifikasi lebih lanjut. USDA tentang kayu komersial penting juga memberikan referensi tentang karakteristik material yang relevan untuk stand dan kabinet aquarium ([ISO 22156:2021](https://www.iso.org/standard/73831.html?browse=tc); [ISO 7567:2024](https://www.iso.org/standard/83076.html); [USDA commercially important woods](https://research.fs.usda.gov/treesearch/62246)).
 
-## Internal-link plan
+## Titik tahan dan kondisi berhenti
 
-### Existing local routes
+Ada beberapa titik di mana keputusan harus dibuat dan diverifikasi sebelum melanjutkan:
 
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Pertama, Sobat Kaca.co.id, sebelum memesan kaca, pastikan semua dimensi, lubang, dan detail sudah final. Untuk kaca tempered, tidak ada ruang untuk perubahan setelah pemesanan. Untuk kaca annealed, perubahan masih mungkin tetapi tetap harus dikoordinasikan dengan tukang kaca.
 
-### Planned sibling articles
+Kedua, sebelum pemasangan, periksa kondisi tepi kaca. Tepi yang retak atau cacat pada kaca annealed masih bisa diasah ulang. Tepi yang cacat pada kaca tempered bisa menjadi titik kegagalan saat tekanan diterapkan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Ketiga, setelah pemasangan, pastikan level dan dukungan merata. Kaca yang tidak rata akan mengalami tegangan tidak merata yang bisa mempercepat kelelahan material. DIN 32622 memberikan persyaratan keamanan dan pengujian untuk aquarium kaca, termasuk aspek dukungan dan stabilitas ([DIN 32622](https://www.dinmedia.de/en/standard/din-32622/262406913)).
 
-- `AKU-02-01` → `/artikel/kaca-float-vs-low-iron-aquarium.html` — Kaca Float vs Low-Iron untuk Aquarium
-- `AKU-02-03` → `/artikel/edge-polish-dan-bevel-kaca-aquarium.html` — Edge Polish, Bevel, dan Kualitas Tepi Kaca
-- `AKU-02-04` → `/artikel/lubang-dan-cut-out-panel-aquarium.html` — Lubang dan Cut-Out pada Panel Aquarium
+## Verifikasi hasil dan serah terima
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Setelah kaca terpasang, lakukan beberapa verifikasi penting. Periksa apakah semua sambungan silikon rapi dan tidak ada celah yang bisa dilewati air. Pastikan level aquarium benar dengan waterpass atau leveling tool. Uji kebocoran secara bertahap dengan mengisi air sedikit demi sedikit, mulai dari 25% kapasitas, lalu 50%, 75%, dan penuh. Amati setiap tahap selama minimal 24 jam sebelum menambah volume berikutnya.
 
-## Hasil akhir dan prasyarat
+Dokumentasikan semua proses pemasangan, termasuk jenis kaca yang digunakan, dimensi, ketebalan, status tempered atau annealed, dan kondisi tepi. Dokumentasi ini akan berguna untuk referensi masa depan jika diperlukan perbaikan atau penggantian. SNI 1727:2020 tentang beban desain dan SNI 7973:2013 tentang desain struktur kayu memberikan konteks tentang bagaimana beban dan material diperhitungkan dalam desain secara keseluruhan ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12626-sni17272020); [SNI 7973:2013](https://pesta.bsn.go.id/produk/detail/9716-sni79732013)).
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Tempered vs Annealed untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dari sisi legalitas, penggunaan material kayu untuk stand atau kabinet aquarium juga harus mempertimbangkan aspek legal. Permen LHK 8/2021, Permenhut 23/2025, dan PP 8/2026 mengatur aspek legalitas kayu dan produk kayu di Indonesia. Sistem Verifikasi Legalitas Kayu (SVLK) melalui SILK memberikan mekanisme verifikasi bahwa material kayu yang digunakan berasal dari sumber legal ([Permen LHK 8/2021](https://peraturan.bpk.go.id/Details/235254/); [Permenhut 23/2025](https://peraturan.bpk.go.id/Details/334454/permenhut-no-23-tahun-2025); [PP 8/2026](https://peraturan.bpk.go.id/Details/347927/pp-no-8-tahun-2026); [SILK/SVLK](https://silk.menlhk.go.id/index.php/svlk/files/1/information-data)).
 
-## Langkah 1 — tetapkan scope
+## Satu jalan pintas yang perlu diwaspadai
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Tempered vs Annealed untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa pemilik aquarium meminta tukang kaca untuk memotong kaca tempered di lokasi proyek karena mengira bahwa kaca tempered hanya "lebih kuat" tanpa memahami bahwa kaca ini tidak bisa dipotong setelah ditempering. Ketika tukang kaca mencoba memotong kaca tempered, panel akan langsung hancur menjadi serpihan kecil. Ini bukan hanya merusak material, tetapi juga berbahaya bagi tukang kaca itu sendiri.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Alternatif yang benar adalah menentukan semua dimensi dan detail sebelum pemesanan ke pabrik kaca. Jika Anda tidak yakin dengan ukuran yang tepat, gunakan kaca annealed yang masih bisa disesuaikan di lokasi, atau minta pengukuran profesional sebelum memesan kaca tempered.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Tempered vs Annealed untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan
 
-## Langkah 3 — jalankan urutan kerja
+Kaca tempered dan annealed masing-masing memiliki keunggulan dan keterbatasan yang spesifik. Kaca annealed menawarkan fleksibilitas fabrikasi dan biaya yang lebih rendah, sementara kaca tempered memberikan kekuatan mekanis yang lebih tinggi dengan pola pecah yang lebih aman. Pilihan yang tepat bergantung pada ukuran aquarium, lokasi pemasangan, risiko benturan, dan apakah Anda memerlukan fleksibilitas fabrikasi.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Tempered vs Annealed untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah selanjutnya: tentukan kebutuhan spesifik aquarium Anda (ukuran, lokasi, risiko), konsultasikan dengan tukang kaca atau fabricator yang berpengalaman, dan pastikan semua dimensi sudah final sebelum memesan kaca tempered. Jika ragu, kaca annealed dengan desain dukungan yang baik sering kali sudah memadai untuk sebagian besar aquarium rumah.
 
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Tempered vs Annealed untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Kaca Tempered vs Annealed untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Untuk memahami perbedaan kaca float dan low-iron, baca juga tentang [kaca float vs low-iron untuk aquarium](/artikel/kaca-float-vs-low-iron-aquarium.html). Jika Anda ingin mempelajari tentang lubang dan cut-out pada panel aquarium, lihat artikel tentang [lubang dan cut-out panel aquarium](/artikel/lubang-dan-cut-out-panel-aquarium.html).

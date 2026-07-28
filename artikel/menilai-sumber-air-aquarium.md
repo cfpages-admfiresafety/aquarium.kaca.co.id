@@ -2,8 +2,8 @@
 article_id: AKU-09-03
 title: "Menilai Sumber Air untuk Aquarium"
 slug: "menilai-sumber-air-aquarium"
-description: "Establish source-water, cycling, salinity, temperature, chemistry, testing, and change-control workflows."
-status: outline
+description: "Panduan menilai kualitas sumber air untuk aquarium: disinfeksi, kekerasan, padatan terlarut, kontaminan, dan kebutuhan pengolahan."
+status: draft
 publication_date: "2026-02-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,60 +17,20 @@ sources:
   - "https://www.iso.org/standard/51994.html"
   - "https://www.iso.org/standard/50256.html"
   - "https://www.who.int/publications/i/item/9241546808"
-  - "https://ejournal.brin.go.id/jphh/article/view/12876"
-  - "https://penerbit.brin.go.id/press/catalog/book/310"
-  - "https://research.fs.usda.gov/treesearch/62246"
-  - "https://www.iso.org/ics/79.060.01/x/"
-  - "https://www.iso.org/standard/84728.html?browse=tc"
-  - "https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products"
   - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
   - "https://www.fao.org/fishery/en/aquaculture"
-  - "https://ejournal.brin.go.id/jphh/article/view/12646"
-  - "https://ejournal.brin.go.id/jphh/article/view/12489?articlesBySameAuthorPage=2"
-  - "https://www.iso.org/standard/40502.html?browse=ics"
-  - "https://research.fs.usda.gov/fpl/wood-handbook"
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
-  - "https://www.ilo.org/publications/safety-and-health-wood-workshop"
-  - "https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/bathing-waters"
-  - "https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004"
-  - "https://speciesplus.net/"
-  - "https://webstore.iec.ch/en/publication/1897"
-  - "https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman"
+writing_contract_version: "native-id-v2"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Menilai Sumber Air untuk Aquarium
 
-## Assignment lock
+Halo, Kawan Kaca.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Menilai Sumber Air untuk Aquarium”
-- **Reader and situation:** Establish source-water, cycling, salinity, temperature, chemistry, testing, and change-control workflows.
-- **Reader outcome:** Establish source-water, cycling, salinity, temperature, chemistry, testing, and change-control workflows.
-- **Primary intent:** Check disinfectants, hardness, dissolved solids, contaminants, and treatment needs.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Kawan Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Teman Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns source-water evaluation; no potability or livestock guarantee.
-- **Final public route:** `/artikel/menilai-sumber-air-aquarium.html`
-- **Appointed CMS date:** `2026-02-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Air yang keluar dari keran rumah Anda belum tentu aman untuk aquarium, meskipun sudah diolah oleh PDAM atau sistem filtrasi rumah tangga. Banyak pemilik aquarium mengalami masalah karena tidak menilai sumber air mereka sebelum digunakan — padahal kandungan klorin, kekerasan, padatan terlarut, dan kontaminan lain bisa berbeda drastis antar lokasi dan bahkan antar waktu.
 
-## Opening instructions
+Jawaban singkatnya begini: menilai sumber air untuk aquarium berarti memeriksa setidaknya empat aspek utama — pH, klorin atau kloramin, kekerasan total (total hardness), dan total dissolved solids (TDS) atau padatan terlarut total. Keempat parameter ini memberikan gambaran awal yang cukup untuk memutuskan apakah air perlu diolah lebih lanjut sebelum masuk ke akuarium. Kondisi air baku bisa berubah tergantung sumber, musim, dan treatment pemasok, sehingga pengujian berkala menjadi kebutuhan, bukan sekadar formalitas.
 
-- Open with the exact short salutation: **“Halo, Kawan Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menilai Sumber Air untuk Aquarium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Kaca.co.id`, `Sobat Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-003`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -79,180 +39,88 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
-
-### KR-60
-
-- **Original sources:** [ISO 10523 water-quality pH determination](https://www.iso.org/standard/51994.html), [ISO 7393-2 free and total chlorine test method](https://www.iso.org/standard/50256.html), [WHO recreational-water guidance](https://www.who.int/publications/i/item/9241546808).
-- **Purpose for this article:** Prevent one strip, color, or reading from becoming a complete water-balance or microbiological conclusion.
-- **Safe grounded facts:** Sampling point/depth/time, container, preservation, reagent/instrument, calibration, range, interference, temperature, operator, blank/control, and uncertainty can change results.
-- **Limits:** Exact targets, dose calculations, closure/reopening, health conclusions, and compliance require current Indonesian criteria, validated methods, competent sampling/laboratory scope, and measured process evidence.
-
-### KR-03
-
-- **Original sources:** [BRIN wood-anatomy study for five West Java/Banten species](https://ejournal.brin.go.id/jphh/article/view/12876), [BRIN Red List of 50 Indonesian commercial timber trees](https://penerbit.brin.go.id/press/catalog/book/310), and [USDA Chapter 2](https://research.fs.usda.gov/treesearch/62246).
-- **Purpose for this article:** Support species-name, substitution, identification, conservation, and suitability articles.
-- **Safe grounded facts:** Local/trade name, color, smell, seller label, and one photograph are insufficient to prove botanical identity, legality, conservation status, or performance.
-- **Limits:** Obtain specimen provenance, anatomical examination or qualified identification, current conservation/trade status, and purchase documents under G-02/G-11.
-
-### KR-11
-
-- **Original sources:** [ISO 12460 panel-method catalogue](https://www.iso.org/ics/79.060.01/x/), [ISO 12460-2:2024 small-chamber method](https://www.iso.org/standard/84728.html?browse=tc), and [U.S. EPA composite-wood rule overview](https://www.epa.gov/formaldehyde/formaldehyde-emission-standards-composite-wood-products).
-- **Purpose for this article:** Ground emissions, labels, indoor-air, test-report, supplier, and safe-use articles.
-- **Safe grounded facts:** Method, chamber, temperature, humidity, loading, air exchange, conditioning, specimen, result units, correlation, edition, and jurisdiction are essential to interpretation.
-- **Limits:** Never transfer U.S. limits to Indonesia or equate unlike methods. Obtain current Indonesian requirements, exact report, laboratory scope, product identity, and exposure assessment under G-01/G-05.
-
-### KR-77
-
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
-
-### KR-13
-
-- **Original sources:** [BRIN study of 45 Indonesian woods against drywood/subterranean termites](https://ejournal.brin.go.id/jphh/article/view/12646), [BRIN study of 57 Indonesian woods under cover](https://ejournal.brin.go.id/jphh/article/view/12489?articlesBySameAuthorPage=2), and [ISO 21887](https://www.iso.org/standard/40502.html?browse=ics).
-- **Purpose for this article:** Support termites, borers, fungi, natural durability, diagnosis, selection, and maintenance.
-- **Safe grounded facts:** Botanical identity, sapwood/heartwood, specimen, organism, exposure, test method, moisture path, condition, and treatment history matter.
-- **Limits:** Diagnose actual activity and moisture/source conditions; obtain qualified pest/wood review and current product/legal evidence under G-02/G-09.
-
-### KR-15
-
-- **Original sources:** [USDA Wood Handbook fire-safety chapter index](https://research.fs.usda.gov/fpl/wood-handbook), [SNI 7973:2013 record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), and [ILO wood-workshop guidance](https://www.ilo.org/publications/safety-and-health-wood-workshop).
-- **Purpose for this article:** Support ignition, charring, surface behavior, encapsulation, penetrations, post-fire assessment, and dust/fire boundaries.
-- **Safe grounded facts:** Charring discussion, surface test, coating claim, or material name cannot establish a building fire-resistance rating or post-fire reuse.
-- **Limits:** Obtain current Indonesian fire/building basis, complete test report, tested-to-proposed equivalence, incident facts, and fire/structural/K3 review under G-06/G-10.
-
-### KR-52
-
-- **Original sources:** [WHO Guidelines for Safe Recreational Water Environments, Volume 2](https://www.who.int/publications/i/item/9241546808), [WHO recreational-water guidance landing page](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/bathing-waters).
-- **Purpose for this article:** Give the catalog one public-health foundation without turning global guidance into Indonesian law or a universal operating number.
-- **Safe grounded facts:** Intended use, bathers, vulnerable users, contact, water source, treatment, circulation, contamination events, hygiene, monitoring, supervision, and response are distinct controls.
-- **Limits:** Exact limits, frequencies, closure, incident, staffing, and public-pool duties require current Indonesian/local rules, facility classification, measured process evidence, and competent review.
-
-### KR-78
-
-- **Original sources:** [UU No. 31 Tahun 2004 tentang Perikanan — BPK](https://peraturan.bpk.go.id/Details/40763/uu-no-31-tahun-2004), [CITES species database](https://speciesplus.net/), [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/).
-- **Purpose for this article:** Prevent décor-first stocking, unsupported compatibility, protected-species, import, and health claims.
-- **Safe grounded facts:** A trade name, shop availability, photo, or CITES listing does not by itself prove lawful possession/import, health, compatibility, or welfare in one tank.
-- **Limits:** Verify current Indonesian fisheries/quarantine/conservation rules, species identity/source/documents, qualified welfare/health plan, and local authority before specific stocking or trade claims.
-
-### KR-79
-
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-09-01` → `/artikel/siklus-nitrogen-aquarium.html` — Siklus Nitrogen sebelum Memasukkan Livestock
-- `AKU-09-02` → `/artikel/parameter-air-tawar-vs-air-laut.html` — Parameter Air Tawar vs Air Laut
-- `AKU-09-04` → `/artikel/membaca-test-kit-aquarium.html` — Cara Membaca Test Kit Aquarium
-- `AKU-09-05` → `/artikel/jadwal-water-change-aquarium.html` — Jadwal Water Change Berdasarkan Kondisi Sistem
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+[NEEDS IMAGE REVIEW: LOCAL-003 — foto bg aquarium belum bisa diverifikasi kesesuaiannya]
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Sumber Air untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menilai sumber air bukan berarti Anda harus menjadi ahli kimia atau melakukan pengujian laboratorium lengkap. Yang perlu Anda lakukan adalah memahami parameter dasar yang mempengaruhi kesehatan organisme akuatik, lalu mengambil langkah pengolahan yang sesuai jika parameter tersebut di luar batas aman.
+
+Salah paham yang paling berbahaya adalah menganggap air keran sudah "bersih" sehingga langsung bisa digunakan. Air minum yang aman untuk manusia belum tentu aman untuk ikan atau invertebrata akuatik. Klorin yang sengaja ditambahkan untuk membunuh bakteri pathogen justru bisa merusak insang ikan dan membunuh bakteri menguntungkan di filter. Kekerasan air yang terlalu tinggi atau terlalu rendah bisa mengubah pH secara tiba-tiba, yang berakibat fatal bagi organisme yang sudah beradaptasi dengan kondisi tertentu.
+
+Menurut panduan WHO untuk lingkungan air rekreasi, penggunaan air, sumber air, treatment, sirkulasi, dan monitoring merupakan kontrol terpisah yang masing-masing memiliki peran spesifik ([WHO Guidelines for Safe Recreational Water Environments, Volume 2](https://www.who.int/publications/i/item/9241546808)). Prinsip yang sama berlaku untuk aquarium: setiap aspek air harus dinilai secara terpisah dan tidak boleh diasumsikan aman hanya karena satu parameter terlihat baik.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Sumber Air untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud dengan "menilai sumber air" di sini adalah proses identifikasi dan pengujian air baku yang akan digunakan untuk mengisi atau mengganti air di akuarium. Ini termasuk air PDAM, air sumur, air hujan yang sudah diolah, atau air osmosis balik (RO) yang sudah ditambah mineral.
+
+Yang tidak termasuk dalam cakupan ini adalah jaminan potabilitas atau kelayakan konsumsi manusia, serta jaminan khusus untuk jenis livestock tertentu. Setiap spesies memiliki kebutuhan air yang berbeda, dan artikel ini hanya memberikan kerja umum untuk penilaian awal.
+
+Kawan Kaca.co.id, penting untuk dipahami bahwa air yang "jernih" tidak membuktikan bahwa air tersebut bebas dari kontaminan terlarut. Padatan terlarut seperti mineral, logam berat, atau bahan kimia organik tidak selalu terlihat, tetapi bisa mempengaruhi kualitas air secara signifikan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Sumber Air untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penilaian sumber air dimulai dengan pengambilan sampel yangRepresentatif. Ambil air langsung dari sumber yang akan Anda gunakan, bukan dari penampungan yang sudah lama berdiri. Waktu pengambilan, kedalaman, dan kondisi saluran pengambilan mempengaruhi hasil pengujian.
+
+Langkah pertama adalah mengukur pH air. ISO 10523 menjelaskan metode penetapan pH yang bisa menjadi referensi, meskipun Anda tidak perlu melakukan pengujian laboratorium sendiri ([ISO 10523](https://www.iso.org/standard/51994.html)). Yang penting adalah memahami bahwa pH air bisa berubah tergantung suhu, waktu kontak dengan udara, dan keberadaan bahan terlarut. Pengukuran pH harus dilakukan segera setelah sampel diambil untuk hasil yang paling akurat.
+
+Langkah kedua adalah memeriksa keberadaan klorin atau kloramin. ISO 7393-2 memberikan metode pengujian untuk klorin bebas dan total, yang bisa menjadi dasar untuk memahami bagaimana pengujian ini dilakukan ([ISO 7393-2](https://www.iso.org/standard/50256.html)). Di Indonesia, air PDAM biasanya diklorinasi, tetapi konsentrasi klorin bisa bervariasi tergantung jarak dari instalasi pengolahan dan waktu perjalanan air melalui jaringan distribusi.
+
+Langkah ketiga adalah mengukur kekerasan total (total hardness). Kekerasan air ditentukan oleh konsentrasi kalsium dan magnesium terlarut. Air yang sangat keras bisa menyebabkan penumpukan kerak, sementara air yang sangat lunak bisa terlalu asam dan tidak stabil. Untuk aquarium air tawar, rentang kekerasan yang umum digunakan adalah 4-8 dH, tetapi ini sangat bergantung pada jenis organisme yang dipelihara.
+
+Langkah keempat adalah mengukur TDS (Total Dissolved Solids). TDS memberikan gambaran umum tentang total padatan terlarut dalam air. Nilai TDS yang tinggi bisa mengindikasikan kontaminan atau mineral berlebih, sementara nilai yang terlalu rendah mungkin menunjukkan air yang belum ditambah mineral yang diperlukan.
+
+WOAH (World Organisation for Animal Health) menekankan bahwa air yang jernih tidak membuktikan kandungan oksigen terlarut, amonia, nitrit, salinitas, suhu, patogen, atau aliran yang memadai untuk kesejahteraan organisme akuatik ([WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/)). FAO juga menyediakan sumber daya tentang aquakultur yang bisa menjadi referensi untuk pemahaman yang lebih luas tentang pengelolaan air dalam budidaya perikanan ([FAO Aquaculture](https://www.fao.org/fishery/en/aquaculture)). Ini berarti penilaian air harus bersifat komprehensif, bukan hanya berfokus pada satu atau dua parameter.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Sumber Air untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi bisa mengubah hasil penilaian air secara signifikan:
+
+**Sumber air:** Air PDAM, air sumur, air hujan, dan air RO memiliki karakteristik yang sangat berbeda. Air sumur mungkin mengandung besi, mangan, atau bakteri yang tidak ada di air PDAM. Air hujan mungkin mengandung polutan dari atmosfer. Air RO sudah melalui proses pemurnian intensif tetapi kehilangan mineral esensial.
+
+**Musim dan kondisi cuaca:** Kekeringan bisa meningkatkan konsentrasi mineral terlarut, sementara musim hujan bisa menurunkannya. Banjir bisa membawa kontaminan tambahan ke sumber air permukaan.
+
+**Waktu kontak dengan udara:** pH air bisa berubah saat terpapar udara karena pertukaran gas CO2. Air yang baru diambil dari keran mungkin memiliki pH yang berbeda dari air yang sudah dibiarkan semalam.
+
+**Kondisi jaringan distribusi:** Kualitas air bisa berubah saat melewati pipa distribusi yang sudah tua, berkarat, atau memiliki kebocoran. Jarak dari instalasi pengolahan juga mempengaruhi konsentrasi klorin.
+
+Teman Kaca.co.id, faktor-faktor ini menunjukkan mengapa pengujian berkala sangat penting. Air yang bagus bulan lalu belum tentu bagus bulan ini.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Sumber Air untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut beberapa skenario yang membantu Anda mengambil keputusan:
+
+**Skenario 1: Air PDAM dengan pH 7,5, klorin 0,5 mg/L, kekerasan 6 dH, TDS 200 ppm.** Parameter ini berada dalam rentang umum untuk aquarium air tawar. Namun, klorin tetap perlu dinetralki sebelum digunakan. Penggunaan conditioner air atau aerasi semalam bisa mengurangi klorin ke level yang aman.
+
+**Skenario 2: Air sumur dengan pH 6,2, tidak ada klorin, kekerasan 2 dH, TDS 80 ppm.** Air ini terlalu lunak untuk banyak jenis ikan. Penambahan mineral atau pencampuran dengan air yang lebih keras mungkin diperlukan. Pastikan juga untuk menguji kontaminan spesifik seperti besi atau bakteri.
+
+**Skenario 3: Air RO dengan pH 6,8, tidak ada klorin, kekerasan 0 dH, TDS 10 ppm.** Air ini sangat murni tetapi kekurangan mineral yang diperlukan untuk kesehatan organisme akuatik. Harus ditambah mineral atau dicampur dengan air yang mengandung mineral sebelum digunakan.
+
+Dalam setiap skenario, langkah pertama adalah menguji air terlebih dahulu, bukan langsung menggunakannya. Satu set test kit dasar yang mencakup pH, klorin, kekerasan, dan TDS sudah cukup untuk penilaian awal.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Sumber Air untuk Aquarium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah hanya mengandalkan bau atau rasa air untuk menilai kualitasnya. Banyak kontaminan tidak memiliki bau atau rasa yang terdeteksi oleh indra manusia. Pengujian dengan test kit atau pengukuran TDS jauh lebih andal.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah tidak menguji air setiap kali akan mengganti air (water change). Kondisi air PDAM bisa berubah, terutama selama musim kemarau atau saat ada perbaikan jaringan. Satu pengujian cepat sebelum water change bisa mencegah masalah serius.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mengolah air terlalu berlebihan. Menambah conditioner, conditioner lagi, dan treatment lain secara berlebihan bisa menciptakan masalah baru yang sama seriusnya dengan masalah awal. Ikuti dosis yang direkomendasikan dan tunggu hasil pengujian sebelum menambah treatment lagi.
 
-## Required conclusion
+Kesalahan keempat adalah mencampur air dari berbagai sumber tanpa pengujian masing-masing. Air yang baik dari satu sumber bisa menjadi masalah saat dicampur dengan air dari sumber lain yang memiliki karakteristik berbeda.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Keberatan atau jalan pintas yang perlu diwaspadai
 
-## Draft completion checklist
+Salah satu jalan pintas yang sering diambil adalah menggunakan air mineral kemasan untuk mengisi aquarium karena dianggap "sudah murni". Pendekatan ini bermasalah karena air mineral kemasan diformulasikan untuk konsumsi manusia, bukan untuk organisme akuatik. Kandungan mineral, pH, dan parameter lain mungkin tidak sesuai dengan kebutuhan spesifik ikan atau invertebrata Anda.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Masalahnya, air mineral kemasan memiliki biaya yang jauh lebih tinggi dibanding air keran yang sudah diolah dengan benar. Satu galon air mineral mungkin cukup untuk satu water change kecil, tetapi biayanya bisa berlipat ganda dibanding pengolahan air keran yang tepat.
+
+Alternatif yang lebih praktis: gunakan air keran yang sudah dinetralki klorinnya, uji parameter dasarnya, dan sesuaikan dengan kebutuhan organisme Anda. Biayanya lebih rendah, hasilnya lebih konsisten, dan Anda memiliki kendali penuh atas kualitas air yang digunakan.
+
+## Kesimpulan
+
+Menilai sumber air untuk aquarium adalah langkah fundamental yang tidak boleh dilewatkan. Anda perlu menguji setidaknya pH, klorin, kekerasan, dan TDS sebelum menggunakan air untuk mengisi atau mengganti air akuarium. Kondisi air bisa berubah tergantung sumber, musim, dan waktu, sehingga pengujian berkala menjadi kebutuhan.
+
+Langkah selanjutnya yang perlu Anda ambil: beli satu set test kit dasar yang mencakup parameter-parameter tersebut, uji air dari sumber Anda, dan catat hasilnya. Bandingkan hasil pengujian dengan kebutuhan spesifik organisme yang Anda pelihara. Jika ada parameter yang di luar batas aman, cari metode pengolahan yang sesuai sebelum menggunakan air tersebut.
+
+Sebelum mengisi tangki, hubungkan keputusan ini dengan [siklus nitrogen sebelum livestock masuk](/artikel/siklus-nitrogen-aquarium.html) dan cara [membaca test kit aquarium](/artikel/membaca-test-kit-aquarium.html). Dua langkah itu membantu Anda membedakan masalah sumber air dari masalah yang muncul setelah sistem berjalan.

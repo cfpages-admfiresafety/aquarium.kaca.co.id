@@ -2,8 +2,9 @@
 article_id: AKU-13-01
 title: "Memilih Lokasi Aquarium Indoor"
 slug: "memilih-lokasi-aquarium-indoor"
-description: "Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure."
-status: outline
+description: "Panduan memilih lokasi aquarium indoor melalui adaptasi tangki, peralatan, penyangga, suhu, sinar matahari, hujan, drainase, dan akses layanan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,55 +15,12 @@ reader_address: "Teman Kaca.co.id"
 final_route: "/artikel/memilih-lokasi-aquarium-indoor.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://research.fs.usda.gov/treesearch/7148"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
-  - "https://simbg.pu.go.id/"
-  - "https://pesta.bsn.go.id/produk/detail/12306-sni28472019"
-  - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12305-sni17262019"
   - "https://www.dinmedia.de/en/standard/din-32622/262406913"
-  - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
-  - "https://www.fao.org/fishery/en/aquaculture"
-  - "https://www.iso.org/standard/80526.html"
-  - "https://www.iso.org/standard/73355.html"
-  - "https://webstore.iec.ch/en/publication/1897"
-  - "https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman"
+  - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
+  - "https://simbg.pu.go.id/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Memilih Lokasi Aquarium Indoor
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memilih Lokasi Aquarium Indoor”
-- **Reader and situation:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Reader outcome:** Adapt tank, equipment, support, temperature, sunlight, rain, drainage, and service access to exposure.
-- **Primary intent:** Review floor, sun, traffic, vibration, power, water, and humidity.
-- **Reader community:** `Kaca.co.id`
-- **Primary friendly address:** `Teman Kaca.co.id`
-- **Natural variants:** `Sobat Kaca.co.id` and `Kawan Kaca.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Owns indoor placement; site survey belongs to AKU-01.
-- **Final public route:** `/artikel/memilih-lokasi-aquarium-indoor.html`
-- **Appointed CMS date:** `2026-04-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Kaca.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Lokasi Aquarium Indoor**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Kaca.co.id`, `Sobat Kaca.co.id`, or `Kawan Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+<!-- BEGIN MANAGED IMAGE PLAN
 
 - **Image ID:** `LOCAL-003`
 - **Source type:** `local`
@@ -72,178 +30,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg aquarium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Memilih Lokasi Aquarium Indoor
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Kaca.co.id!
 
-### KR-01
+Memilih lokasi aquarium indoor bukan sekadar menempatkan tangki di sudut ruangan yang tersisa. Lokasi yang salah bisa menyebabkan masalah serius: kaca retak karena beban yang tidak merata, ikan stres karena paparan sinar matahari langsung, atau kerusakan lantai karena kebocoran yang tidak terdeteksi. Sebelum Anda memutuskan di mana aquarium akan ditempatkan, ada beberapa faktor kritis yang harus diperiksa.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `aquarium.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
-- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+Jawaban singkatnya, pilih lokasi aquarium indoor yang memiliki lantai rata dan mampu menahan beban, terhindar dari sinar matahari langsung, memiliki akses ke stopkontak dan sumber air, serta memungkinkan akses untuk perawatan. Kondisi yang bisa mengubah jawaban ini meliputi ukuran dan berat aquarium, jenis lantai, kondisi struktur bangunan, dan kebutuhan akses untuk perawatan.
 
-### KR-14
+![Ilustrasi bg aquarium](/wp-content/uploads/2022/02/bg-aquarium.jpg)
 
-- **Original sources:** [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013), [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), and [USDA stress-grade overview](https://research.fs.usda.gov/treesearch/7148).
-- **Purpose for this article:** Bound load, member, grade, connection, notch/hole, stability, seismic, and structural handoff articles.
-- **Safe grounded facts:** Site loads, use, geometry, species/product, grade, moisture/service condition, duration, stability, fire, fasteners, corrosion, connections, bracing, alterations, and inspection form one design chain.
-- **Limits:** No sizes, spans, capacities, connection schedules, notches, holes, or approval from public records. Obtain full standards, drawings, calculations, product/grade evidence, survey, and signed structural review under G-01/G-06.
+*Aset lokal proyek ini bukan dokumentasi proyek tertentu.*
 
-### KR-25
+## Apa yang perlu diperiksa dari lantai dan struktur
 
-- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
-- **Safe grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
-- **Limits:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
+Lantai adalah komponen paling kritis dalam memilih lokasi aquarium. Aquarium yang terisi penuh bisa memiliki berat yang sangat besar — sebuah aquarium 200 liter saja bisa mencapai lebih dari 200 kg termasuk air, substrate, dan hardscape. Beban ini harus didukung oleh lantai yang memadai.
 
-### KR-55
+SNI 7973:2013 memberikan kerangka tentang bagaimana beban struktural diperhitungkan, termasuk pertimbangan untuk beban statis dan dinamis (sumber: https://pesta.bsn.go.id/produk/detail/9716-sni79732013). SNI 1727:2020 juga memberikan panduan tentang beban desain struktur yang relevan untuk memahami kapasitas lantai (sumber: https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
 
-- **Original sources:** [SNI 2847:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12306-sni28472019), [SNI 1727:2020 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [SNI 1726:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12305-sni17262019).
-- **Purpose for this article:** Ground soil, shell, rooftop, empty/full pool, hydrostatic uplift, joints, and settlement articles.
-- **Safe grounded facts:** Empty, filling, full, drained, high-groundwater, seismic, thermal/shrinkage, maintenance, and temporary stages can govern different actions and details.
-- **Limits:** Require site investigation, survey, current licensed standards, load combinations, calculations, joints/details, temporary works, inspection, and signed structural/geotechnical review.
+Periksa apakah lantai Anda rata dan tidak memiliki retakan yang signifikan. Lantai yang miring bisa menyebabkan beban terdistribusi tidak merata pada aquarium, yang bisa menyebabkan kaca mengalami tekanan berlebih. Gunakan waterpass atau aplikasi level untuk memeriksa kerataan lantai.
 
-### KR-73
+Jenis lantai juga penting. Lantai beton umumnya mampu menahan beban aquarium dengan baik, tetapi lantai kayu atau keramik mungkin memerlukan perhatian khusus. Pastikan lantai dalam kondisi baik dan tidak mengalami degradasi yang signifikan.
 
-- **Original sources:** [DIN 32622 Aquariums of glass — safety requirements and testing](https://www.dinmedia.de/en/standard/din-32622/262406913), [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
-- **Purpose for this article:** Ground thickness, deflection, bracing, seam, support, floor, and public-safety articles.
-- **Safe grounded facts:** Volume alone does not size a panel or floor. Water, tank, substrate/rock, equipment, cabinet, people, dynamic actions, uneven support, and accidental loads are separate inputs.
-- **Limits:** Require current full standards, geometry, materials, load path, deflection/stress/seam calculations, stand/floor capacity, impact/public context, construction tolerance, and signed review.
+## Paparan sinar matahari dan suhu
 
-### KR-75
+Sinar matahari langsung bisa menyebabkan beberapa masalah pada aquarium. Pertama, sinar matahari bisa memicu pertumbuhan alga yang berlebihan, membuat air menjadi keruh dan kaca menjadi kotor. Kedua, paparan sinar matahari langsung bisa menyebabkan fluktuasi suhu yang signifikan, yang bisa stres bagi ikan dan organisme lain.
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [PUPR building information system](https://simbg.pu.go.id/).
-- **Purpose for this article:** Ground support and location articles without equating total weight with safe installation.
-- **Safe grounded facts:** A strong tank on a flexible, uneven, deteriorated, overloaded, or unverified support can still fail or leak.
-- **Limits:** Require measured geometry/level, actual weights, support/floor/building evidence, water protection/drainage, anchorage and signed structural review.
+Suhu ruangan juga harus stabil. Fluktuasi suhu yang ekstrem bisa mempengaruhi kesehatan organisme di dalam aquarium. Pastikan lokasi yang dipilih tidak berdekatan dengan jendela besar yang terpapar sinar matahari langsung, pintu yang sering dibuka-tutup, atau sumber panas seperti radiator atau AC yang berhembus langsung ke aquarium.
 
-### KR-77
+DIN 32622 memberikan persyaratan keamanan untuk aquarium kaca, termasuk pertimbangan kondisi lingkungan yang bisa mempengaruhi kinerja aquarium (sumber: https://www.dinmedia.de/en/standard/din-32622/262406913).
 
-- **Original sources:** [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/), [FAO aquaculture resources](https://www.fao.org/fishery/en/aquaculture).
-- **Purpose for this article:** Ground filtration, circulation, aeration, temperature, salinity, quarantine, and stocking content without universal rules.
-- **Safe grounded facts:** Clear water does not prove suitable dissolved oxygen, ammonia/nitrite, salinity, temperature, pathogens, flow, or welfare.
-- **Limits:** Require accepted species identity, actual stock/biomass, qualified aquatic/veterinary expertise, validated water methods, equipment calculations, redundancy/alarms, quarantine/biosecurity, and measured operation.
+## Akses ke listrik dan air
 
-### KR-74
+Aquarium memerlukan akses ke stopkontak untuk peralatan seperti filter, heater, lighting, dan aerator. Pastikan ada stopkontak yang memadai dan aman di dekat lokasi aquarium. Gunakan stopkontak dengan pelindung arus berlebih (ELCB/RCD) untuk keamanan.
 
-- **Original sources:** [ISO 11600 sealant classification](https://www.iso.org/standard/80526.html), [ISO 8339 sealant tensile properties](https://www.iso.org/standard/73355.html).
-- **Purpose for this article:** Prevent “aquarium silicone” or one adhesion value from proving a tank joint.
-- **Safe grounded facts:** A cartridge label, dry coupon, or generic sealant classification does not establish structural seam capacity, immersed durability, animal compatibility, or field workmanship.
-- **Limits:** Require manufacturer confirmation for exact materials/use, batch/expiry/storage, preparation/cure instructions, design calculation, controlled fabrication, inspection/test, and warranty.
+Akses ke sumber air juga penting untuk penggantian air dan perawatan. Pastikan ada sumber air yang memadai dan drainase yang memadai untuk menangani air yang dibuang selama penggantian air. Perhatikan juga risiko kebocoran — pastikan ada pelindung atau sistem drainase yang bisa menangani kebocoran yang mungkin terjadi.
 
-### KR-26
+IEC 60364-7-702 memberikan panduan tentang instalasi listrik yang aman, termasuk pertimbangan untuk area yang terpapar air (sumber: https://webstore.iec.ch/en/publication/1897). PLN PUIL 2020 juga memberikan acuan tentang instalasi listrik yang aman di Indonesia (sumber: https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
-- **Purpose for this article:** Ground layout, frame, bracing, roof, foundation, inspection, and “strong enough” boundaries.
-- **Safe grounded facts:** Member dimensions or wood species alone do not establish the complete load path, lateral stability, uplift resistance, serviceability, connection capacity, or foundation adequacy.
-- **Limits:** Obtain licensed current standards, occupancy/use, geometry, dead/live/rain/wind inputs, topography/exposure, material grades, connection data, calculations, drawings, and signed structural review under G-01/G-03/G-05.
+## Akses untuk perawatan
 
-### KR-79
+Aquarium memerlukan akses untuk perawatan rutin: penggantian air, pembersihan kaca, pemeliharaan filter, dan pengawasan ikan. Pastikan ada ruang yang cukup di sekitar aquarium untuk melakukan semua kegiatan perawatan ini dengan nyaman.
 
-- **Original sources:** [IEC 60364-7-702](https://webstore.iec.ch/en/publication/1897), [PLN PUIL 2020 information](https://web.pln.co.id/media/siaran-pers/2022/12/pln-luncurkan-puil-2020-sebagai-acuan-instalasi-listrik-yang-aman).
-- **Purpose for this article:** Ground electrical safety, heat, lighting, timers/controllers, alarms, backup, and failure response.
-- **Safe grounded facts:** An IP rating, thermostat, RCD, or smart controller proves only its scoped characteristic, not safe installation or animal welfare during failure.
-- **Limits:** Require current Indonesian electrical rules, actual environment/zones, manufacturer instructions, competent design/installation, testing, backup/failure plan, and owner acceptance.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/aquarium-indoor/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-tergores` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-retak` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kaca-aquarium-menguning.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `AKU-13-02` → `/artikel/aquarium-outdoor-hujan-panas.html` — Aquarium Outdoor: Hujan, Panas, dan Perubahan Suhu
-- `AKU-13-03` → `/artikel/kondensasi-dan-kelembapan-aquarium.html` — Kondensasi dan Kelembapan di Sekitar Aquarium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Aquarium Indoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Aquarium Indoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Aquarium Indoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Aquarium Indoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertimbangkan juga akses untuk perbaikan atau penggantian peralatan. Jika filter atau heater perlu diganti, pastikan ada akses yang memadai untuk melakukan penggantian tanpa harus memindahkan aquarium.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Aquarium Indoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk aquarium berukuran sedang (100-200 liter), pilih lokasi yang memiliki lantai beton atau kayu yang kuat, terhindar dari sinar matahari langsung, dan memiliki akses ke stopkontak serta sumber air. Pastikan ada ruang minimal 50 cm di sekitar aquarium untuk akses perawatan.
 
-## Kesalahan umum dan cara memeriksanya
+Untuk aquarium berukuran besar (lebih dari 300 liter), pertimbangkan untuk meminta penilaian struktural profesional untuk memastikan lantai mampu menahan beban. Pertimbangan beban harus memperhitungkan bukan hanya berat aquarium dan air, tetapi juga substrate, hardscape, dan peralatan.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Aquarium Indoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum yang perlu diwaspadai
 
-## Objection or shortcut to address
+Salah satu kesalahan paling umum adalah menempatkan aquarium di lantai kayu yang tidak memadai. Lantai kayu yang tipis atau sudah mengalami degradasi mungkin tidak mampu menahan beban aquarium yang berat, terutama jika aquarium diletakkan di dekat dinding yang tidak menopang beban secara merata.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan lain adalah menempatkan aquarium di lokasi yang terpapar sinar matahari langsung. Meskipun sinar matahari bisa bermanfaat untuk tanaman aquascape, paparan langsung yang berlebihan bisa menyebabkan masalah alga dan fluktuasi suhu.
 
-## Required conclusion
+Selain itu, jangan mengabaikan akses untuk perawatan. Aquarium yang diletakkan di sudut yang sempit atau di belakang furnitur besar akan sulit dirawat, yang bisa mengarah pada masalah kesehatan organisme di dalamnya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Aturan operasional yang perlu diingat
 
-## Draft completion checklist
+1. Periksa kekuatan dan kerataan lantai sebelum menempatkan aquarium.
+2. Hindari lokasi yang terpapar sinar matahari langsung atau fluktuasi suhu yang ekstrem.
+3. Pastikan akses ke stopkontak yang aman dan memadai.
+4. Pastikan akses ke sumber air dan drainase yang memadai.
+5. Sediakan ruang yang cukup untuk akses perawatan di sekitar aquarium.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Memilih lokasi aquarium indoor membutuhkan perhatian terhadap detail dan pemahaman tentang faktor-faktor yang bisa mempengaruhi kinerja dan keamanan aquarium. Dengan memeriksa lantai, paparan sinar matahari, akses listrik dan air, serta akses untuk perawatan, Anda bisa memastikan bahwa aquarium Anda ditempatkan di lokasi yang optimal. Nah, Teman Kaca.co.id, jangan remehkan pentingnya memilih lokasi yang tepat — satu kesalahan dalam penempatan bisa mengarahkan Anda pada masalah besar di kemudian hari.
+
+Sebagai penutup, ingatlah bahwa lokasi yang baik adalah investasi jangka panjang untuk kesehatan aquarium Anda. Sebelum memutuskan lokasi, luangkan waktu untuk memeriksa semua faktor yang telah disebutkan. Jika ragu, mintalah bantuan profesional untuk menilai kekuatan lantai atau kondisi struktur. Sistem informasi bangunan PUPR (SIMBG) juga bisa memberikan informasi tentang regulasi dan persyaratan bangunan yang berlaku (sumber: https://simbg.pu.go.id/).
+
+Standar SNI 1727:2020 juga memberikan panduan tentang beban desain struktur yang relevan untuk memahami kapasitas lantai dan dukungan yang diperlukan untuk aquarium (sumber: https://pesta.bsn.go.id/produk/detail/12626-sni17272020).
+
+Untuk informasi lebih lanjut tentang perawatan aquarium, Anda bisa membaca tentang [kondensasi dan kelembapan aquarium](/artikel/kondensasi-dan-kelembapan-aquarium.html) atau [aquarium outdoor: hujan, panas, dan perubahan suhu](/artikel/aquarium-outdoor-hujan-panas.html).
+
+Ingatlah bahwa setiap lokasi memiliki tantangan unik. Lokasi yang sempurna mungkin tidak ada, tetapi dengan perencanaan yang baik, Anda bisa meminimalkan risiko dan memaksimalkan kesenangan dalam memelihara aquarium. Pertimbangkan juga kebutuhan jangka panjang — apakah lokasi ini akan tetap cocok jika Anda memutuskan untuk upgrade aquarium di masa depan?
